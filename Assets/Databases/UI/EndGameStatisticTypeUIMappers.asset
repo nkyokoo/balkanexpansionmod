@@ -1,0 +1,503 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9154716326689895926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeNumberOfTerritories
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeNumberOfTerritoriesTitle'
+  Description: 
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8012786582333914631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeInfluence
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeInfluenceTitle'
+  Description: '%EndGameStatisticTypeInfluenceDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1281135031
+        b: 1173288057
+        c: 798940332
+        d: -1301141564
+    serializableKey: Picto
+  Color: {r: 0.6156863, g: 0.33333334, b: 0.8470589, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &-7668028615853624354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeLongestIdeology
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeLongestIdeologyTitle'
+  Description: '%EndGameStatisticInfoTypeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 7511767
+        b: 1092986488
+        c: -28187978
+        d: 161977043
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6476513817098531306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeLongestWar
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeLongestWarTitle'
+  Description: '%EndGameStatisticInfoTypeLongestWarDescription'
+  Images:
+  - Value:
+      guid:
+        a: 975579316
+        b: 1191031005
+        c: -2014935391
+        d: -1003100822
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6373673940833720886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypePopulations
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypePopulationsTitle'
+  Description: '%EndGameStatisticTypePopulationsDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1206600528
+        b: 1312182820
+        c: -2050519914
+        d: -1436084161
+    serializableKey: Picto
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 1
+--- !u!114 &-6293572674725279387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeFood
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeFoodTitle'
+  Description: '%EndGameStatisticTypeFoodDescription'
+  Images:
+  - Value:
+      guid:
+        a: -934906379
+        b: 1258598457
+        c: 1335720347
+        d: 598072120
+    serializableKey: Picto
+  Color: {r: 0.75294125, g: 0.85098046, b: 0.18823531, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &-5671044194781819637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeCities
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeCitiesTitle'
+  Description: '%EndGameStatisticTypeCitiesDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1408840106
+        b: 1316766634
+        c: 1351289249
+        d: -1351246611
+    serializableKey: Picto
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 1
+--- !u!114 &-4961827554678630608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeBestCity
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeBestCityTitle'
+  Description: '%EndGameStatisticInfoTypeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -499199861
+        b: 1115917463
+        c: 454732953
+        d: -1940354036
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1916004647604564818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeUnits
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeUnitsTitle'
+  Description: '%EndGameStatisticTypeUnitsDescription'
+  Images:
+  - Value:
+      guid:
+        a: 3847005
+        b: 1331995578
+        c: -1561534040
+        d: 2088307954
+    serializableKey: Picto
+  Color: {r: 0.7803922, g: 0.21960786, b: 0.28627452, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 1
+--- !u!114 &-1222320859220696498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeReligionFollowers
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeReligionFollowersTitle'
+  Description: '%EndGameStatisticTypeReligionFollowersDescription'
+  Images:
+  - Value:
+      guid:
+        a: 542135855
+        b: 1237906859
+        c: -375862104
+        d: 209668228
+    serializableKey: Picto
+  Color: {r: 1, g: 0.92549026, b: 0.7490196, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &450356935278489288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeNumberOfExtensions
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeNumberOfExtensionsTitle'
+  Description: 
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1115744727502434340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeTechnologies
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeTechnologiesTitle'
+  Description: '%EndGameStatisticTypeTechnologiesDescription'
+  Images:
+  - Value:
+      guid:
+        a: 917334144
+        b: 1271390735
+        c: -577725056
+        d: 318178992
+    serializableKey: Picto
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 1
+--- !u!114 &2138520082216988732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeTradeRoads
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeTradeRoadsTitle'
+  Description: '%EndGameStatisticTypeTradeRoadsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1265305055
+        b: 1084409258
+        c: 1042053776
+        d: -2086926354
+    serializableKey: Picto
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 1
+--- !u!114 &2352190342668917303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeScience
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeScienceTitle'
+  Description: '%EndGameStatisticTypeScienceDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.18823531, g: 0.85098046, b: 0.8235295, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &2806932963796035069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeFame
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeFameTitle'
+  Description: '%EndGameStatisticTypeFameDescription'
+  Images:
+  - Value:
+      guid:
+        a: 678232807
+        b: 1177925724
+        c: 587563915
+        d: -717991984
+    serializableKey: Picto
+  Color: {r: 0.94117653, g: 0.8117648, b: 0.54901963, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &3447807279111741926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeNumberOfWonBattles
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeNumberOfWonBattlesTitle'
+  Description: 
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3585655961057630207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeMoney
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeMoneyTitle'
+  Description: '%EndGameStatisticTypeMoneyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.85098046, g: 0.6627451, b: 0.18823531, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &3744372121398642353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeStability
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeStabilityTitle'
+  Description: '%EndGameStatisticTypeStabilityDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.8313726, g: 0.09411766, b: 0.4039216, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &5664491918796636023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeNumberOfKilledUnits
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeNumberOfKilledUnitsTitle'
+  Description: 
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6266994351515631838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2124763010, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EndGameStatisticTypeIndustry
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticTypeIndustryTitle'
+  Description: '%EndGameStatisticTypeIndustryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 216147784
+        b: 1304309210
+        c: -1602481273
+        d: 1542206281
+    serializableKey: Picto
+  Color: {r: 0.85098046, g: 0.454902, b: 0.18823531, a: 1}
+  Symbol: 
+  ForceIntegerOrdinates: 0
+--- !u!114 &6989608593896265544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EndGameStatisticInfoTypeNumberOfCuriosities
+  m_EditorClassIdentifier: 
+  Title: '%EndGameStatisticInfoTypeNumberOfCuriositiesTitle'
+  Description: '%EndGameStatisticInfoTypeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -133943694
+        b: 1110485163
+        c: 102019461
+        d: 1385258453
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

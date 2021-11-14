@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1166438474132070835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeTerritory
+  m_EditorClassIdentifier: 
+  Title: '%AftermathBreakdownItemTypeTerritoryTitle'
+  Description: '%AftermathBreakdownItemTypeTerritoryDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2001117159
+        b: 1236182345
+        c: -1007240826
+        d: -1893286525
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-512307429575117375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeSettlement
+  m_EditorClassIdentifier: 
+  Title: '%AftermathBreakdownItemTypeSettlementTitle'
+  Description: '%AftermathBreakdownItemTypeSettlementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1939573981
+        b: 1292972640
+        c: 1832252077
+        d: 1915250224
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &50378021828568248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeUnitClass
+  m_EditorClassIdentifier: 
+  Title: '%AftermathBreakdownItemTypeUnitClassTitle'
+  Description: '%AftermathBreakdownItemTypeUnitClassDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1475914397
+        b: 1121209679
+        c: -1704181314
+        d: 1020548860
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1114966767171812584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeConstructibleCategory
+  m_EditorClassIdentifier: 
+  Title: '%AftermathBreakdownItemTypeConstructibleCategoryTitle'
+  Description: '%AftermathBreakdownItemTypeConstructibleCategoryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 552460302
+        b: 1194565252
+        c: -1840951126
+        d: -844193250
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5286301584500171841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeCombatStrength
+  m_EditorClassIdentifier: 
+  Title: '%AftermathBreakdownItemTypeCombatStrengthTitle'
+  Description: '%AftermathBreakdownItemTypeCombatStrengthDescription'
+  Images:
+  - Value:
+      guid:
+        a: 143282305
+        b: 1280028640
+        c: 1766937739
+        d: 405257795
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5557594027557070562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AftermathBreakdownItemTypeHealth
+  m_EditorClassIdentifier: 
+  Title: '%AftermathBreakdownItemTypeHealthTitle'
+  Description: '%AftermathBreakdownItemTypeHealthDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2143201432
+        b: 1245447409
+        c: 1688183474
+        d: 1543888733
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

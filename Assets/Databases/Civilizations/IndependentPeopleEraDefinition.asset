@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8085766752418409436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4
+  m_EditorClassIdentifier: 
+  EraIndex: 4
+  MinorFactionDensity: 0.2
+  MinorFactionStartingTurn: 5
+  MaxNumberOfMinorFactionSpawnInPercent: 0.05
+  PatronageBaseEraCost: 200
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era4_PeacefulHuman
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era4_ViolentHuman
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era4_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era4_PeacefulHuman
+  CanSpawnOnNewContinents: 1
+  CanSpawnOnIslands: 1
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+--- !u!114 &-7873432307417305199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era0
+  m_EditorClassIdentifier: 
+  EraIndex: 0
+  MinorFactionDensity: 0.5
+  MinorFactionStartingTurn: 0
+  MaxNumberOfMinorFactionSpawnInPercent: 0.5
+  PatronageBaseEraCost: 20
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era0_PeacefulAnimal
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era0_ViolentAnimal
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_PeacefulHuman
+  CanSpawnOnNewContinents: 0
+  CanSpawnOnIslands: 0
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+--- !u!114 &-4565499301117425082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1
+  m_EditorClassIdentifier: 
+  EraIndex: 1
+  MinorFactionDensity: 0.3
+  MinorFactionStartingTurn: 5
+  MaxNumberOfMinorFactionSpawnInPercent: 0.1
+  PatronageBaseEraCost: 20
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_PeacefulAnimal
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_ViolentAnimal
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_PeacefulHuman
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_ViolentHuman
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era1_PeacefulHuman
+  CanSpawnOnNewContinents: 0
+  CanSpawnOnIslands: 0
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+--- !u!114 &-38765505954232754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3
+  m_EditorClassIdentifier: 
+  EraIndex: 3
+  MinorFactionDensity: 0.2
+  MinorFactionStartingTurn: 5
+  MaxNumberOfMinorFactionSpawnInPercent: 0.05
+  PatronageBaseEraCost: 100
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era3_PeacefulHuman
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era3_ViolentHuman
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era3_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era3_PeacefulHuman
+  CanSpawnOnNewContinents: 0
+  CanSpawnOnIslands: 1
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1348675706, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeopleEraDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &1949226014647968870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2
+  m_EditorClassIdentifier: 
+  EraIndex: 2
+  MinorFactionDensity: 0.2
+  MinorFactionStartingTurn: 5
+  MaxNumberOfMinorFactionSpawnInPercent: 0.05
+  PatronageBaseEraCost: 50
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era2_PeacefulHuman
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era2_ViolentHuman
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era2_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era2_PeacefulHuman
+  CanSpawnOnNewContinents: 0
+  CanSpawnOnIslands: 0
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+--- !u!114 &5536515713478721244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era5
+  m_EditorClassIdentifier: 
+  EraIndex: 5
+  MinorFactionDensity: 0.2
+  MinorFactionStartingTurn: 5
+  MaxNumberOfMinorFactionSpawnInPercent: 0.05
+  PatronageBaseEraCost: 400
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era5_PeacefulHuman
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era5_ViolentHuman
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era5_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era5_PeacefulHuman
+  CanSpawnOnNewContinents: 1
+  CanSpawnOnIslands: 1
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+--- !u!114 &9188591423837782314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1659029620, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era6
+  m_EditorClassIdentifier: 
+  EraIndex: 6
+  MinorFactionDensity: 0.2
+  MinorFactionStartingTurn: 5
+  MaxNumberOfMinorFactionSpawnInPercent: 0.05
+  PatronageBaseEraCost: 800
+  PeacefulAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  ViolentAnimalSpawnerDefinitionReference:
+    serializableElementName: 
+  PeacefulHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era6_PeacefulHuman
+  ViolentHumanSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era6_ViolentHuman
+  ViolentCrisisSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era6_ViolentCrisis
+  PeacefulLiberateSpawnerDefinitionReference:
+    serializableElementName: IndependentPeopleSpawner_Era6_PeacefulHuman
+  CanSpawnOnNewContinents: 1
+  CanSpawnOnIslands: 1
+  FactionSpawnTerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake

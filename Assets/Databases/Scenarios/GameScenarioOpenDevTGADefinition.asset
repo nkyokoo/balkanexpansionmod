@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-293261175974154903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 61609388, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Scenario_OpenDevTGA
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: EndConditions
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.EndGameCondition[], Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|Amplitude.Mercury.Data.Simulation.EndGameCondition_EraLimit, Amplitude.Mercury.Data
+    - Name: ActivateNotification
+      Entry: 5
+      Data: true
+    - Name: EndingEraReference
+      Entry: 7
+      Data: Amplitude.Framework.DatatableElementReference, Amplitude.Framework
+    - Name: serializableElementName
+      Entry: 1
+      Data: Era5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: OptionalEmpireIndexes
+      Entry: 6
+      Data: 
+    - Name: NumberOfNecessaryEraStars
+      Entry: 3
+      Data: 0
+    - Name: OptionalTurnBeforeTrigger
+      Entry: 3
+      Data: 0
+    - Name: Trigger
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Amplitude.Mercury.Data.Simulation.EndGameCondition_TurnLimit, Amplitude.Mercury.Data
+    - Name: ActivateNotification
+      Entry: 5
+      Data: true
+    - Name: TurnLimit
+      Entry: 3
+      Data: 150
+    - Name: FirstNotificationDelay
+      Entry: 3
+      Data: 25
+    - Name: SecondNotificationDelay
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MajorEmpires:
+  - UniqueIdentifier: A
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: B
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: C
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: D
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: E
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: F
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: G
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: H
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  TerrainGuid:
+    a: -1122204779
+    b: 1198642377
+    c: 1778744751
+    d: -1043904984
+  GameSize: Large
+  GameSpeed:
+    serializableElementName: GameSpeed_Normal
+  StartingTurn: 1
+  IntroVideoRestriction: 1
+  OverrideIntroVideoWith: 
+  EraSettings:
+    EnableEraTransition: 1
+    EndingEraReference:
+      serializableElementName: Era5
+  FactionSettings:
+    FactionListMode: 1
+    SerializedFactionNames: []
+    EnableFactionUpgrade: 1
+    EnableAffinities: 1
+  ActionSettings:
+    ListMode: 1
+    ActionTypes: 
+  ConstructibleSettings:
+    EnableArtificialWonders: 1
+    ListMode: 1
+    SerializedConstructibleNames: []
+  BattleSettings:
+    RetreatAvailabilityFlags: 15
+    SurrenderSiegeAvailabilityFlags: 15
+  DiplomacySettings:
+    EnableDiplomaticGrievances: 1
+    EnableDiplomacyActions: 1
+    DiplomaticActionListMode: 1
+    DiplomaticActions: 
+    DiplomaticAbilityListMode: 1
+    DiplomaticAbilities: 0
+  TechnologySettings:
+    EnableTechnology: 1
+    ListMode: 1
+    SerializedTechnologiesNames: []
+  CivicsSettings:
+    EnableCivics: 1
+    CategoryListMode: 1
+    SerializedCategoryNames: []
+    CivicsListMode: 1
+    SerializedCivicsNames: []
+  NarrativeEventSettings:
+    EnableNarrativeEvents: 1
+    CategoryListMode: 1
+    SerializedCategoryNames: []
+    NarrativeEventListMode: 1
+    SerializedNarrativeEventNames: []
+  IdeologySettings:
+    EnableIdeologicalAxes: 1
+  CultureSettings:
+    EnableCulturePropagation: 1
+  ReligionSettings:
+    EnableReligionPropagation: 1
+    EnableReligionCreation: 1
+    EnableReformation: 1
+  MinorFactionSettings:
+    EnablePeacefulAnimalSpawn: 1
+    EnableViolentAnimalSpawn: 1
+    EnablePeacefulHumanSpawn: 1
+    EnableViolentHumanSpawn: 1
+    EnableCrisisSpawn: 1
+  CuriositySettings:
+    EnableCuriositySpawn: 1
+    ListMode: 1
+    SerializedCuriosityNames: []
+  EraStarSettings:
+    EnableEraStars: 1
+    EraStarsListMode: 1
+    SerializedEraStarNames: []
+    OverrideMaxLevel: 0
+    MaxLevel: 0
+    OverrideFameGain: 0
+    FameGain:
+      RawValue: 0
+    EraStarOverrides: []
+    EnableEraStarCatchup: 1
+  WorldDeedSettings:
+    EnableWorldDeeds: 1
+    WorldDeedsListMode: 1
+    SerializedWorldDeedNames: []
+  NaturalWonderSettings:
+    EnableExplorationNotification: 1
+  TutorialSettings:
+    EnableTutorial: 1
+    TutorialListMode: 1
+    SerializedTutorialNames: []
+  PreventToContinuePlaying: 0
+  OverwriteDefaultEndGameCondition: 0
+  EditionOrdersGuid:
+    a: 136856048
+    b: 1332500070
+    c: -117125475
+    d: -724783466
+  SaveName: Scenario_OpenDevTGA
+  ActivateNarrator: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1821263129, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: GameScenarioOpenDevTGADefinition
+  m_EditorClassIdentifier: 

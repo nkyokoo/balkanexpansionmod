@@ -1,0 +1,1229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5659458716703957960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/MinorFactionSpawnPoint'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/MinorFactionSpawnPoint'
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: SpawnPoint_PeacefulAnimal
+    Value:
+      a: 1963519442
+      b: 1247929989
+      c: -85999708
+      d: 568703578
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SpawnPoint_PeacefulHuman
+    Value:
+      a: 1754961388
+      b: 1295147326
+      c: 230246317
+      d: 1556316630
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SpawnPoint_ViolentAnimal
+    Value:
+      a: 2069880445
+      b: 1275520036
+      c: 2031816112
+      d: -578482305
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SpawnPoint_ViolentCrisis
+    Value:
+      a: 1876211186
+      b: 1160642828
+      c: 805562242
+      d: 709621307
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SpawnPoint_ViolentHuman
+    Value:
+      a: 1876211186
+      b: 1160642828
+      c: 805562242
+      d: 709621307
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-2274713757013629833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArtificialWonder
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: ArtificialWonder
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Extension_ArtificialWonder_Era1_HangingGardensOfBabylon
+    Value:
+      a: -1178215211
+      b: 1294491514
+      c: -384522832
+      d: -1377559511
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era1_PyramidOfGiza
+    Value:
+      a: -990005106
+      b: 1219570739
+      c: -903246416
+      d: -2056437699
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era1_Stonehenge
+    Value:
+      a: -1688543357
+      b: 1213427654
+      c: -845039959
+      d: -784607030
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era1_TempleOfArtemis
+    Value:
+      a: -1466173770
+      b: 1133830987
+      c: 1932388253
+      d: 1057243005
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era2_ColossusOfRhodes
+    Value:
+      a: -101790119
+      b: 1148761173
+      c: 908965821
+      d: 1008555433
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era2_LighthouseOfAlexandria
+    Value:
+      a: 1574750214
+      b: 1164357897
+      c: -1823477584
+      d: -204428927
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era2_MausoleumAtHalicarnassus
+    Value:
+      a: -1980315334
+      b: 1182299187
+      c: 1223065731
+      d: 1960595824
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era2_StatueOfZeus
+    Value:
+      a: -1972908968
+      b: 1160689237
+      c: -829364034
+      d: -462059166
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era3_AngkorWat
+    Value:
+      a: 1441173857
+      b: 1230698393
+      c: -542482770
+      d: -1523532545
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era3_ForbiddenCity
+    Value:
+      a: -751917036
+      b: 1092816905
+      c: 680558214
+      d: -293220729
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era3_NotreDameDeParis
+    Value:
+      a: -1204169175
+      b: 1224667986
+      c: -455224924
+      d: 1813015868
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era3_TodaiJi
+    Value:
+      a: -174409657
+      b: 1315737041
+      c: -1856344936
+      d: 525816061
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era4_MachuPicchu
+    Value:
+      a: 619688208
+      b: 1340931270
+      c: -1423549047
+      d: -743666647
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era4_SaintBasilsCathedral
+    Value:
+      a: 677573456
+      b: 1308263126
+      c: 132407684
+      d: 1277531029
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era4_TajMahal
+    Value:
+      a: 616054430
+      b: 1145429349
+      c: -1580683346
+      d: 1514576940
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era4_TopkapiPalace
+    Value:
+      a: 1733452272
+      b: 1196146178
+      c: 1963388569
+      d: 1674222976
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era5_BigBen
+    Value:
+      a: -402602663
+      b: 1224035708
+      c: 1476194949
+      d: 2122649124
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era5_EiffelTower
+    Value:
+      a: 743023857
+      b: 1162924071
+      c: -938771272
+      d: -1142396287
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era5_StatueOfLiberty
+    Value:
+      a: 1267199083
+      b: 1228402603
+      c: 1102159530
+      d: 123634687
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era6_ChristTheRedeemer
+    Value:
+      a: 29630181
+      b: 1217247108
+      c: -399487569
+      d: 671006123
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era6_EmpireStateBuilding
+    Value:
+      a: 1026998360
+      b: 1245299434
+      c: -1957837919
+      d: 191555089
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_ArtificialWonder_Era6_SydneyOperaHouse
+    Value:
+      a: -880268675
+      b: 1291217970
+      c: -401130054
+      d: 1671309043
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-998520329232579620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HolySite
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: HolySite
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Extension_HolySite
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Buddhism
+    Value:
+      a: 407180302
+      b: 1236385197
+      c: -1441826898
+      d: -250303064
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Christianism
+    Value:
+      a: -1896472285
+      b: 1099333146
+      c: 1971640468
+      d: 1315668921
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Hinduism
+    Value:
+      a: 201180298
+      b: 1290270671
+      c: -854159731
+      d: -281406365
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Islam
+    Value:
+      a: 903354559
+      b: 1246184967
+      c: 717825165
+      d: -1524447718
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Judaism
+    Value:
+      a: 533453990
+      b: 1240641029
+      c: -386006638
+      d: 1311966269
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Polytheism
+    Value:
+      a: 978701779
+      b: 1340680341
+      c: -987440757
+      d: 267376689
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Shamanism
+    Value:
+      a: -677947169
+      b: 1246137500
+      c: 496779442
+      d: 948518309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Shintoism
+    Value:
+      a: -528077317
+      b: 1233777441
+      c: 792798394
+      d: -986620109
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Taoism
+    Value:
+      a: 1961625121
+      b: 1236647271
+      c: 1932687259
+      d: -1411653314
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Zoroastrism
+    Value:
+      a: -1631458821
+      b: 1138913060
+      c: -279734881
+      d: 41437820
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299993223, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DistrictDefinition_ContentCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &5508426352888493525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/Main.Level2'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/Main'
+  contentType: 4
+  commonCriteriaName: Level2
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: ActionVisualAffinity_CampRelocationCenter
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_CleanRuin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_SettlementEvolution
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_ArtificialWonder
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_AdministrativeCenter
+    Value:
+      a: 293358133
+      b: 1221378533
+      c: 99140484
+      d: -1783039363
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airfield
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airport
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_CityCenter
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Extractor
+    Value:
+      a: 504730768
+      b: 1268194640
+      c: 137269921
+      d: 1855867706
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Food
+    Value:
+      a: -483468243
+      b: 1143823600
+      c: -833201240
+      d: -813457419
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Harbour
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_HarbourCamp
+    Value:
+      a: 1135955116
+      b: 1293714479
+      c: 321596598
+      d: -1162436722
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Industry
+    Value:
+      a: 1089599671
+      b: 1133391843
+      c: 9456575
+      d: -2076301863
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Luxury
+    Value:
+      a: 504730768
+      b: 1268194640
+      c: 137269921
+      d: 1855867706
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_LuxuryExtractor
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Military
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Money
+    Value:
+      a: -1168917744
+      b: 1161940306
+      c: 2058559922
+      d: 1925924458
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_NaturalReserve
+    Value:
+      a: -202680709
+      b: 1192053512
+      c: 520083892
+      d: -953031981
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Order
+    Value:
+      a: -1894489701
+      b: 1321481448
+      c: 1504169644
+      d: -1635025731
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Science
+    Value:
+      a: 40116825
+      b: 1132055353
+      c: 1470035872
+      d: 1004740666
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Strategic
+    Value:
+      a: 504730768
+      b: 1268194640
+      c: 137269921
+      d: 1855867706
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_StrategicExtractor
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_TrainStation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_VillageCenter
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Camp_BeforeCamp
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Camp_CampCenter
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Construction
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Emblematic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Exploitation
+    Value:
+      a: -1647419315
+      b: 1239788285
+      c: 1025218950
+      d: -162069500
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_HolySite
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_MissileSilo
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_PublicOrder
+    Value:
+      a: -1894489701
+      b: 1321481448
+      c: 1504169644
+      d: -1635025731
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Reforestation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Ruin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Wondrous_Resource
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_WondrousExtractor
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_NuclearTest
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SatelliteLaunch
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SpaceLaunch
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SettlementEvolutionVisualAffinity_Camp
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SettlementEvolutionVisualAffinity_City
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &8056578193467714085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/Main.Level1'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/Main'
+  contentType: 4
+  commonCriteriaName: Level1
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: ActionVisualAffinity_CampRelocationCenter
+    Value:
+      a: -1656265994
+      b: 1121192605
+      c: -589092724
+      d: 103965325
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_CleanRuin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_SettlementEvolution
+    Value:
+      a: -1114765624
+      b: 1118647413
+      c: 25841286
+      d: -1692364980
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_ArtificialWonder
+    Value:
+      a: -1382607685
+      b: 1235082577
+      c: -984445792
+      d: 737737697
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_AdministrativeCenter
+    Value:
+      a: 293358133
+      b: 1221378533
+      c: 99140484
+      d: -1783039363
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airfield
+    Value:
+      a: 1548809678
+      b: 1098698432
+      c: 735954061
+      d: -815640957
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airport
+    Value:
+      a: 320213498
+      b: 1109286520
+      c: 75409
+      d: 1254567544
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_CityCenter
+    Value:
+      a: 293358133
+      b: 1221378533
+      c: 99140484
+      d: -1783039363
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Extractor
+    Value:
+      a: 504730768
+      b: 1268194640
+      c: 137269921
+      d: 1855867706
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Food
+    Value:
+      a: -1632914879
+      b: 1264979107
+      c: -860135776
+      d: 898048793
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Harbour
+    Value:
+      a: 1135955116
+      b: 1293714479
+      c: 321596598
+      d: -1162436722
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_HarbourCamp
+    Value:
+      a: 1135955116
+      b: 1293714479
+      c: 321596598
+      d: -1162436722
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Industry
+    Value:
+      a: 149945011
+      b: 1306056350
+      c: 1706429623
+      d: -368887441
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Luxury
+    Value:
+      a: 504730768
+      b: 1268194640
+      c: 137269921
+      d: 1855867706
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_LuxuryExtractor
+    Value:
+      a: 1988969195
+      b: 1334608446
+      c: 983038088
+      d: 1572433584
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Military
+    Value:
+      a: 1990225763
+      b: 1262659521
+      c: 1233462935
+      d: -36990848
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Money
+    Value:
+      a: -1482860262
+      b: 1190406099
+      c: -1169012827
+      d: 610018136
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_NaturalReserve
+    Value:
+      a: -202680709
+      b: 1192053512
+      c: 520083892
+      d: -953031981
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Order
+    Value:
+      a: 307882725
+      b: 1278992011
+      c: 560327327
+      d: 373902021
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Science
+    Value:
+      a: -1639900576
+      b: 1293949395
+      c: -1082914943
+      d: -1649882845
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Strategic
+    Value:
+      a: 504730768
+      b: 1268194640
+      c: 137269921
+      d: 1855867706
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_StrategicExtractor
+    Value:
+      a: -1407686198
+      b: 1125616415
+      c: 507098042
+      d: -1286873686
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_TrainStation
+    Value:
+      a: 1982905291
+      b: 1104611646
+      c: -299747154
+      d: -698090870
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_VillageCenter
+    Value:
+      a: -1188578067
+      b: 1286361455
+      c: 1991138444
+      d: -1927590703
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Camp_BeforeCamp
+    Value:
+      a: -265854121
+      b: 1150529438
+      c: 1144134323
+      d: -2078184229
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Camp_CampCenter
+    Value:
+      a: -1656265994
+      b: 1121192605
+      c: -589092724
+      d: 103965325
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Construction
+    Value:
+      a: 892156233
+      b: 1166222478
+      c: 641474442
+      d: 558223360
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Emblematic
+    Value:
+      a: -1319962512
+      b: 1197477364
+      c: 798403244
+      d: 1250349667
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Exploitation
+    Value:
+      a: -1159758264
+      b: 1149827485
+      c: 2031152290
+      d: 1958806619
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_HolySite
+    Value:
+      a: -1674189652
+      b: 1156219232
+      c: 1325226633
+      d: -1273229686
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_MissileSilo
+    Value:
+      a: -1158439761
+      b: 1096327552
+      c: -1625448046
+      d: -477384506
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_PublicOrder
+    Value:
+      a: 307882725
+      b: 1278992011
+      c: 560327327
+      d: 373902021
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Reforestation
+    Value:
+      a: 625411593
+      b: 1108010224
+      c: 1113817525
+      d: 2074829240
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Ruin
+    Value:
+      a: -2003449775
+      b: 1254619917
+      c: -1664802931
+      d: -842071127
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Wondrous_Resource
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_WondrousExtractor
+    Value:
+      a: 1988969195
+      b: 1334608446
+      c: 983038088
+      d: 1572433584
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_NuclearTest
+    Value:
+      a: -1883953677
+      b: 1215187674
+      c: -1533191005
+      d: -2060159479
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SatelliteLaunch
+    Value:
+      a: 1708676664
+      b: 1196002645
+      c: -305692763
+      d: 1766765912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SpaceLaunch
+    Value:
+      a: -711220426
+      b: 1124345735
+      c: -1819569492
+      d: 72056027
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SettlementEvolutionVisualAffinity_Camp
+    Value:
+      a: -1656265994
+      b: 1121192605
+      c: -589092724
+      d: 103965325
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: SettlementEvolutionVisualAffinity_City
+    Value:
+      a: 293358133
+      b: 1221378533
+      c: 99140484
+      d: -1783039363
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0

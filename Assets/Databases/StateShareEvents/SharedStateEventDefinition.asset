@@ -1,0 +1,1503 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7975705974476313016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -695903282, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeHaveXArtificialWonders
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 0
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeHaveXArtificialWondersTitle'
+  PublisherDescription: '%PublisherChallengeHaveXArtificialWondersDescription'
+  SubscriberDescription: '%SubscriberChallengeHaveXArtificialWondersDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &-7891687552616707277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1079338332, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryMakeOtherEmpireAVassal
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryMakeOtherEmpireAVassalTitle'
+  PublisherDescription: '%PublisherMemoryMakeOtherEmpireAVassalDescription'
+  SubscriberDescription: 
+--- !u!114 &-7442221996923741203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 356346651, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryReceiveDeclarationOfWar
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryReceiveDeclarationOfWarTitle'
+  PublisherDescription: '%PublisherMemoryReceiveDeclarationOfWarDescription'
+  SubscriberDescription: 
+--- !u!114 &-7262625197982331851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 845086041, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryEventFirstTimeEarnedThreeEraStarsInCategory
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryEventFirstTimeEarnedThreeEraStarsInCategoryTitle'
+  PublisherDescription: '%PublisherMemoryEventFirstTimeEarnedThreeEraStarsInCategoryDescription'
+  SubscriberDescription: 
+--- !u!114 &-6675699153739998075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1263751947, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyFoundArtificialWonder
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyFoundArtificialWonderTitle'
+  PublisherDescription: '%PublisherArchaeologyFoundArtificialWonderDescription'
+  SubscriberDescription: 
+  CuriosityType: 2
+--- !u!114 &-6609227494660305624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 908998009, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryWinWar
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 2
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryWinWarTitle'
+  PublisherDescription: '%PublisherMemoryWinWarDescription'
+  SubscriberDescription: 
+--- !u!114 &-6262854576742556634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1030367657, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeAquireCivics
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeAcquireCivicsTitle'
+  PublisherDescription: '%PublisherChallengeAcquireCivicsDescription'
+  SubscriberDescription: '%SubscriberChallengeAcquireCivicsDescription'
+  Reward:
+    serializableElementName: FameReward_Small
+--- !u!114 &-5983475394620433371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -725291997, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeWinWar
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeWinWarTitle'
+  PublisherDescription: '%PublisherChallengeWinWarDescription'
+  SubscriberDescription: '%SubscriberChallengeWinWarDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &-5565694923299358330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra3
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 4
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 3
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  MinUnitsKilledRequirement: 4
+  MinUnitsInvolvedRequirement: 4
+  MinWarDurationRequirement: 4
+--- !u!114 &-4831707128407223067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1013863551, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyFoundHolySite
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyFoundHolySiteTitle'
+  PublisherDescription: '%PublisherArchaeologyFoundHolySiteDescription'
+  SubscriberDescription: 
+  CuriosityType: 1
+--- !u!114 &-4012751355012427369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1693637653, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryAdvanceEra
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryAdvanceEraTitle'
+  PublisherDescription: '%PublisherMemoryAdvanceEraDescription'
+  SubscriberDescription: 
+--- !u!114 &-3437952989852407896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 944537077, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryReligionAdoptedByOther
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryReligionAdoptedByOtherTitle'
+  PublisherDescription: '%PublisherMemoryReligionAdoptedByOtherDescription'
+  SubscriberDescription: 
+--- !u!114 &-2947570226548083294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -861816596, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeAquireReligiousTenet
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeAcquireReligiousTenetTitle'
+  PublisherDescription: '%PublisherChallengeAcquireReligiousTenetDescription'
+  SubscriberDescription: '%SubscriberChallengeAcquireReligiousTenetDescription'
+  Reward:
+    serializableElementName: FameReward_Small
+--- !u!114 &-2803988744055915743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 3
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 2
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  MinUnitsKilledRequirement: 3
+  MinUnitsInvolvedRequirement: 3
+  MinWarDurationRequirement: 3
+--- !u!114 &-2391985687614233707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1540313403, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeAchieveGameVictory
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeAchieveGameVictoryTitle'
+  PublisherDescription: '%PublisherChallengeAchieveGameVictoryDescription'
+  SubscriberDescription: '%SubscriberChallengeAchieveGameVictoryDescription'
+  Reward:
+    serializableElementName: FameReward_Small
+--- !u!114 &-1908635316972418369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 246805576, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeEstablishXTradeRoutes
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 0
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeEstablishXTradeRoutesTitle'
+  PublisherDescription: '%PublisherChallengeEstablishXTradeRoutesDescription'
+  SubscriberDescription: '%SubscriberChallengeEstablishXTradeRoutesDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &-1692689790255781525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -64265581, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryBuildArtificialWonder
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryBuildArtificialWonderTitle'
+  PublisherDescription: '%PublisherMemoryBuildArtificialWonderDescription'
+  SubscriberDescription: 
+--- !u!114 &-1344284433885842315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1501175489, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryFoundCity
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryFoundCityTitle'
+  PublisherDescription: '%PublisherMemoryFoundCityDescription'
+  SubscriberDescription: 
+--- !u!114 &-689316553197693239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1385357866, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeFoundArtificialWonder
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeFoundArtificialWonderTitle'
+  PublisherDescription: '%PublisherChallengeFoundArtificialWonderDescription'
+  SubscriberDescription: '%SubscriberChallengeFoundArtificialWonderDescription'
+  Reward:
+    serializableElementName: FameReward_Small
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1582774643, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SharedStateEventDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &1008361778290536226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 481048714, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryIssueDeclarationOfWar
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryIssueDeclarationOfWarTitle'
+  PublisherDescription: '%PublisherMemoryIssueDeclarationOfWarDescription'
+  SubscriberDescription: 
+--- !u!114 &1216183202821503289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1747207757, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryRespondToNarrativeEvent
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryRespondToNarrativeEventTitle'
+  PublisherDescription: '%PublisherMemoryRespondToNarrativeEventDescription'
+  SubscriberDescription: 
+--- !u!114 &1417142152954487209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1897258013, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeBuildExtension
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeBuildExtensionTitle'
+  PublisherDescription: '%PublisherChallengeBuildExtensionDescription'
+  SubscriberDescription: '%SubscriberChallengeBuildExtensionDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &1449978361219073955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 761031965, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeDiscoverXNaturalWonders
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 0
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeDiscoverXNaturalWondersTitle'
+  PublisherDescription: '%PublisherChallengeDiscoverXNaturalWondersDescription'
+  SubscriberDescription: '%SubscriberChallengeDiscoverXNaturalWondersDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &1520153174472680218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1797471679, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeTurn
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 0
+  PublisherNotifyCompletion: 0
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeTurnTitle'
+  PublisherDescription: '%PublisherChallengeTurnDescription'
+  SubscriberDescription: '%SubscriberChallengeTurnDescription'
+  Reward:
+    serializableElementName: 
+  TutorialTurnTrigger: 2
+--- !u!114 &2115543502118335684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -525571625, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryEscapeVassalage
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryEscapeVassalageTitle'
+  PublisherDescription: '%PublisherMemoryEscapeVassalageDescription'
+  SubscriberDescription: 
+--- !u!114 &3277418573523922868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 554994827, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryEndWar
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryEndWarTitle'
+  PublisherDescription: '%PublisherMemoryEndWarDescription'
+  SubscriberDescription: '%SubscriberMemoryEndWarDescription'
+--- !u!114 &4457663403850676504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2029444914, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryAdoptedOtherReligion
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryAdoptedOtherReligionTitle'
+  PublisherDescription: '%PublisherMemoryAdoptedOtherReligionDescription'
+  SubscriberDescription: 
+--- !u!114 &5001165841318370560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1712669945, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryBetrayAlly
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryBetrayAllyTitle'
+  PublisherDescription: '%PublisherMemoryBetrayAllyDescription'
+  SubscriberDescription: 
+--- !u!114 &5068670857089509080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1417345589, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeBuildInfrastructure
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeBuildInfrastructureTitle'
+  PublisherDescription: '%PublisherChallengeBuildInfrastructureDescription'
+  SubscriberDescription: '%SubscriberChallengeBuildInfrastructureDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &5718664953949260948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890873580, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryNationalProject
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryNationalProjectTitle'
+  PublisherDescription: '%PublisherMemoryNationalProjectDescription'
+  SubscriberDescription: 
+--- !u!114 &5830754141147806163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -917523870, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeAquireTechnology
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeAcquireTechnologyTitle'
+  PublisherDescription: '%PublisherChallengeAcquireTechnologyDescription'
+  SubscriberDescription: '%SubscriberChallengeAcquireTechnologyDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &5882480501651933641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1641741531, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryNegotiateAlliance
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherMemoryNegotiateAllianceTitle'
+  PublisherDescription: '%PublisherMemoryNegotiateAllianceDescription'
+  SubscriberDescription: 
+--- !u!114 &6765001412899949691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -7173879, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeHaveXCities
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 0
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeHaveXCitiesTitle'
+  PublisherDescription: '%PublisherChallengeHaveXCitiesDescription'
+  SubscriberDescription: '%SubscriberChallengeHaveXCitiesDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &6904127135821215306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1299974646, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyFoundCity
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyFoundCityTitle'
+  PublisherDescription: '%PublisherArchaeologyFoundCityDescription'
+  SubscriberDescription: 
+  CuriosityType: 0
+--- !u!114 &6935156572455054183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1654461742, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeCircumnavigateWorld
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeCircumnavigateWorldTitle'
+  PublisherDescription: '%PublisherChallengeCircumnavigateWorldDescription'
+  SubscriberDescription: '%SubscriberChallengeCircumnavigateWorldDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &6993022667121898594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101213619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryLoseWar
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: 
+  PublisherDescription: 
+  SubscriberDescription: 
+--- !u!114 &7082410587366747120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra1
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 2
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 1
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era1
+  MinUnitsKilledRequirement: 2
+  MinUnitsInvolvedRequirement: 2
+  MinWarDurationRequirement: 2
+--- !u!114 &7224692423568427971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra6
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 7
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 6
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era6
+  MinUnitsKilledRequirement: 7
+  MinUnitsInvolvedRequirement: 7
+  MinWarDurationRequirement: 7
+--- !u!114 &7564620459814081406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1336906346, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeEliminateEmpire
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeEliminateEmpireTitle'
+  PublisherDescription: '%PublisherChallengeEliminateEmpireDescription'
+  SubscriberDescription: '%SubscriberChallengeEliminateEmpireDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &7936781351049301611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -419580443, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeAquireFame
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 0
+  PublisherNotifyCompletion: 0
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeAcquireFameTitle'
+  PublisherDescription: '%PublisherChallengeAcquireFameDescription'
+  SubscriberDescription: '%SubscriberChallengeAcquireFameDescription'
+  Reward:
+    serializableElementName: 
+--- !u!114 &8126886306970769650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1053616072, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MemoryBetrayedByAlly
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: 
+  PublisherDescription: 
+  SubscriberDescription: 
+--- !u!114 &8137907438270723897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -798440271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ChallengeControlTerritoryWithNaturalWonder
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 0
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherChallengeControlTerritoryWithNaturalWonderTitle'
+  PublisherDescription: '%PublisherChallengeControlTerritoryWithNaturalWonderDescription'
+  SubscriberDescription: '%SubscriberChallengeControlTerritoryWithNaturalWonderDescription'
+  Reward:
+    serializableElementName: FameReward_Small
+--- !u!114 &8310505045967859901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra5
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 6
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 5
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era5
+  MinUnitsKilledRequirement: 6
+  MinUnitsInvolvedRequirement: 6
+  MinWarDurationRequirement: 6
+--- !u!114 &8602505750606451746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra0
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 0
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era0
+  MinUnitsKilledRequirement: 1
+  MinUnitsInvolvedRequirement: 1
+  MinWarDurationRequirement: 1
+--- !u!114 &8835777886773723307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2128360814, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ArchaeologyEventDefinitionGreatBattleEra4
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 5
+  Hidden: 0
+  IsObsolete: 1
+  Repeatable: 1
+  PublisherNotifyCompletion: 1
+  Priority: 4
+  TurnProximityThreshold: 0
+  Title: '%PublisherArchaeologyEventDefinitionGreatBattleTitle'
+  PublisherDescription: '%PublisherArchaeologyEventDefinitionGreatBattleDescription'
+  SubscriberDescription: 
+  CuriosityType: 3
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  MinUnitsKilledRequirement: 5
+  MinUnitsInvolvedRequirement: 5
+  MinWarDurationRequirement: 5

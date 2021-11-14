@@ -1,0 +1,1262 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8989723418496064797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_OnCreationSpawnClone_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_OnCreationSpawnCloneTitle'
+  Description: '%UnitSpecialty_OnCreationSpawnCloneDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8831399462609668104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_DebuffTargetStun
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_DebuffTargetStunTitle'
+  Description: '%UnitSpecialty_DebuffTargetStunDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8763093153449910809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_AntiAircraft_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_AntiAircraftTitle'
+  Description: '%UnitSpecialty_AntiAircraftDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8565045906198996411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_SiegeHigherStabilityDrain_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_SiegeHigherStabilityDrainTitle'
+  Description: '%UnitSpecialty_SiegeHigherStabilityDrainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8284544456509236720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_RetaliationAgainstRanged
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_RetaliationAgainstRangedTitle'
+  Description: '%UnitSpecialty_RetaliationAgainstRangedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7977201339031082934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromAdvancedTerrain_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromAdvancedTerrainTitle'
+  Description: '%UnitSpecialty_StrengthFromAdvancedTerrainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7918753498644503698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_ChargeNoRetaliation_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ChargeNoRetaliationTitle'
+  Description: '%UnitSpecialty_ChargeNoRetaliationDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7772662291821467588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NuclearDevice
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NuclearDeviceTitle'
+  Description: '%UnitSpecialty_NuclearDeviceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7672860423384897540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_LostAtSeaDeath
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_LostAtSeaDeathTitle'
+  Description: '%UnitSpecialty_LostAtSeaDeathDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7142136627816104552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NoPenaltyFromDamage
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NoPenaltyFromDamageTitle'
+  Description: '%UnitSpecialty_NoPenaltyFromDamageDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7054989610882344133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_AfterAttackingAllowMove
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_AfterAttackingAllowMoveTitle'
+  Description: '%UnitSpecialty_AfterAttackingAllowMoveDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6483322874044976981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Shatter
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ShatterTitle'
+  Description: '%UnitSpecialty_ShatterDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6381175023850834976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_SettlerPackage02
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_SettlerPackage02Title'
+  Description: '%UnitSpecialty_SettlerPackage02Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6250690727883782480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NoMovementPenaltiesFromForests
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NoMovementPenaltiesFromForestsTitle'
+  Description: '%UnitSpecialty_NoMovementPenaltiesFromForestsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6182771193938778600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_MoveUntilExhausted
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_MoveUntilExhaustedTitle'
+  Description: '%UnitSpecialty_MoveUntilExhaustedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6062474169109224002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Immobile
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ImmobileTitle'
+  Description: '%UnitSpecialty_ImmobileDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5648092318555869283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromAttack_Level2
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromAttackLevel2Title'
+  Description: '%UnitSpecialty_StrengthFromAttackLevel2Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5587709093321210747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Privateer
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_PrivateerTitle'
+  Description: '%UnitSpecialty_PrivateerDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5425008319455053943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Charge_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ChargeTitle'
+  Description: '%UnitSpecialty_ChargeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5244540293647948409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromTerrain_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromTerrainTitle'
+  Description: '%UnitSpecialty_StrengthFromTerrainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5043312501121708558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromDifferentReligion_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromDifferentReligionTitle'
+  Description: '%UnitSpecialty_StrengthFromDifferentReligionDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4753290048279098949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromFriendlyDistrict_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromFriendlyDistrictTitle'
+  Description: '%UnitSpecialty_StrengthFromFriendlyDistrictDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-3931523817665605472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromAlliesAdjacentToUser_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromAlliesAdjacentToUserTitle'
+  Description: '%UnitSpecialty_StrengthFromAlliesAdjacentToUserDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-3571981633482638811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_BombardMultipleUses_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_BombardMultipleUsesTitle'
+  Description: '%UnitSpecialty_BombardMultipleUsesDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2755156035000791010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromWeakerTarget_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromWeakerTargetTitle'
+  Description: '%UnitSpecialty_StrengthFromWeakerTargetDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2713266914644162418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromAttack_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromAttackTitle'
+  Description: '%UnitSpecialty_StrengthFromAttackDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2699654941986276002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StealthWhenAttacking
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StealthWhenAttackingTitle'
+  Description: '%UnitSpecialty_StealthWhenAttackingDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2473823008242646181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_ZoneOfControlIncreasedSize_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ZoneOfControlIncreasedSizeTitle'
+  Description: '%UnitSpecialty_ZoneOfControlIncreasedSizeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2345851407937877536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_BuffAlliesStrengthFromStrongerTarget_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_BuffAlliesStrengthFromStrongerTargetTitle'
+  Description: '%UnitSpecialty_BuffAlliesStrengthFromStrongerTargetDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2339169291931759165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_IgnoreLineOfSight
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_IgnoreLineOfSightTitle'
+  Description: '%UnitSpecialty_IgnoreLineOfSightDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2286537796254878771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NoMovementPenaltiesFromLandTerrain
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NoMovementPenaltiesFromLandTerrainTitle'
+  Description: '%UnitSpecialty_NoMovementPenaltiesFromLandTerrainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2247087266770127912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Stealth
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StealthTitle'
+  Description: '%UnitSpecialty_StealthDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2201257596929617725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_LostAtSeaNever
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_LostAtSeaNeverTitle'
+  Description: '%UnitSpecialty_LostAtSeaNeverDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1841746355162620955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_CannotAttack
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_CannotAttackTitle'
+  Description: '%UnitSpecialty_CannotAttackDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1162690031030368828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromFirstRound_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromFirstRoundTitle'
+  Description: '%UnitSpecialty_StrengthFromFirstRoundDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-121586456004668629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_LostAtSeaDamage_Level3
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_LostAtSeaDamageLevel3Title'
+  Description: '%UnitSpecialty_LostAtSeaDamageLevel3Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialtyUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &143266561161162449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_SettlerPackage01
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_SettlerPackage01Title'
+  Description: '%UnitSpecialty_SettlerPackage01Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &425346823068186107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_RegenerateAnywhere
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_RegenerateAnywhereTitle'
+  Description: '%UnitSpecialty_RegenerateAnywhereDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &450050940804919973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Militia
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_MilitiaTitle'
+  Description: '%UnitSpecialty_MilitiaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1067845354
+        b: 1155635948
+        c: -1716139841
+        d: 753170936
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1095956403933725138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_AfterAttackedKilledByHeavyDamage
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_AfterAttackedKilledByHeavyDamageTitle'
+  Description: '%UnitSpecialty_AfterAttackedKilledByHeavyDamageDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1740956687121303861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_MoneyFromCombat_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_MoneyFromCombatTitle'
+  Description: '%UnitSpecialty_MoneyFromCombatDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2166523345848468213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_EmbarkFree
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_EmbarkFreeTitle'
+  Description: '%UnitSpecialty_EmbarkFreeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2691834258983598210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromTerrain_Level2
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromTerrainLevel2Title'
+  Description: '%UnitSpecialty_StrengthFromTerrainLevel2Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2753880480922576837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromSiege_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromSiegeTitle'
+  Description: '%UnitSpecialty_StrengthFromSiegeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2936433396775664632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromCloseRange_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromCloseRangeTitle'
+  Description: '%UnitSpecialty_StrengthFromCloseRangeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3058554570988038057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromStrongerTarget_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromStrongerTargetTitle'
+  Description: '%UnitSpecialty_StrengthFromStrongerTargetDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3537348273582197822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NoPenaltyFromMelee
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NoPenaltyFromMeleeTitle'
+  Description: '%UnitSpecialty_NoPenaltyFromMeleeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3629227881915623946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NoMovementPenaltiesFromZonesOfControl
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NoMovementPenaltiesFromZonesOfControlTitle'
+  Description: '%UnitSpecialty_NoMovementPenaltiesFromZonesOfControlDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3640085051124008185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_MoveOrAttack
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_MoveOrAttackTitle'
+  Description: '%UnitSpecialty_MoveOrAttackDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3654816818839023014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StealthAerial
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StealthAerialTitle'
+  Description: '%UnitSpecialty_StealthAerialDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3868940211315705675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_LostAtSeaDamage_Level2
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_LostAtSeaDamageTitle'
+  Description: '%UnitSpecialty_LostAtSeaDamageDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4043041913968459321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromStability_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromStabilityTitle'
+  Description: '%UnitSpecialty_StrengthFromStabilityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4403209244916234407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_CanCrossCliffs
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_CrossCliffsTitle'
+  Description: '%UnitSpecialty_CrossCliffsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4584206927969383438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_MoneyFromCuriosity_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_MoneyFromCuriosityTitle'
+  Description: '%UnitSpecialty_MoneyFromCuriosityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5193007095092751555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Charge_Level2
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ChargeLevel2Title'
+  Description: '%UnitSpecialty_ChargeLevel2Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5463023522348932120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Bombard_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_BombardTitle'
+  Description: '%UnitSpecialty_BombardDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5521307861228973519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_DebuffTargetPoison_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_DebuffTargetPoisonTitle'
+  Description: '%UnitSpecialty_DebuffTargetPoisonDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5605149969240958729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_IndirectShatter
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_IndirectShatterTitle'
+  Description: '%UnitSpecialty_IndirectShatterDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6051386138033067737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_NoPenaltyFromLineOfSight
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_NoPenaltyFromLineOfSightTitle'
+  Description: '%UnitSpecialty_NoPenaltyFromLineOfSightDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6235806942780545039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromTargetClassCavalry_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromTargetClassCavalryTitle'
+  Description: '%UnitSpecialty_StrengthFromTargetClassCavalryDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6618244188790157238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromReceiveCharge_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromReceiveChargeTitle'
+  Description: '%UnitSpecialty_StrengthFromReceiveChargeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6709449699384115796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_ChargePushBack_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ChargePushBackTitle'
+  Description: '%UnitSpecialty_ChargePushBackDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6846014652951481256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromAlliesAdjacentToTarget_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromAlliesAdjacentToTargetTitle'
+  Description: '%UnitSpecialty_StrengthFromAlliesAdjacentToTargetDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7010075301044936399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_SpeedFromHarbor_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_SpeedFromHarborTitle'
+  Description: '%UnitSpecialty_SpeedFromHarborDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7728488645289852474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_RegenerateAfterFight_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_RegenerateAfterFightTitle'
+  Description: '%UnitSpecialty_RegenerateAfterFightDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7880971907093994009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_FoodFromExploration_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_FoodFromExplorationTitle'
+  Description: '%UnitSpecialty_FoodFromExplorationDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8599937502020657947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_MoneyFromRansack_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_MoneyFromRansackTitle'
+  Description: '%UnitSpecialty_MoneyFromRansackDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8697374295166186531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromReceivedWarCount_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromReceivedWarCountTitle'
+  Description: '%UnitSpecialty_StrengthFromReceivedWarCountDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8720134886444117977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_RetreatForbidden
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_RetreatForbiddenTitle'
+  Description: '%UnitSpecialty_RetreatForbiddenDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8802004233829165660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromEnemyDistrict_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromEnemyDistrictTitle'
+  Description: '%UnitSpecialty_StrengthFromEnemyDistrictDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &9001674104752783867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromCoast_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromCoastTitle'
+  Description: '%UnitSpecialty_StrengthFromCoastDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &9013996292127043305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_StrengthFromTargetClassArmoured_Level1
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_StrengthFromTargetClassArmouredTitle'
+  Description: '%UnitSpecialty_StrengthFromTargetClassArmouredDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &9017541046015085691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitSpecialty_Charge_Level3
+  m_EditorClassIdentifier: 
+  Title: '%UnitSpecialty_ChargeLevel3Title'
+  Description: '%UnitSpecialty_ChargeLevel3Description'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

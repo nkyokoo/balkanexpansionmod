@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: GameScenarioStadiaUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &3145098183440576934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1550043472, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Scenario_OpenDevStadia1
+  m_EditorClassIdentifier: 
+  Title: '%Scenario_OpenDevStadia1Title'
+  Description: '%Scenario_OpenDevStadia1Description'
+  Images:
+  - Value:
+      guid:
+        a: -982833794
+        b: 1074015824
+        c: 126418873
+        d: 874082193
+    serializableKey: ScenarioCard
+  - Value:
+      guid:
+        a: 1913316330
+        b: 1281378614
+        c: 272132506
+        d: 1003728712
+    serializableKey: ScenarioFullscreen
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  HistoricalDescription: '%Scenario_OpenDevStadia1HistoricalDescription'

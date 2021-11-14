@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8105912712093614172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 275704929, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EmpireStability_Stable
+  m_EditorClassIdentifier: 
+  RangeMin: 30
+  RangeMax: 90
+  RangeMinType: 1
+  RangeMaxType: 1
+  DescriptorReferences:
+  - serializableElementName: Effect_EmpireBonus_EmpireStability_Stable
+--- !u!114 &-3574408382687681281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 275704929, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EmpireStability_Unstable
+  m_EditorClassIdentifier: 
+  RangeMin: 0
+  RangeMax: 30
+  RangeMinType: 0
+  RangeMaxType: 0
+  DescriptorReferences:
+  - serializableElementName: Effect_EmpireBonus_EmpireStability_Unstable
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 971839127, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EmpireStabilityDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &3674187934917146917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 275704929, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: EmpireStability_VeryStable
+  m_EditorClassIdentifier: 
+  RangeMin: 90
+  RangeMax: 100
+  RangeMinType: 0
+  RangeMaxType: 0
+  DescriptorReferences:
+  - serializableElementName: Effect_EmpireBonus_EmpireStability_VeryStable

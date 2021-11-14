@@ -1,0 +1,710 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8914894992875182982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury17
+  m_EditorClassIdentifier: 
+  Title: '%Luxury17Title'
+  Description: '%Luxury17Description'
+  Images:
+  - Value:
+      guid:
+        a: 2127783133
+        b: 1333526659
+        c: 1970543516
+        d: -885322964
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury17]'
+--- !u!114 &-8143666946987579599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic07
+  m_EditorClassIdentifier: 
+  Title: '%Strategic07Title'
+  Description: '%Strategic07Description'
+  Images:
+  - Value:
+      guid:
+        a: -1167454368
+        b: 1086499964
+        c: 1696245686
+        d: -1477046782
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic07]'
+--- !u!114 &-7907518423074897679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic05
+  m_EditorClassIdentifier: 
+  Title: '%Strategic05Title'
+  Description: '%Strategic05Description'
+  Images:
+  - Value:
+      guid:
+        a: 1128585564
+        b: 1126881693
+        c: 280384403
+        d: 11708651
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic05]'
+--- !u!114 &-7582392916575158696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury13
+  m_EditorClassIdentifier: 
+  Title: '%Luxury13Title'
+  Description: '%Luxury13Description'
+  Images:
+  - Value:
+      guid:
+        a: -475398716
+        b: 1113212381
+        c: 1420674213
+        d: -210536318
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury13]'
+--- !u!114 &-7030386566344645484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury30
+  m_EditorClassIdentifier: 
+  Title: '%Luxury30Title'
+  Description: '%Luxury30Description'
+  Images:
+  - Value:
+      guid:
+        a: -1543063343
+        b: 1083022511
+        c: -713939531
+        d: 808823622
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury30]'
+--- !u!114 &-6885911173372024707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury19
+  m_EditorClassIdentifier: 
+  Title: '%Luxury19Title'
+  Description: '%Luxury19Description'
+  Images:
+  - Value:
+      guid:
+        a: 850631503
+        b: 1278399759
+        c: 1730776473
+        d: 2129506844
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury19]'
+--- !u!114 &-6373311357557156378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury12
+  m_EditorClassIdentifier: 
+  Title: '%Luxury12Title'
+  Description: '%Luxury12Description'
+  Images:
+  - Value:
+      guid:
+        a: 666327203
+        b: 1218305295
+        c: -1894291526
+        d: 872935422
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury12]'
+--- !u!114 &-5940820945073087211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury15
+  m_EditorClassIdentifier: 
+  Title: '%Luxury15Title'
+  Description: '%Luxury15Description'
+  Images:
+  - Value:
+      guid:
+        a: -971532917
+        b: 1165758114
+        c: 1119243192
+        d: -1290836297
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury15]'
+--- !u!114 &-3599614132557887942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury27
+  m_EditorClassIdentifier: 
+  Title: '%Luxury27Title'
+  Description: '%Luxury27Description'
+  Images:
+  - Value:
+      guid:
+        a: -2057334976
+        b: 1122675656
+        c: -1400215131
+        d: 1890602919
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury27]'
+--- !u!114 &-2267825931302516051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury14
+  m_EditorClassIdentifier: 
+  Title: '%Luxury14Title'
+  Description: '%Luxury14Description'
+  Images:
+  - Value:
+      guid:
+        a: 943025980
+        b: 1074601467
+        c: 1554242749
+        d: -392419237
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury14]'
+--- !u!114 &-703949493668643136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury16
+  m_EditorClassIdentifier: 
+  Title: '%Luxury16Title'
+  Description: '%Luxury16Description'
+  Images:
+  - Value:
+      guid:
+        a: -241541590
+        b: 1276504479
+        c: -1473932617
+        d: -1607303132
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury16]'
+--- !u!114 &-261756941356392056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic02
+  m_EditorClassIdentifier: 
+  Title: '%Strategic02Title'
+  Description: '%Strategic02Description'
+  Images:
+  - Value:
+      guid:
+        a: -427922760
+        b: 1145539373
+        c: -882107747
+        d: -497265220
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic02]'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ResourcesUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &947670510866231724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury22
+  m_EditorClassIdentifier: 
+  Title: '%Luxury22Title'
+  Description: '%Luxury22Description'
+  Images:
+  - Value:
+      guid:
+        a: -1015883339
+        b: 1341590674
+        c: 1742894731
+        d: 1583350395
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury22]'
+--- !u!114 &1826054646456121329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury25
+  m_EditorClassIdentifier: 
+  Title: '%Luxury25Title'
+  Description: '%Luxury25Description'
+  Images:
+  - Value:
+      guid:
+        a: -1508152945
+        b: 1201400500
+        c: -1282361162
+        d: -392627122
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury25]'
+--- !u!114 &2109577291826128635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury18
+  m_EditorClassIdentifier: 
+  Title: '%Luxury18Title'
+  Description: '%Luxury18Description'
+  Images:
+  - Value:
+      guid:
+        a: 964271477
+        b: 1286011099
+        c: 1802235048
+        d: -1889847351
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury18]'
+--- !u!114 &3124211190901023027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury20
+  m_EditorClassIdentifier: 
+  Title: '%Luxury20Title'
+  Description: '%Luxury20Description'
+  Images:
+  - Value:
+      guid:
+        a: -1236164557
+        b: 1327764489
+        c: -1598177098
+        d: -706822314
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury20]'
+--- !u!114 &3757502832251667453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury11
+  m_EditorClassIdentifier: 
+  Title: '%Luxury11Title'
+  Description: '%Luxury11Description'
+  Images:
+  - Value:
+      guid:
+        a: -950121323
+        b: 1266246613
+        c: 1436760448
+        d: 348786596
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury11]'
+--- !u!114 &4313631182104248664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury31
+  m_EditorClassIdentifier: 
+  Title: '%Luxury31Title'
+  Description: '%Luxury31Description'
+  Images:
+  - Value:
+      guid:
+        a: -897254062
+        b: 1073974631
+        c: 253776257
+        d: 1954185701
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury31]'
+--- !u!114 &4526018840382076979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic06
+  m_EditorClassIdentifier: 
+  Title: '%Strategic06Title'
+  Description: '%Strategic06Description'
+  Images:
+  - Value:
+      guid:
+        a: -197316555
+        b: 1273401253
+        c: -1980851826
+        d: -390800252
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic06]'
+--- !u!114 &4976230454818165140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury29
+  m_EditorClassIdentifier: 
+  Title: '%Luxury29Title'
+  Description: '%Luxury29Description'
+  Images:
+  - Value:
+      guid:
+        a: -1372668148
+        b: 1130670856
+        c: -1026409319
+        d: 1832299646
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury29]'
+--- !u!114 &5359987170712712034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury21
+  m_EditorClassIdentifier: 
+  Title: '%Luxury21Title'
+  Description: '%Luxury21Description'
+  Images:
+  - Value:
+      guid:
+        a: -898119553
+        b: 1254839265
+        c: 2015766174
+        d: -836847369
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury21]'
+--- !u!114 &6424599457706087239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic03
+  m_EditorClassIdentifier: 
+  Title: '%Strategic03Title'
+  Description: '%Strategic03Description'
+  Images:
+  - Value:
+      guid:
+        a: -2145611435
+        b: 1149815371
+        c: 1161499525
+        d: 944338284
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic03]'
+--- !u!114 &6653995248052014771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic01
+  m_EditorClassIdentifier: 
+  Title: '%Strategic01Title'
+  Description: '%Strategic01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1829672794
+        b: 1287968116
+        c: 1937656709
+        d: 1103969655
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic01]'
+--- !u!114 &6703884436665229160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic04
+  m_EditorClassIdentifier: 
+  Title: '%Strategic04Title'
+  Description: '%Strategic04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1770158465
+        b: 1179706009
+        c: 1092097202
+        d: -979404234
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic04]'
+--- !u!114 &6892916869934058681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury24
+  m_EditorClassIdentifier: 
+  Title: '%Luxury24Title'
+  Description: '%Luxury24Description'
+  Images:
+  - Value:
+      guid:
+        a: 192496206
+        b: 1223199008
+        c: -1829250375
+        d: -1675277217
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury24]'
+--- !u!114 &6938182210810321103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury28
+  m_EditorClassIdentifier: 
+  Title: '%Luxury28Title'
+  Description: '%Luxury28Description'
+  Images:
+  - Value:
+      guid:
+        a: -997285862
+        b: 1084856526
+        c: 408853931
+        d: 1275537212
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury28]'
+--- !u!114 &6960857318336492133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury26
+  m_EditorClassIdentifier: 
+  Title: '%Luxury26Title'
+  Description: '%Luxury26Description'
+  Images:
+  - Value:
+      guid:
+        a: -759174391
+        b: 1174897458
+        c: 64648109
+        d: -426691518
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury26]'
+--- !u!114 &7594651027041384794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Luxury23
+  m_EditorClassIdentifier: 
+  Title: '%Luxury23Title'
+  Description: '%Luxury23Description'
+  Images:
+  - Value:
+      guid:
+        a: -1218456458
+        b: 1161470840
+        c: -1292441424
+        d: -902691422
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Luxury23]'
+--- !u!114 &8560386801061994763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Strategic08
+  m_EditorClassIdentifier: 
+  Title: '%Strategic08Title'
+  Description: '%Strategic08Description'
+  Images:
+  - Value:
+      guid:
+        a: 866871225
+        b: 1177402708
+        c: 2128373939
+        d: -1967453933
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Strategic08]'

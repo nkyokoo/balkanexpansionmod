@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1311181123, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TenetDefinitionsObsolete
+  m_EditorClassIdentifier: 
+--- !u!114 &191256981300541647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -967498053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionTenet_Tier0_Polytheism
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 4
+  Hidden: 0
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  TierReference:
+    serializableElementName: TenetTier_Tier4
+  ReligionAffinityReference:
+    serializableElementName: 
+  DescriptorReferences:
+  - serializableElementName: Effect_ReligionBonus_Tier4_NamedReligion08
+  CostModifierReferences: []
+  CanBeStateReligion: 1
+  CanEvolve: 1
+  CanHaveReligiousLeader: 1
+  CanReligionDie: 1
+  Priority: 0
+  Archetypes: []
+  Gains: 0
+  GainSpread: 0
+--- !u!114 &2492402944295651968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -967498053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionTenet_Tier5_NamedReligion09
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 56
+  Hidden: 0
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  TierReference:
+    serializableElementName: TenetTier_Tier4
+  ReligionAffinityReference:
+    serializableElementName: 
+  DescriptorReferences:
+  - serializableElementName: Effect_ReligionBonus_Tier4_NamedReligion07
+  CostModifierReferences: []
+  CanBeStateReligion: 1
+  CanEvolve: 1
+  CanHaveReligiousLeader: 1
+  CanReligionDie: 1
+  Priority: 0
+  Archetypes: []
+  Gains: 0
+  GainSpread: 0
+--- !u!114 &8650439354237467158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -967498053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionTenet_Tier5_NamedReligion10
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 57
+  Hidden: 0
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  TierReference:
+    serializableElementName: TenetTier_Tier4
+  ReligionAffinityReference:
+    serializableElementName: 
+  DescriptorReferences:
+  - serializableElementName: Effect_ReligionBonus_Tier4_NamedReligion08
+  CostModifierReferences: []
+  CanBeStateReligion: 1
+  CanEvolve: 1
+  CanHaveReligiousLeader: 1
+  CanReligionDie: 1
+  Priority: 0
+  Archetypes: []
+  Gains: 0
+  GainSpread: 0
+--- !u!114 &8791713868548544217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -967498053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionTenet_Tier0_Shamanism
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 5
+  Hidden: 0
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  TierReference:
+    serializableElementName: TenetTier_Tier4
+  ReligionAffinityReference:
+    serializableElementName: 
+  DescriptorReferences:
+  - serializableElementName: Effect_ReligionBonus_Tier4_NamedReligion08
+  CostModifierReferences: []
+  CanBeStateReligion: 1
+  CanEvolve: 1
+  CanHaveReligiousLeader: 1
+  CanReligionDie: 1
+  Priority: 0
+  Archetypes: []
+  Gains: 0
+  GainSpread: 0

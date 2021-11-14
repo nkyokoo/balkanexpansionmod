@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6375955317213217174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1763469788, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IdeologicalAxis_Geopolitic
+  m_EditorClassIdentifier: 
+  Title: '%IdeologyAxisGeopoliticalTitle'
+  Description: '%IdeologyAxisGeopoliticalDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LeftTitle: '%IdeologyAxisGeopoliticalLeftTitle'
+  LeftDescription: '%IdeologyAxisGeopoliticalLeftDescription'
+  LeftIcon:
+    guid:
+      a: -52207373
+      b: 1195883509
+      c: 288361884
+      d: 1752030042
+  RightTitle: '%IdeologyAxisGeopoliticalRightTitle'
+  RightDescription: '%IdeologyAxisGeopoliticalRightDescription'
+  RightIcon:
+    guid:
+      a: -1353030614
+      b: 1135431159
+      c: 1770107546
+      d: -1091071754
+--- !u!114 &-2722908803079399936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1763469788, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IdeologicalAxis_Order
+  m_EditorClassIdentifier: 
+  Title: '%IdeologyAxisOrderTitle'
+  Description: '%IdeologyAxisOrderDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LeftTitle: '%IdeologyAxisOrderLeftTitle'
+  LeftDescription: '%IdeologyAxisOrderLeftDescription'
+  LeftIcon:
+    guid:
+      a: 2074333427
+      b: 1273386290
+      c: 1441759931
+      d: -325179960
+  RightTitle: '%IdeologyAxisOrderRightTitle'
+  RightDescription: '%IdeologyAxisOrderRightDescription'
+  RightIcon:
+    guid:
+      a: 838814704
+      b: 1135316189
+      c: 553637022
+      d: 1628218177
+--- !u!114 &-1301599291712735059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1763469788, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IdeologicalAxis_Economic
+  m_EditorClassIdentifier: 
+  Title: '%IdeologyAxisEconomicTitle'
+  Description: '%IdeologyAxisEconomicDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LeftTitle: '%IdeologyAxisEconomicLeftTitle'
+  LeftDescription: '%IdeologyAxisEconomicLeftDescription'
+  LeftIcon:
+    guid:
+      a: -1052793778
+      b: 1309476281
+      c: -562294605
+      d: 252376842
+  RightTitle: '%IdeologyAxisEconomicRightTitle'
+  RightDescription: '%IdeologyAxisEconomicRightDescription'
+  RightIcon:
+    guid:
+      a: 744344346
+      b: 1086468934
+      c: -117575010
+      d: 1601727699
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: IdeologicalAxisUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &718137319399434578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1763469788, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IdeologicalAxis_Social
+  m_EditorClassIdentifier: 
+  Title: '%IdeologyAxisSocialTitle'
+  Description: '%IdeologyAxisSocialDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LeftTitle: '%IdeologyAxisSocialLeftTitle'
+  LeftDescription: '%IdeologyAxisSocialLeftDescription'
+  LeftIcon:
+    guid:
+      a: 388071869
+      b: 1139122875
+      c: 163593109
+      d: 109423331
+  RightTitle: '%IdeologyAxisSocialRightTitle'
+  RightDescription: '%IdeologyAxisSocialRightDescription'
+  RightIcon:
+    guid:
+      a: 1543986259
+      b: 1088392182
+      c: -644751734
+      d: 1781358219

@@ -1,0 +1,605 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2403968928510045233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -248174088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DeploymentDepth
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: RangedValues
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue[],
+        Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 1
+    - Name: RangeEnd
+      Entry: 3
+      Data: 6
+    - Name: Value
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 7
+    - Name: RangeEnd
+      Entry: 3
+      Data: 12
+    - Name: Value
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 13
+    - Name: RangeEnd
+      Entry: 3
+      Data: 18
+    - Name: Value
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 19
+    - Name: RangeEnd
+      Entry: 3
+      Data: 30
+    - Name: Value
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 31
+    - Name: RangeEnd
+      Entry: 3
+      Data: -1
+    - Name: Value
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MinimumValue: 0
+--- !u!114 &-1529415138626601468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -248174088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: BattleArenaDepth
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: RangedValues
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue[],
+        Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 2
+    - Name: RangeEnd
+      Entry: 3
+      Data: 6
+    - Name: Value
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 7
+    - Name: RangeEnd
+      Entry: 3
+      Data: 12
+    - Name: Value
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 13
+    - Name: RangeEnd
+      Entry: 3
+      Data: 18
+    - Name: Value
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 19
+    - Name: RangeEnd
+      Entry: 3
+      Data: 30
+    - Name: Value
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 31
+    - Name: RangeEnd
+      Entry: 3
+      Data: -1
+    - Name: Value
+      Entry: 3
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MinimumValue: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -517761898, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: BattleConfigurationDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &755556409964292900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -248174088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DeploymentWidth
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: RangedValues
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue[],
+        Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 1
+    - Name: RangeEnd
+      Entry: 3
+      Data: 3
+    - Name: Value
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 4
+    - Name: RangeEnd
+      Entry: 3
+      Data: 8
+    - Name: Value
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 9
+    - Name: RangeEnd
+      Entry: 3
+      Data: 15
+    - Name: Value
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 16
+    - Name: RangeEnd
+      Entry: 3
+      Data: 24
+    - Name: Value
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 25
+    - Name: RangeEnd
+      Entry: 3
+      Data: -1
+    - Name: Value
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MinimumValue: 0
+--- !u!114 &903745541800733506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -248174088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: BattleArenaWidth
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: RangedValues
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue[],
+        Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 2
+    - Name: RangeEnd
+      Entry: 3
+      Data: 4
+    - Name: Value
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 5
+    - Name: RangeEnd
+      Entry: 3
+      Data: 9
+    - Name: Value
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 10
+    - Name: RangeEnd
+      Entry: 3
+      Data: 16
+    - Name: Value
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 17
+    - Name: RangeEnd
+      Entry: 3
+      Data: 25
+    - Name: Value
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 26
+    - Name: RangeEnd
+      Entry: 3
+      Data: -1
+    - Name: Value
+      Entry: 3
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MinimumValue: 1
+--- !u!114 &4089586378575741526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -248174088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: BattleTurnCount
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: RangedValues
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue[],
+        Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 2
+    - Name: RangeEnd
+      Entry: 3
+      Data: 2
+    - Name: Value
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 3
+    - Name: RangeEnd
+      Entry: 3
+      Data: 7
+    - Name: Value
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 8
+    - Name: RangeEnd
+      Entry: 3
+      Data: 11
+    - Name: Value
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 12
+    - Name: RangeEnd
+      Entry: 3
+      Data: 17
+    - Name: Value
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 18
+    - Name: RangeEnd
+      Entry: 3
+      Data: 21
+    - Name: Value
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: Amplitude.Mercury.Data.Simulation.BattleConfigurationDefinition+RangedValue,
+        Amplitude.Mercury.Data
+    - Name: RangeStart
+      Entry: 3
+      Data: 22
+    - Name: RangeEnd
+      Entry: 3
+      Data: -1
+    - Name: Value
+      Entry: 3
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MinimumValue: 1

@@ -1,0 +1,4035 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9163821361696262441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Avars
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 85
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Avars_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era3
+  - serializableElementName: UnitPattern_FullCavalry_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-7978224027300771281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Sabines
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 74
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_GrecoRoman
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Sabines_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsSwords_Era2
+  - serializableElementName: UnitPattern_SpearsSwords_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-6757305686632802264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Numidians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 78
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mediterranean
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_52
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Numidians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsCavalry_Era2
+  - serializableElementName: UnitPattern_SpearsCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-6489174254400737152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Scots
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 90
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Northern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_0
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Scots_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsArrows_Era3
+  - serializableElementName: UnitPattern_SwordsArrows_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-5753729659128303991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Peaceful_Malinke
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 77
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mediterranean
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_American
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_51
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Peaceful_Malinke_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsCavalry_Era3
+  - serializableElementName: UnitPattern_SwordsCavalry_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-5743305548376638878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Normans
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 111
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_GrecoRoman
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Normans_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullMelee_Era3
+  - serializableElementName: UnitPattern_FullMelee_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-5571554327427687096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Parthians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 103
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mediterranean
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Parthians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsArrows_Era2
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-5377792660170287391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Lullubis
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 88
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Lullubis_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsArrows_Era1
+  - serializableElementName: UnitPattern_SwordsArrows_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &-5138753687214575573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Peaceful_Inca
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 96
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_American
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_33
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Peaceful_Inca_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsSwords_Era4
+  - serializableElementName: UnitPattern_SpearsSwords_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets
+--- !u!114 &-4946386050075167572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Peaceful_Toltecs
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 87
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_American
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_American
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_42
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Peaceful_Toltecs_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsArrows_Era3
+  - serializableElementName: UnitPattern_SwordsArrows_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-4017885550451461478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Mochicas
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 95
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesoamerican
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mesoamerican
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_41
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Mochicas_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsArrows_Era2
+  - serializableElementName: UnitPattern_SwordsArrows_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-3829242183668722173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Peaceful_Akkadians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 106
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_32
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Peaceful_Akkadians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsArrows_Era1
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &-3676809177533349613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Peaceful_Tarascans
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 65
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_American
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_33
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Peaceful_Tarascans_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullRange_Era4
+  - serializableElementName: UnitPattern_FullRange_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets
+--- !u!114 &-3052065589781172127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Berbers
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 64
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_22
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Berbers_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era3
+  - serializableElementName: UnitPattern_FullAntiCavalry_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-2801886709640370693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Peaceful_Armenians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 108
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mediterranean
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_American
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_23
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Peaceful_Armenians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsCavalry_Era3
+  - serializableElementName: UnitPattern_SpearsCavalry_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-2783996336097421646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Etruscans
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 67
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_GrecoRoman
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_23
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Etruscans_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsArrows_Era2
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-2769636052212879225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Magyars
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 107
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_22
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Magyars_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullAntiCavalry_Era3
+  - serializableElementName: UnitPattern_FullAntiCavalry_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-1974802945718736811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Somalis
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 94
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mix_MediterraneanIslamic
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_52
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Somalis_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullRange_Era3
+  - serializableElementName: UnitPattern_FullRange_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-1778240806210105139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Wisigoths
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 69
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_GrecoRoman
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Blond01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Wisigoths_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullMelee_Era3
+  - serializableElementName: UnitPattern_FullMelee_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &-1761482547124112566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Violent_Mississipians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 62
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_American
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_33
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Violent_Mississipians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullMelee_Era4
+  - serializableElementName: UnitPattern_FullMelee_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets
+--- !u!114 &-1600016574016938708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Nazcans
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 79
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesoamerican
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mesoamerican
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_41
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Nazcans_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullMelee_Era2
+  - serializableElementName: UnitPattern_FullMelee_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-1528280778838249822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Cantabris
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 70
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Cantabris_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsCavalry_Era2
+  - serializableElementName: UnitPattern_SwordsCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-1358057882443263636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Cherusci
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 92
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Cherusci_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullMelee_Era2
+  - serializableElementName: UnitPattern_FullMelee_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &-956357020714309609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Arverni
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 66
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown02
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Arverni_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era2
+  - serializableElementName: UnitPattern_FullCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 255596104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeopleDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &193752007467711272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Vandals
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 76
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown02
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Vandals_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullRange_Era2
+  - serializableElementName: UnitPattern_FullRange_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &561001616242057207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Burgundians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 113
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Burgundians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullAntiCavalry_Era2
+  - serializableElementName: UnitPattern_FullAntiCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &588812355281572820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Violent_Kongo
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 109
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Islamic
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_51
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Violent_KongoPeople_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_CavalryArrows_Era4
+  - serializableElementName: UnitPattern_CavalryArrows_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets
+--- !u!114 &894788906926657115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Peaceful_NorteChicoPeople
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 68
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesoamerican
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_33
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Peaceful_NorteChicoPeople_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullAntiCavalry_Era1
+  - serializableElementName: UnitPattern_FullAntiCavalry_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &1172127016895567214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Peaceful_Khazars
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 81
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_American
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_22
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Peaceful_Khazars_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_CavalryArrows_Era3
+  - serializableElementName: UnitPattern_CavalryArrows_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &1321754278546407813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Peaceful_Icelanders
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 82
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Northern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_0
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Blond01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Peaceful_Icelanders_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsSwords_Era3
+  - serializableElementName: UnitPattern_SpearsSwords_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &1561573055718296559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Minoans
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 101
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mediterranean
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Minoans_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsCavalry_Era1
+  - serializableElementName: UnitPattern_SwordsCavalry_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &1700289740193403983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Thai
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 97
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_AsianSouthEastMedieval
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Asian
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_32
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Thai_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_CavalryArrows_Era3
+  - serializableElementName: UnitPattern_CavalryArrows_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &2246197251360241574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Peaceful_Malays
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 86
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_AsianSouthEastMedieval
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_32
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Peaceful_Malays_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsArrows_Era4
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets
+--- !u!114 &2347390205839641678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Kassites
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 83
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Kassites_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullRange_Era1
+  - serializableElementName: UnitPattern_FullRange_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &2510816591864838647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Molossians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 104
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_GrecoRoman
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Molossians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsSwords_Era2
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &2689688674714545840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Hurrians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 99
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Hurrians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsCavalry_Era1
+  - serializableElementName: UnitPattern_SpearsCavalry_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &3141026451294737338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Bretons
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 100
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Northern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_11
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown02
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Bretons_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsArrows_Era3
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &3216395421917659895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Peaceful_Elamites
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 63
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_32
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Peaceful_Elamites_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsArrows_Era1
+  - serializableElementName: UnitPattern_SpearsArrows_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &3668557529383713214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Hyksos
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 91
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Hyksos_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era1
+  - serializableElementName: UnitPattern_FullCavalry_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &4074062732125352910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Picts
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 84
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_11
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Red
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Picts_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsCavalry_Era2
+  - serializableElementName: UnitPattern_SwordsCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &4114117619775174292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era3_Violent_Ostrogoths
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 93
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era3
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 3
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Romanesque
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_13
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown02
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era3_Violent_Ostrogoths_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsCavalry_Era3
+  - serializableElementName: UnitPattern_SwordsCavalry_Early_Era3
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era3_Common_Peasants
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era2_Common_Ballistas
+--- !u!114 &4196886255537213424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Violent_Dacians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 110
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Violent_Dacians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsCavalry_Era2
+  - serializableElementName: UnitPattern_SpearsCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &5460532654763480104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Medes
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 105
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesopotamian
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Medes_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era1
+  - serializableElementName: UnitPattern_FullCavalry_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &6263499386916403838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Zapotecs
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 89
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mesoamerican
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mesoamerican
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_41
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Zapotecs_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsArrows_Era2
+  - serializableElementName: UnitPattern_SwordsArrows_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &6493371954829814336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Scythians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 75
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Northern
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_12
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Brown01
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Scythians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_CavalryArrows_Era2
+  - serializableElementName: UnitPattern_CavalryArrows_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &6622818078643554532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era2_Peaceful_Garamantes
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 80
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era2
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 2
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_GrecoRoman
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_Mediterranean
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_31
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era2_Peaceful_Garamantes_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era2
+  - serializableElementName: UnitPattern_FullCavalry_Early_Era2
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era2_Common_Citizens
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era2_Common_TransportGalleys
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+--- !u!114 &6646881577175159640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Peaceful_Tamils
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 98
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Islamic
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_42
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Peaceful_Tamils_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_FullCavalry_Era4
+  - serializableElementName: UnitPattern_FullCavalry_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets
+--- !u!114 &7705691455387542205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Peaceful_Noks
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 71
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 1
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_Mediterranean
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_51
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Peaceful_Noks_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SpearsSwords_Era1
+  - serializableElementName: UnitPattern_SpearsSwords_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &8419644753474382438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era1_Violent_Mittanians
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 102
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era1
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 1
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_GrecoRoman
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Hot
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_23
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era1_Violent_Mittanians_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_CavalryArrows_Era1
+  - serializableElementName: UnitPattern_CavalryArrows_Early_Era1
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 
+--- !u!114 &8573097936465880630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IndependentPeople_Era4_Violent_Tlaxcaltecs
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 72
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: Era4
+  FactionType: 2
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 0
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities:
+  - EraIndex: 4
+    BuildingVisualAffinityReference:
+      serializableElementName: BuildingVisualAffinity_Common_American
+  UnitVisualAffinities:
+  - EraIndex: 0
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era0_DefaultTribe
+  - EraIndex: 1
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era1_Temperate
+  - EraIndex: 2
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era2_European
+  - EraIndex: 3
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era3_Mediterranean
+  - EraIndex: 4
+    UnitVisualAffinityReference:
+      serializableElementName: UnitVisualAffinity_Common_Era4_Eastern
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_NoVisualAffinity
+  SkinColorReferences:
+  - serializableElementName: AvatarColor_Skin_33
+  HairColorReferences:
+  - serializableElementName: AvatarColor_Haircut_Black
+  LocalizedSettlementNames:
+  - '%IndependentPeople_Era4_Violent_Tlaxcaltecs_SettlementName'
+  LocalizedArmyNames:
+  - '%IndependentPeople_World_ArmyName'
+  LocalizedSquadronNames:
+  - '%Civilization_GenericSquadronName'
+  LocalizedMilitiaNames:
+  - '%Civilization_GenericMilitiaArmyName'
+  LocalizedSiegeEngineNames:
+  - '%Civilization_GenericSiegeEngineArmyName'
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences:
+  - serializableElementName: UnitPattern_SwordsArrows_Era4
+  - serializableElementName: UnitPattern_SwordsArrows_Early_Era4
+  MinorFactionMilitiaReference:
+    serializableElementName: LandUnit_Era4_Common_Draftees
+  MinorFactionNavalTransportReference:
+    serializableElementName: NavalTransport_Era4_Common_TransportCaravels
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: LandUnit_Era3_Common_Trebuchets

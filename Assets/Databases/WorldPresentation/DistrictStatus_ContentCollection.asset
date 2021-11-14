@@ -1,0 +1,3704 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5416764433681979707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_VillageCenter'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_VillageCenter
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: 546332584
+      b: 1227317645
+      c: 1678826634
+      d: 578378025
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: -1843335540
+      b: 1119790834
+      c: 180626870
+      d: 306863498
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -1237618242
+      b: 1162080887
+      c: -143342156
+      d: -468343515
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 1429445290
+      b: 1081028323
+      c: -632274774
+      d: 853654811
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -1659352039
+      b: 1219521253
+      c: -819332731
+      d: 1354494928
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 2097612581
+      b: 1245286781
+      c: -1133216373
+      d: 326102393
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -523848268
+      b: 1143023596
+      c: -2076387940
+      d: 568423701
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1326825337
+      b: 1121273330
+      c: 902303668
+      d: 195601793
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: -759906365
+      b: 1134307181
+      c: -1107944043
+      d: 2028062906
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: -2147216600
+      b: 1249714618
+      c: -2024595044
+      d: -2081384245
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: -14511864
+      b: 1228790856
+      c: 159840161
+      d: 1844046818
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -1237618242
+      b: 1162080887
+      c: -143342156
+      d: -468343515
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: 1946537611
+      b: 1249926828
+      c: 1077819791
+      d: -2072435856
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-3048225870248806008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_Industry'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_Industry
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: -76355704
+      b: 1252268994
+      c: 1411126683
+      d: 1613739035
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 483256543
+      b: 1153877940
+      c: 1444532648
+      d: -242961945
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 448627884
+      b: 1310858407
+      c: 674838166
+      d: 343249405
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 1429445290
+      b: 1081028323
+      c: -632274774
+      d: 853654811
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -1442594553
+      b: 1193511961
+      c: 798087056
+      d: -1274253621
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: 1103554657
+      b: 1109543758
+      c: -843581790
+      d: 1945680076
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: -759906365
+      b: 1134307181
+      c: -1107944043
+      d: 2028062906
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: -2147216600
+      b: 1249714618
+      c: -2024595044
+      d: -2081384245
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: -14511864
+      b: 1228790856
+      c: 159840161
+      d: 1844046818
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: -764581883
+      b: 1077562726
+      c: -978506583
+      d: -1884018658
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-1621026851190405106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_Money'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_Money
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: -76355704
+      b: 1252268994
+      c: 1411126683
+      d: 1613739035
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: -1843335540
+      b: 1119790834
+      c: 180626870
+      d: 306863498
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 493430138
+      b: 1205540839
+      c: -753486203
+      d: 487352700
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -1442594553
+      b: 1193511961
+      c: 798087056
+      d: -1274253621
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: -759906365
+      b: 1134307181
+      c: -1107944043
+      d: 2028062906
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: 1048503827
+      b: 1332460185
+      c: 1150511541
+      d: -754847994
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: -764581883
+      b: 1077562726
+      c: -978506583
+      d: -1884018658
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299993223, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DistrictStatus_ContentCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &18270553632755200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_ArtificialWonder'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_ArtificialWonder
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: 317810928
+      b: 1116175947
+      c: -109351778
+      d: -1172494383
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -165497971
+      b: 1097823996
+      c: -944864356
+      d: -1887139784
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 493430138
+      b: 1205540839
+      c: -753486203
+      d: 487352700
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 1957474218
+      b: 1199343544
+      c: 1836657853
+      d: 1867640711
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -783342994
+      b: 1201264478
+      c: 1364333499
+      d: 1693353570
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: 1340980248
+      b: 1164510905
+      c: 738376320
+      d: -1247485916
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: 1048503827
+      b: 1332460185
+      c: 1150511541
+      d: -754847994
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: 1946537611
+      b: 1249926828
+      c: 1077819791
+      d: -2072435856
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &962677696768276672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_HolySite'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_HolySite
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: -76355704
+      b: 1252268994
+      c: 1411126683
+      d: 1613739035
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 483256543
+      b: 1153877940
+      c: 1444532648
+      d: -242961945
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: 317810928
+      b: 1116175947
+      c: -109351778
+      d: -1172494383
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -165497971
+      b: 1097823996
+      c: -944864356
+      d: -1887139784
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -1237618242
+      b: 1162080887
+      c: -143342156
+      d: -468343515
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 493430138
+      b: 1205540839
+      c: -753486203
+      d: 487352700
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 1957474218
+      b: 1199343544
+      c: 1836657853
+      d: 1867640711
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -783342994
+      b: 1201264478
+      c: 1364333499
+      d: 1693353570
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -1442594553
+      b: 1193511961
+      c: 798087056
+      d: -1274253621
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: 1340980248
+      b: 1164510905
+      c: 738376320
+      d: -1247485916
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: 934627376
+      b: 1229194916
+      c: -813624433
+      d: -380658442
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: 1048503827
+      b: 1332460185
+      c: 1150511541
+      d: -754847994
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 1419420802
+      b: 1215102051
+      c: 2111862671
+      d: 207125823
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -1237618242
+      b: 1162080887
+      c: -143342156
+      d: -468343515
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: -764581883
+      b: 1077562726
+      c: -978506583
+      d: -1884018658
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &1939334691654142444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_Science'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_Science
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: -76355704
+      b: 1252268994
+      c: 1411126683
+      d: 1613739035
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 493430138
+      b: 1205540839
+      c: -753486203
+      d: 487352700
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -523848268
+      b: 1143023596
+      c: -2076387940
+      d: 568423701
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: 1103554657
+      b: 1109543758
+      c: -843581790
+      d: 1945680076
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: -759906365
+      b: 1134307181
+      c: -1107944043
+      d: 2028062906
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: -2147216600
+      b: 1249714618
+      c: -2024595044
+      d: -2081384245
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: -764581883
+      b: 1077562726
+      c: -978506583
+      d: -1884018658
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &2219789710455760072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_PublicOrder'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_PublicOrder
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: -76355704
+      b: 1252268994
+      c: 1411126683
+      d: 1613739035
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 483256543
+      b: 1153877940
+      c: 1444532648
+      d: -242961945
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: 317810928
+      b: 1116175947
+      c: -109351778
+      d: -1172494383
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -165497971
+      b: 1097823996
+      c: -944864356
+      d: -1887139784
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 1429445290
+      b: 1081028323
+      c: -632274774
+      d: 853654811
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 1957474218
+      b: 1199343544
+      c: 1836657853
+      d: 1867640711
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -783342994
+      b: 1201264478
+      c: 1364333499
+      d: 1693353570
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -1442594553
+      b: 1193511961
+      c: 798087056
+      d: -1274253621
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: 1340980248
+      b: 1164510905
+      c: 738376320
+      d: -1247485916
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: 934627376
+      b: 1229194916
+      c: -813624433
+      d: -380658442
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: 1048503827
+      b: 1332460185
+      c: 1150511541
+      d: -754847994
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: -764581883
+      b: 1077562726
+      c: -978506583
+      d: -1884018658
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &3131558774559047745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_Military'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_Military
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: -76355704
+      b: 1252268994
+      c: 1411126683
+      d: 1613739035
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 483256543
+      b: 1153877940
+      c: 1444532648
+      d: -242961945
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 493430138
+      b: 1205540839
+      c: -753486203
+      d: 487352700
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -138120024
+      b: 1257648917
+      c: 1785895827
+      d: -668275140
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -1442594553
+      b: 1193511961
+      c: 798087056
+      d: -1274253621
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1595977670
+      b: 1263218776
+      c: -1714888524
+      d: -1162502097
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: 934627376
+      b: 1229194916
+      c: -813624433
+      d: -380658442
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: -2147216600
+      b: 1249714618
+      c: -2024595044
+      d: -2081384245
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: 1946537611
+      b: 1249926828
+      c: 1077819791
+      d: -2072435856
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &3521131170379551165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_CityCenter'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_CityCenter
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: 546332584
+      b: 1227317645
+      c: 1678826634
+      d: 578378025
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: -523848268
+      b: 1143023596
+      c: -2076387940
+      d: 568423701
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -1237618242
+      b: 1162080887
+      c: -143342156
+      d: -468343515
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 1429445290
+      b: 1081028323
+      c: -632274774
+      d: 853654811
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -1659352039
+      b: 1219521253
+      c: -819332731
+      d: 1354494928
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 2097612581
+      b: 1245286781
+      c: -1133216373
+      d: 326102393
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -523848268
+      b: 1143023596
+      c: -2076387940
+      d: 568423701
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1326825337
+      b: 1121273330
+      c: 902303668
+      d: 195601793
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: -759906365
+      b: 1134307181
+      c: -1107944043
+      d: 2028062906
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: 1048503827
+      b: 1332460185
+      c: 1150511541
+      d: -754847994
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: -14511864
+      b: 1228790856
+      c: 159840161
+      d: 1844046818
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -1237618242
+      b: 1162080887
+      c: -143342156
+      d: -468343515
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: 1946537611
+      b: 1249926828
+      c: 1077819791
+      d: -2072435856
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &6112400292901632081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/AdditionalStatus.DistrictVisualAffinity_Base_Food'
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: '*/District/AdditionalStatus'
+  contentType: 4
+  commonCriteriaName: DistrictVisualAffinity_Base_Food
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: StatusCategory_City_Abundance
+    Value:
+      a: 546332584
+      b: 1227317645
+      c: 1678826634
+      d: 578378025
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Administered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Austerity
+    Value:
+      a: 483256543
+      b: 1153877940
+      c: 1444532648
+      d: -242961945
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Blaze
+    Value:
+      a: -196986235
+      b: 1216256579
+      c: -839786364
+      d: -291544095
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Breakdown
+    Value:
+      a: 1672126413
+      b: 1092857505
+      c: -707772265
+      d: -1657553391
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Celebration
+    Value:
+      a: -1118126791
+      b: 1122565695
+      c: -558098024
+      d: 532921912
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Conservative
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Crisis
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Defiant
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Demonstration
+    Value:
+      a: 493430138
+      b: 1205540839
+      c: -753486203
+      d: 487352700
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Destitute
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Disease
+    Value:
+      a: -1659352039
+      b: 1219521253
+      c: -819332731
+      d: 1354494928
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Evacuated
+    Value:
+      a: 348901787
+      b: 1136806751
+      c: -1821889403
+      d: -574208265
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Exhausted
+    Value:
+      a: -1322052358
+      b: 1173392575
+      c: -1229617768
+      d: 1410571195
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Flood
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_GoldenAge
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_HighSecurity
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Learning
+    Value:
+      a: -1442594553
+      b: 1193511961
+      c: 798087056
+      d: -1274253621
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Mourning
+    Value:
+      a: -98760410
+      b: 1189161996
+      c: -748784758
+      d: -428022639
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Naturalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overpopulation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Overproduction
+    Value:
+      a: -1908210235
+      b: 1320670877
+      c: 1339680689
+      d: 1842301792
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Panic
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Plague
+    Value:
+      a: 1326825337
+      b: 1121273330
+      c: 902303668
+      d: 195601793
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Prosperity
+    Value:
+      a: -759906365
+      b: 1134307181
+      c: -1107944043
+      d: 2028062906
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicSupplies
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_PublicWorks
+    Value:
+      a: -2147216600
+      b: 1249714618
+      c: -2024595044
+      d: -2081384245
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Ransack
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_ScienceInvestment
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Siege
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Strikes
+    Value:
+      a: 1868125038
+      b: 1245937417
+      c: 1249369257
+      d: -1790724384
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Superstitious
+    Value:
+      a: 920939312
+      b: 1233018223
+      c: 1350380207
+      d: -708899283
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Tolerancy
+    Value:
+      a: -48204920
+      b: 1119874246
+      c: 2068099486
+      d: 1139038147
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Triumph
+    Value:
+      a: -764581883
+      b: 1077562726
+      c: -978506583
+      d: -1884018658
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Unadministered
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_Vassalized
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_War
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: StatusCategory_City_WarEffort
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0

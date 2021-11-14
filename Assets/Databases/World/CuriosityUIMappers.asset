@@ -1,0 +1,6014 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9201875699495283464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Unit02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_Unit02Title'
+  Description: '%Curiosity_Era2_World_Unit02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -509726238
+        b: 1335125115
+        c: 2014698382
+        d: -2077308145
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8995891066934793233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource11
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource11Title'
+  Description: '%Curiosity_Era0_Resource11Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8783390053216606600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era6
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8658195630669554329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource14
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource14Title'
+  Description: '%Curiosity_Era0_Resource14Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8651340019573047215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_C
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8635606861476740443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Money02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era1_World_Money02Title'
+  Description: '%Curiosity_Era1_World_Money02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1080633140
+        b: 1164888246
+        c: 1013923007
+        d: 1797171620
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8469832202637306426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource03
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource03Title'
+  Description: '%Curiosity_Era0_Resource03Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-8008456613905425219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Unit01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era3_World_Unit01Title'
+  Description: '%Curiosity_Era3_World_Unit01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1685176499
+        b: 1254345857
+        c: 1079509421
+        d: 1406791104
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7969750447430206523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Unit01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_Unit01Title'
+  Description: '%Curiosity_Era2_World_Unit01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 552295076
+        b: 1329351905
+        c: 1345401480
+        d: 2112816669
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7918128818837107491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource18
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource18Title'
+  Description: '%Curiosity_Era0_Resource18Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7855609476750116492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era4
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7639278844572910165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_A
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7541833366470308446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era1
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7483444828076608823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource28
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource28Title'
+  Description: '%Curiosity_Era0_Resource28Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-7177855760404323194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Science02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era3_World_Science02Title'
+  Description: '%Curiosity_Era3_World_Science02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -2118584915
+        b: 1196061214
+        c: 718547345
+        d: -641953893
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6950996198222898289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Unit02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era3_World_Unit02Title'
+  Description: '%Curiosity_Era3_World_Unit02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1014241786
+        b: 1074879640
+        c: -447436882
+        d: 1861253423
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6927025472480208855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era2
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6868842159668895230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Science01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era4_World_Science01Title'
+  Description: '%Curiosity_Era4_World_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1139811326
+        b: 1163241328
+        c: -61227865
+        d: 867067648
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6179353499875039643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource07
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource07Title'
+  Description: '%Curiosity_Era0_Resource07Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6173161402867599841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era6
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6154020248125387958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource21
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource21Title'
+  Description: '%Curiosity_Era0_Resource21Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-6046533005703080735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Money01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era1_World_Money01Title'
+  Description: '%Curiosity_Era1_World_Money01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1455415467
+        b: 1092185589
+        c: -1636488307
+        d: -182962472
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-5987664461433159521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Vision01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Vision01Title'
+  Description: '%Curiosity_Era0_Nomadic_Vision01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 481701854
+        b: 1259902304
+        c: -1599007062
+        d: 1046052914
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-5910925750471802135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era3
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-5757189366461622397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Science01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era1_World_Science01Title'
+  Description: '%Curiosity_Era1_World_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1355659135
+        b: 1337238156
+        c: -972073797
+        d: -1750931176
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-5732521641491464717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food02_B
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food02Title'
+  Description: '%Curiosity_Era0_Nomadic_Food02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -2077138719
+        b: 1125033542
+        c: -2066145405
+        d: -1807140936
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-5532244180265729367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource16
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource16Title'
+  Description: '%Curiosity_Era0_Resource16Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4709699396666821064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource26
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource26Title'
+  Description: '%Curiosity_Era0_Resource26Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4693701894741906994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Science01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era3_World_Science01Title'
+  Description: '%Curiosity_Era3_World_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1747188337
+        b: 1103508375
+        c: 1761030070
+        d: 1495774453
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4679559076366567610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Money02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era4_World_Money02Title'
+  Description: '%Curiosity_Era4_World_Money02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 2074548063
+        b: 1279768837
+        c: -1070918741
+        d: -294367207
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4647316471929983425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Money01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_Money01Title'
+  Description: '%Curiosity_Era2_World_Money01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -961937279
+        b: 1240177401
+        c: -287307894
+        d: -1702925509
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4596886934729597667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era5
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4403668922564149578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01_C
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food01Title'
+  Description: '%Curiosity_Era0_Nomadic_Food01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1910338130
+        b: 1112132960
+        c: -1899351936
+        d: -323124525
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4263839922280934013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Science02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era1_World_Science02Title'
+  Description: '%Curiosity_Era1_World_Science02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 718866903
+        b: 1320804744
+        c: 634811581
+        d: 1750842785
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-4044492441540822331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era0
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3940745625847927424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_ClaimTerritory01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_ClaimTerritory01Title'
+  Description: '%Curiosity_Era2_World_ClaimTerritory01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 554367251
+        b: 1213513882
+        c: 1441290424
+        d: -1674154598
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3644106992146829871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_E
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3528083683488710119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource02Title'
+  Description: '%Curiosity_Era0_Resource02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3298665383201399882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Money01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era4_World_Money01Title'
+  Description: '%Curiosity_Era4_World_Money01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -476605887
+        b: 1182980987
+        c: 891340215
+        d: -1525684996
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3282786682817273680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era5
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3154322531020040406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource19
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource19Title'
+  Description: '%Curiosity_Era0_Resource19Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-3034353155557454704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01_A
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food01Title'
+  Description: '%Curiosity_Era0_Nomadic_Food01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1910338130
+        b: 1112132960
+        c: -1899351936
+        d: -323124525
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-2996103395757020714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource25
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource25Title'
+  Description: '%Curiosity_Era0_Resource25Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-2452948956051142504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource17
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource17Title'
+  Description: '%Curiosity_Era0_Resource17Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-2301131721246893964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource29
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource29Title'
+  Description: '%Curiosity_Era0_Resource29Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-2182014172950429722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Unit02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era4_World_Unit02Title'
+  Description: '%Curiosity_Era4_World_Unit02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1828604172
+        b: 1296045739
+        c: -1312585832
+        d: -68473759
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-1921919823002636973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Money02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era3_World_Money02Title'
+  Description: '%Curiosity_Era3_World_Money02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -90626693
+        b: 1214587078
+        c: -871202400
+        d: 262110594
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-1903558245047711996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era3
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-1857223216304548175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Money02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_Money02Title'
+  Description: '%Curiosity_Era2_World_Money02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1167439471
+        b: 1122224939
+        c: 1371171765
+        d: -1656396663
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-1792155333588186830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource15
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource15Title'
+  Description: '%Curiosity_Era0_Resource15Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-1699919630533041188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era5
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-1451372310646289515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era3
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-982109674602400593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era2
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-312611048460240227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_G
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &-122852762091685913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era0
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CuriosityUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &74615740750988836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era6
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &134403301040266684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era5
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &425660511895813407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era0
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &735127901985318610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Unit01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era1_World_Unit01Title'
+  Description: '%Curiosity_Era1_World_Unit01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 2084061374
+        b: 1083648273
+        c: -1684645208
+        d: -1486734819
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1107473963380174004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01_D
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food01Title'
+  Description: '%Curiosity_Era0_Nomadic_Food01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1910338130
+        b: 1112132960
+        c: -1899351936
+        d: -323124525
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1177084138373996764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era4
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1344860051465493020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Unit01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era4_World_Unit01Title'
+  Description: '%Curiosity_Era4_World_Unit01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -898108731
+        b: 1288410038
+        c: -626557021
+        d: 728091581
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1513917448232355854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era2
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1619738726223128101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era3
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1799491581491956016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_B
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &1815559907915308887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era1
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &2056335021932570997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01_B
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food01Title'
+  Description: '%Curiosity_Era0_Nomadic_Food01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1910338130
+        b: 1112132960
+        c: -1899351936
+        d: -323124525
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &2280176558920856593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era4
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &2356529239202329712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_D
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &3164323893333698592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01_F
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &3507028352452008139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food02_A
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food02Title'
+  Description: '%Curiosity_Era0_Nomadic_Food02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -2077138719
+        b: 1125033542
+        c: -2066145405
+        d: -1807140936
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &3510722770317632526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era6
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &4326139488976165145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource22
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource22Title'
+  Description: '%Curiosity_Era0_Resource22Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &4375011973814059828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource27
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource27Title'
+  Description: '%Curiosity_Era0_Resource27Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &4774142787387509644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource04
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource04Title'
+  Description: '%Curiosity_Era0_Resource04Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &4963457541878655022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource08
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource08Title'
+  Description: '%Curiosity_Era0_Resource08Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &5112470472189441084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01_E
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food01Title'
+  Description: '%Curiosity_Era0_Nomadic_Food01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1910338130
+        b: 1112132960
+        c: -1899351936
+        d: -323124525
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &5115842643887623964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource06
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource06Title'
+  Description: '%Curiosity_Era0_Resource06Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &5530286418158967658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource01Title'
+  Description: '%Curiosity_Era0_Resource01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &5685591282894527040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundHolySite_Era4
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundHolySiteTitle'
+  Description: '%Curiosity_StateShare_FoundHolySiteDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &5926741711600902394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food03
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food03Title'
+  Description: '%Curiosity_Era0_Nomadic_Food03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1266799976
+        b: 1298595700
+        c: -1931768141
+        d: -382884598
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6011082114691724580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era2
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6357271204464503329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundCity_Era1
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundCityTitle'
+  Description: '%Curiosity_StateShare_FoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6365600801628058906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_FoundArtificialWonder_Era0
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_FoundArtificialWonderTitle'
+  Description: '%Curiosity_StateShare_FoundArtificialWonderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6466557061483645324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource12
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource12Title'
+  Description: '%Curiosity_Era0_Resource12Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6474113236586357777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_StateShare_GreatBattle_Era1
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_StateShare_GreatBattleTitle'
+  Description: '%Curiosity_StateShare_GreatBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6679620718397906165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Science01Title'
+  Description: '%Curiosity_Era0_Nomadic_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -909675167
+        b: 1159418945
+        c: -249133399
+        d: 2097246601
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1846461565
+        b: 1253241322
+        c: 889112720
+        d: 1004429545
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &6868546994562429896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Science02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era4_World_Science02Title'
+  Description: '%Curiosity_Era4_World_Science02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 2064107098
+        b: 1123564994
+        c: 1234176909
+        d: -416127226
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &7281816767996257014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Vision01_A
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Vision01Title'
+  Description: '%Curiosity_Era0_Nomadic_Vision01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 481701854
+        b: 1259902304
+        c: -1599007062
+        d: 1046052914
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &7410569912527766734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food01Title'
+  Description: '%Curiosity_Era0_Nomadic_Food01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1910338130
+        b: 1112132960
+        c: -1899351936
+        d: -323124525
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &7553767006224188361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource23
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource23Title'
+  Description: '%Curiosity_Era0_Resource23Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &7922332998661325566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource24
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource24Title'
+  Description: '%Curiosity_Era0_Resource24Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &7987814446849316369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource20
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource20Title'
+  Description: '%Curiosity_Era0_Resource20Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &8090259769815825152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource30
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource30Title'
+  Description: '%Curiosity_Era0_Resource30Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &8848364385671255922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Science02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_Science02Title'
+  Description: '%Curiosity_Era2_World_Science02Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1497473892
+        b: 1207136557
+        c: -1139320428
+        d: 1198838702
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &8927626744107317861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource05
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource05Title'
+  Description: '%Curiosity_Era0_Resource05Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &8927929905366683013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Science01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era2_World_Science01Title'
+  Description: '%Curiosity_Era2_World_Science01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1898123516
+        b: 1249628583
+        c: 383040150
+        d: -1155851624
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &9004938603750043480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food02
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Nomadic_Food02Title'
+  Description: '%Curiosity_Era0_Nomadic_Food02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1082159109
+        b: 1263642984
+        c: 1085695891
+        d: -736956089
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -2077138719
+        b: 1125033542
+        c: -2066145405
+        d: -1807140936
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &9046243721023029442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Resource13
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era0_Resource13Title'
+  Description: '%Curiosity_Era0_Resource13Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1441070165
+        b: 1112149730
+        c: -776554587
+        d: -1350048810
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+--- !u!114 &9123872262293791913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1278290999, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Money01
+  m_EditorClassIdentifier: 
+  Title: '%Curiosity_Era3_World_Money01Title'
+  Description: '%Curiosity_Era3_World_Money01Description'
+  Images:
+  - Value:
+      guid:
+        a: -997599083
+        b: 1277734853
+        c: 1800362126
+        d: -1040604469
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 35667733
+        b: 1107785442
+        c: -463539828
+        d: -498766069
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Gradient:
+    serializedVersion: 2
+    key0: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 1, g: 1, b: 1, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2

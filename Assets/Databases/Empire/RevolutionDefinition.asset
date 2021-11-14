@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9194880811533035784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1834005874, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Revolution_Default
+  m_EditorClassIdentifier: 
+  RevolutionPointThreshold: 20
+  RevolutionDuration: 5
+  RevolutionCivicPointPenalty: 1
+  NumberOfTurnBeforeWarningRevolution: 5
+  RevolutionEffectDescriptor:
+    serializableElementName: Effect_Status_Empire_Revolution
+  PostRevolutionDescriptor:
+    serializableElementName: Effect_Status_Empire_PostRevolution
+  PostRevolutionDuration: 5
+  StabilityPointRevolutionSteps:
+  - StabilityMinimum: 0
+    RevolutionPointDelta: 4
+  - StabilityMinimum: 1
+    RevolutionPointDelta: 2
+  - StabilityMinimum: 31
+    RevolutionPointDelta: -1
+  - StabilityMinimum: 90
+    RevolutionPointDelta: -2
+--- !u!114 &-7451598519039429398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1834005874, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Revolution_Blitz
+  m_EditorClassIdentifier: 
+  RevolutionPointThreshold: 5
+  RevolutionDuration: 2
+  RevolutionCivicPointPenalty: 1
+  NumberOfTurnBeforeWarningRevolution: 2
+  RevolutionEffectDescriptor:
+    serializableElementName: Effect_Status_Empire_Revolution
+  PostRevolutionDescriptor:
+    serializableElementName: Effect_Status_Empire_PostRevolution
+  PostRevolutionDuration: 2
+  StabilityPointRevolutionSteps:
+  - StabilityMinimum: 0
+    RevolutionPointDelta: 4
+  - StabilityMinimum: 1
+    RevolutionPointDelta: 2
+  - StabilityMinimum: 31
+    RevolutionPointDelta: -1
+  - StabilityMinimum: 90
+    RevolutionPointDelta: -2
+--- !u!114 &-459194260310232790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1834005874, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Revolution_Normal
+  m_EditorClassIdentifier: 
+  RevolutionPointThreshold: 20
+  RevolutionDuration: 5
+  RevolutionCivicPointPenalty: 1
+  NumberOfTurnBeforeWarningRevolution: 3
+  RevolutionEffectDescriptor:
+    serializableElementName: Effect_Status_Empire_Revolution
+  PostRevolutionDescriptor:
+    serializableElementName: Effect_Status_Empire_PostRevolution
+  PostRevolutionDuration: 5
+  StabilityPointRevolutionSteps:
+  - StabilityMinimum: 0
+    RevolutionPointDelta: 4
+  - StabilityMinimum: 1
+    RevolutionPointDelta: 2
+  - StabilityMinimum: 31
+    RevolutionPointDelta: -1
+  - StabilityMinimum: 90
+    RevolutionPointDelta: -2
+--- !u!114 &-1507612648097039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1834005874, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Revolution_Fast
+  m_EditorClassIdentifier: 
+  RevolutionPointThreshold: 10
+  RevolutionDuration: 3
+  RevolutionCivicPointPenalty: 1
+  NumberOfTurnBeforeWarningRevolution: 3
+  RevolutionEffectDescriptor:
+    serializableElementName: Effect_Status_Empire_Revolution
+  PostRevolutionDescriptor:
+    serializableElementName: Effect_Status_Empire_PostRevolution
+  PostRevolutionDuration: 3
+  StabilityPointRevolutionSteps:
+  - StabilityMinimum: 0
+    RevolutionPointDelta: 4
+  - StabilityMinimum: 1
+    RevolutionPointDelta: 2
+  - StabilityMinimum: 31
+    RevolutionPointDelta: -1
+  - StabilityMinimum: 90
+    RevolutionPointDelta: -2
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -602124507, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: RevolutionDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &87794158167256319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1834005874, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Revolution_Endless
+  m_EditorClassIdentifier: 
+  RevolutionPointThreshold: 40
+  RevolutionDuration: 10
+  RevolutionCivicPointPenalty: 1
+  NumberOfTurnBeforeWarningRevolution: 10
+  RevolutionEffectDescriptor:
+    serializableElementName: Effect_Status_Empire_Revolution
+  PostRevolutionDescriptor:
+    serializableElementName: Effect_Status_Empire_PostRevolution
+  PostRevolutionDuration: 10
+  StabilityPointRevolutionSteps:
+  - StabilityMinimum: 0
+    RevolutionPointDelta: 4
+  - StabilityMinimum: 1
+    RevolutionPointDelta: 2
+  - StabilityMinimum: 31
+    RevolutionPointDelta: -1
+  - StabilityMinimum: 90
+    RevolutionPointDelta: -2
+--- !u!114 &3295437763337960512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1834005874, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Revolution_Slow
+  m_EditorClassIdentifier: 
+  RevolutionPointThreshold: 30
+  RevolutionDuration: 8
+  RevolutionCivicPointPenalty: 1
+  NumberOfTurnBeforeWarningRevolution: 8
+  RevolutionEffectDescriptor:
+    serializableElementName: Effect_Status_Empire_Revolution
+  PostRevolutionDescriptor:
+    serializableElementName: Effect_Status_Empire_PostRevolution
+  PostRevolutionDuration: 8
+  StabilityPointRevolutionSteps:
+  - StabilityMinimum: 0
+    RevolutionPointDelta: 4
+  - StabilityMinimum: 1
+    RevolutionPointDelta: 2
+  - StabilityMinimum: 31
+    RevolutionPointDelta: -1
+  - StabilityMinimum: 90
+    RevolutionPointDelta: -2

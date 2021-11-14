@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8448712639640895083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeRaiseArmy
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeRaiseArmyTitle'
+  Description: '%ConstructibleTypeRaiseArmyDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 3
+--- !u!114 &-8181390270699936085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeSettlementImprovement
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeSettlementImprovementTitle'
+  Description: '%ConstructibleTypeSettlementImprovementDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 2
+--- !u!114 &-6592814335073644272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeTerraformation
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeTerraformationTitle'
+  Description: '%ConstructibleTypeTerraformationDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 1
+--- !u!114 &-6361406307054270910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeArtificialWonder
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeArtificialWonderTitle'
+  Description: '%ConstructibleTypeArtificialWonderDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 5
+--- !u!114 &-3992560566072649947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeRuinDistrict
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeRuinDistrictTitle'
+  Description: '%ConstructibleTypeRuinDistrictDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 1
+--- !u!114 &-2539873835802491472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeNone
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeNoneTitle'
+  Description: '%ConstructibleTypeNoneDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 0
+--- !u!114 &-2028510569152985819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeHolySite
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeHolySiteTitle'
+  Description: '%ConstructibleTypeHolySiteDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 5
+--- !u!114 &-1556595220419924911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeEmpireWideConstructionParticipation
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeEmpireWideConstructionParticipationTitle'
+  Description: '%ConstructibleTypeEmpireWideConstructionParticipationDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 5
+--- !u!114 &-1167680778238207703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeConstructibleAction
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeConstructibleActionTitle'
+  Description: '%ConstructibleTypeConstructibleActionDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ConstructibleTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &736931098436306712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeRepeatable
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeRepeatableTitle'
+  Description: '%ConstructibleTypeRepeatableDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 4
+--- !u!114 &1952161976304764599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeExtensionDistrict
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeExtensionDistrictTitle'
+  Description: '%ConstructibleTypeExtensionDistrictDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 1
+--- !u!114 &6509061264385858173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeNationalProject
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeNationalProjectTitle'
+  Description: '%ConstructibleTypeNationalProjectDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 5
+--- !u!114 &7444219329743812067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeExploitationDistrict
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeExploitationDistrictTitle'
+  Description: '%ConstructibleTypeExploitationDistrictDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 1
+--- !u!114 &7945267214413957906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeSettlementEvolution
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeSettlementEvolutionTitle'
+  Description: '%ConstructibleTypeSettlementEvolutionDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 2
+--- !u!114 &8935960292317793839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1333395498, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleTypeUnit
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleTypeUnitTitle'
+  Description: '%ConstructibleTypeUnitDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ConstructibleSection: 3

@@ -1,0 +1,680 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7905325342308112028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2024275426, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ResearchTechnology_SeafaringMastery
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ResearchTechnology
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Technology_Era3_04
+--- !u!114 &-7701425862758618082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -384585570, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_UninhabitedContinentTreaded
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_UninhabitedContinentTreaded
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &-7358856969664438884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_WorldCircumnavigated
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_WorldCircumnavigated
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &-6072213233239430291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_BuildRailtrail
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_BuildRailtrail
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Medium
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &-5326216898763150722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 706462088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ImportantSettlementImprovementFactoryBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Infrastructure_Industry_Family05_03
+  PreventCollisionWithNarratorSentence: 1
+--- !u!114 &-5103159233123295548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 706462088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ImportantSettlementImprovementFortBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Infrastructure_Military_Family04_02
+  PreventCollisionWithNarratorSentence: 1
+--- !u!114 &-4774753055717984966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1296342864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_NationalProjectCompleted
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_NationalProjectCompleted
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &-4435953310958224373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1805643966, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ContinentConquered
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ContinentConquered
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &-3327723623149372526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1805643966, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ContinentMapped
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ContinentMapped
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &-2774663589543634275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2024275426, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ResearchTechnology_Electricity
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ResearchTechnology
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Technology_Era5_10
+--- !u!114 &-1466844333680419146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2024275426, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ResearchTechnology_RenewableEnergy
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ResearchTechnology
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Technology_Era6_22
+--- !u!114 &-589300303640086424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 706462088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ImportantSettlementImprovementLibraryBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Infrastructure_Science_Family04_01
+  PreventCollisionWithNarratorSentence: 1
+--- !u!114 &-173701677915848908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1919752219, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_RepeatableCompleted_ScienceExperiment
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_RepeatableCompleted
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Repeatable_Science
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 435272420, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CompetitiveDeedDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &400804165009439461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1199866842, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_NaturalWonderDiscovered
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_NaturalWonderDiscovered
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &787621802350854737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_WorldMapped
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_WorldMapped
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &2398922440829969243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_HolySiteBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_HolySiteBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Medium
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &2632376658985068525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_BecomeLiege
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_BecomeLiege
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &3045374401175781130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ContinentCulturallyDominated
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ContinentCulturallyDominated
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &4500867251996915121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 706462088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ImportantSettlementImprovementSupercomputerBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Infrastructure_Science_Family01_03
+  PreventCollisionWithNarratorSentence: 1
+--- !u!114 &4843852622314951002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2024275426, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ResearchTechnology_Writing
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ResearchTechnology
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Technology_Era1_10
+--- !u!114 &5320245355419921304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2024275426, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ResearchTechnology_ImperialPower
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ResearchTechnology
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Technology_Era2_11
+--- !u!114 &5472720770385237412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ArtificialWonderCompleted
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ArtificialWonderCompleted
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &5675064524550421701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2024275426, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ResearchTechnology_Printing
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ResearchTechnology
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Technology_Era4_05
+--- !u!114 &6892997795089612122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 706462088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Infrastructure_Food_Family00_01
+  PreventCollisionWithNarratorSentence: 1
+--- !u!114 &8282962203994430385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_NuclearUnitCreated
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_NuclearUnitCreated
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &8483424390628383939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1472925872, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_AllResourcesAccessed
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_AllResourcesAccessed
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Big
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+--- !u!114 &9100614735684486019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 706462088, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Fame_CompetitiveDeed_ImportantSettlementImprovementPlayhouseBuilt
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  DlcPrerequisite:
+    DownloadableContent: 0
+  DeedDefinitionReference:
+    serializableElementName: Fame_CompetitiveDeed_ImportantSettlementImprovementBuilt
+  FameRewardReference:
+    DefinitionReference:
+      serializableElementName: FameReward_Small
+    UseCustomGain: 0
+    CustomGain:
+      RawValue: 0
+  SelectionMethod: 2
+  ElementReferences:
+  - serializableElementName: Infrastructure_PublicOrder_Family03_02
+  PreventCollisionWithNarratorSentence: 1

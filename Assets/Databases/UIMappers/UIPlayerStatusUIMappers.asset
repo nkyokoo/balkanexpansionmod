@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8388443382480946854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusReady
+  m_EditorClassIdentifier: 
+  Title: '%UIPlayerStatusReadyTitle'
+  Description: '%UIPlayerStatusReadyDescription'
+  Images:
+  - Value:
+      guid:
+        a: -693836841
+        b: 1228461355
+        c: -1923308379
+        d: 2064777739
+    serializableKey: Picto
+  Color: {r: 0.25490198, g: 0.7529412, b: 0.57254905, a: 1}
+  Symbol: 
+--- !u!114 &-2707791552976338301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusActive
+  m_EditorClassIdentifier: 
+  Title: '%UIPlayerStatusActiveTitle'
+  Description: '%UIPlayerStatusActiveDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1137792048267090384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusRehosting
+  m_EditorClassIdentifier: 
+  Title: '%UIPlayerStatusRehostingTitle'
+  Description: '%UIPlayerStatusRehostingDescription'
+  Images:
+  - Value:
+      guid:
+        a: 745131427
+        b: 1293982868
+        c: 2126802311
+        d: -308960794
+    serializableKey: Picto
+  Color: {r: 1, g: 0.8039216, b: 0.30588236, a: 1}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &874895383216966070
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusProcessingEndTurn
+  m_EditorClassIdentifier: 
+  Title: '%UIPlayerStatusProcessingEndTurnTitle'
+  Description: '%UIPlayerStatusProcessingEndTurnDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1191263594945351936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusInBattle
+  m_EditorClassIdentifier: 
+  Title: '%UIPlayerStatusInBattleTitle'
+  Description: '%UIPlayerStatusInBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -353164434
+        b: 1258821127
+        c: 1548354203
+        d: -1283959968
+    serializableKey: Picto
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Symbol: 
+--- !u!114 &4340444538198705761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIPlayerStatusPendingTurn
+  m_EditorClassIdentifier: 
+  Title: '%UIPlayerStatusPendingTurnTitle'
+  Description: '%UIPlayerStatusPendingTurnDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

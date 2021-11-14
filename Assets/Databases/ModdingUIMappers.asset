@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2309363704229233251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ModdingMenuMods
+  m_EditorClassIdentifier: 
+  Title: '%ModdingMenuModsTitle'
+  Description: '%ModdingMenuModsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ModdingUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &558335983116787248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: RuntimeModuleTypeExtension
+  m_EditorClassIdentifier: 
+  Title: '%RuntimeModuleTypeExtensionTitle'
+  Description: '%RuntimeModuleTypeExtensionDescription'
+  Images:
+  - Value:
+      guid:
+        a: 951187373
+        b: 1324718977
+        c: 1787997827
+        d: -1835932212
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1287211930885973525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: RuntimeModuleTypeConversion
+  m_EditorClassIdentifier: 
+  Title: '%RuntimeModuleTypeConversionTitle'
+  Description: '%RuntimeModuleTypeConversionDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1187704955
+        b: 1137235791
+        c: -520618061
+        d: 694041440
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6491822473374579603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ModdingMenuCompilations
+  m_EditorClassIdentifier: 
+  Title: '%ModdingMenuCompilationsTitle'
+  Description: '%ModdingMenuCompilationsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7338551226276064710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: RuntimeModuleTypeStandalone
+  m_EditorClassIdentifier: 
+  Title: '%RuntimeModuleTypeStandaloneTitle'
+  Description: '%RuntimeModuleTypeStandaloneDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1686315091
+        b: 1255333826
+        c: -534782816
+        d: -1756045801
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

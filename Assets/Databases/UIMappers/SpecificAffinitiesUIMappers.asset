@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: SpecificAffinitiesUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &3177142532132096321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinitiesMerchantForwardedStrategicResources
+  m_EditorClassIdentifier: 
+  Title: '%AffinitiesMerchantForwardedStrategicResourcesTitle'
+  Description: '%AffinitiesMerchantForwardedStrategicResourcesDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1843173385
+        b: 1237541408
+        c: -813852483
+        d: -1414876014
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4483370150129963208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinitiesMerchantForwardedLuxuryResources
+  m_EditorClassIdentifier: 
+  Title: '%AffinitiesMerchantForwardedLuxuryResourcesTitle'
+  Description: '%AffinitiesMerchantForwardedLuxuryResourcesDescription'
+  Images:
+  - Value:
+      guid:
+        a: 908435024
+        b: 1075622542
+        c: -880586094
+        d: -841191601
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

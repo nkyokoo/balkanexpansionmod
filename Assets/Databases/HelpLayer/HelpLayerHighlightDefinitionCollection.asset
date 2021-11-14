@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9012589827761961763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1997036329, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HelpLayer_BottomRightSquircleCornerHighlightDefinition
+  m_EditorClassIdentifier: 
+  Prefab:
+    guid:
+      a: -1196117823
+      b: 1108213773
+      c: -567438434
+      d: -1427392053
+--- !u!114 &-8640122000065939266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1997036329, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HelpLayer_CircleHighlightDefinition
+  m_EditorClassIdentifier: 
+  Prefab:
+    guid:
+      a: 335363027
+      b: 1138528875
+      c: 117671823
+      d: 40190851
+--- !u!114 &-3862249591269346834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1997036329, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HelpLayer_SquircleHighlightDefinition
+  m_EditorClassIdentifier: 
+  Prefab:
+    guid:
+      a: -700459275
+      b: 1189558973
+      c: -380530527
+      d: 647900449
+--- !u!114 &-1007179620243202089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1997036329, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HelpLayer_ManagementBannerHighlightDefinition
+  m_EditorClassIdentifier: 
+  Prefab:
+    guid:
+      a: 1877424162
+      b: 1302365422
+      c: -1096031615
+      d: -1560298749
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -117565020, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HelpLayerHighlightDefinitionCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &2347445713420861491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1997036329, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HelpLayer_TopRightSquircleCornerHighlightDefinition
+  m_EditorClassIdentifier: 
+  Prefab:
+    guid:
+      a: -1669882831
+      b: 1277352512
+      c: -1519480394
+      d: 1576103830

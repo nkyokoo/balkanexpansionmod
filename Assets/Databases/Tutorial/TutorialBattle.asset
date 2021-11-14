@@ -1,0 +1,2963 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8126753085770817882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_Fortifications_01
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_Fortifications_01Title'
+  DescriptionLocalization: '%Tutorial_Fortifications_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1377089647
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: Tutorial_Fortifications_02
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-8049787173383550259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_CapturePoint_01
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_CapturePoint_01Title'
+  DescriptionLocalization: '%Tutorial_CapturePoint_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 1825721183
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 0
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites:
+    - serializableElementName: Tutorial_BattleAttack_01
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-6210593645387151819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleReport_01
+  m_EditorClassIdentifier: 
+  Level: 6
+  Domain: 7
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleReport_01Title'
+  DescriptionLocalization: '%Tutorial_BattleReport_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 7
+  UITargets: []
+  CompletionActions: 20000000
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 1
+    Type: 1
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 0
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-6181124649468627884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_DefenderSiege_01
+  m_EditorClassIdentifier: 
+  Level: 7
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_DefenderSiege_01Title'
+  DescriptionLocalization: '%Tutorial_DefenderSiege_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1477178642
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1931394896
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1951354293
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 698812713
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 5
+    LocalEmpireRoleRequierement: 2
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-5433229118346173928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleRound_05
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleRound_05Title'
+  DescriptionLocalization: '%Tutorial_BattleRound_05Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 698812713
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-3398521343231688594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_Attacking_01
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 4
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_Attacking_01Title'
+  DescriptionLocalization: '%Tutorial_Attacking_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 202406109
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: CircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags:
+    - ArmyActionAttackArmyTag
+    serializableGUITagsBlacklist: []
+  - Stamp: 440309245
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 1
+    EraReference:
+      serializableElementName: Era0
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites:
+  - Property: 9
+    Operator: 1
+    Value: 2
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites:
+  - Constraint: 1
+    ArmyAction: 0
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 0
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-2080595623886899912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_MaintainSiege_02
+  m_EditorClassIdentifier: 
+  Level: 6
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_MaintainSiege_02Title'
+  DescriptionLocalization: '%Tutorial_MaintainSiege_02Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1931394896
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1951354293
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1477178642
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 1905474150
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags:
+    - SiegeUnitItemCompletedTag
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites:
+  - Property: 0
+    Operator: 2
+    Value: 1
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 5
+    LocalEmpireRoleRequierement: 1
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-1468270589473232075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleRound_03
+  m_EditorClassIdentifier: 
+  Level: 6
+  Domain: 4210688
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleRound_03Title'
+  DescriptionLocalization: '%Tutorial_BattleRound_03Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 1091475877
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags:
+    - ParentIsClearTag
+    serializableGUITagsBlacklist: []
+  - Stamp: 1773633976
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 3
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 0600000013000000
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-1306954498303112558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleMovement_01
+  m_EditorClassIdentifier: 
+  Level: 4
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleMovement_01Title'
+  DescriptionLocalization: '%Tutorial_BattleMovement_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: SimulateRightClickGame
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1219302326
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-157373254965140705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_LaunchSiege_01
+  m_EditorClassIdentifier: 
+  Level: 6
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_LaunchSiege_01Title'
+  DescriptionLocalization: '%Tutorial_LaunchSiege_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 1825721183
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 1192570112
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1981894026
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 1639621385
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 2
+    LocalEmpireRoleRequierement: 1
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 1
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &-114822903900926028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleDefender_01
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleDefender_01Title'
+  DescriptionLocalization: '%Tutorial_BattleDefender_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -37064567
+    CompleteOnInteraction: 1
+    SkipOnCompletion:
+    - serializableElementName: Tutorial_Battle_01
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 2
+    LocalEmpireRoleRequierement: 2
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1209919067, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialBattle
+  m_EditorClassIdentifier: 
+--- !u!114 &1862627701126242172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleAttack_01
+  m_EditorClassIdentifier: 
+  Level: 4
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleAttack_01Title'
+  DescriptionLocalization: '%Tutorial_BattleAttack_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: SimulateRightClickGame
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: SimulateRightClickGame
+      IsMandatory: 0
+    KeyCode: 0
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 595613611
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &3115259927131533209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_EndureSiege_01
+  m_EditorClassIdentifier: 
+  Level: 7
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_EndureSiege_01Title'
+  DescriptionLocalization: '%Tutorial_EndureSiege_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1300710006
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1931394896
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1951354293
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1477178642
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 16336908
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: CircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 698812713
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 5
+    LocalEmpireRoleRequierement: 2
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 1
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &3287248759241976318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_SpawnPoint_01
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 2
+  SubDomain: 0
+  Category: 1
+  TitleLocalization: '%Tutorial_SpawnPoint_01Title'
+  DescriptionLocalization: '%Tutorial_SpawnPoint_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1610296915
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 0
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites:
+    - serializableElementName: Tutorial_InfrastructureConstruction_01
+    - serializableElementName: Tutorial_UnitConstruction_01
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &3557502630626900771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_AutoBattle_01
+  m_EditorClassIdentifier: 
+  Level: 4
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_AutoBattle_01Title'
+  DescriptionLocalization: '%Tutorial_AutoBattle_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -846644910
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 3
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 2
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites:
+    - serializableElementName: Tutorial_BattleReport_01
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &3741869319048100360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_AttackRange_01
+  m_EditorClassIdentifier: 
+  Level: 4
+  Domain: 16384
+  SubDomain: 512
+  Category: 2
+  TitleLocalization: '%Tutorial_AttackRange_01Title'
+  DescriptionLocalization: '%Tutorial_AttackRange_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1617519671
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 1
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 0
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites:
+    - serializableElementName: Tutorial_BattleMovement_01
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &4013253726170451187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_Battle_01
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_Battle_01Title'
+  DescriptionLocalization: '%Tutorial_Battle_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -37064567
+    CompleteOnInteraction: 1
+    SkipOnCompletion:
+    - serializableElementName: Tutorial_BattleDefender_01
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 2
+    LocalEmpireRoleRequierement: 1
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &4467040738839834554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_AttackerSiege_01
+  m_EditorClassIdentifier: 
+  Level: 7
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_AttackerSiege_01Title'
+  DescriptionLocalization: '%Tutorial_AttackerSiege_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1477178642
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1931394896
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1951354293
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 698812713
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 1
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 5
+    LocalEmpireRoleRequierement: 1
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &4958779645297890722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_Flanking_01
+  m_EditorClassIdentifier: 
+  Level: 1
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_Flanking_01Title'
+  DescriptionLocalization: '%Tutorial_Flanking_01Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1219302326
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 1
+    EraReference:
+      serializableElementName: Era1
+  EmpirePropertyPrerequisites:
+  - Property: 33
+    Operator: 2
+    Value: 3
+  - Property: 25
+    Operator: 2
+    Value: 2
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 1
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &5670544017775661854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_MaintainSiege_01
+  m_EditorClassIdentifier: 
+  Level: 6
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_MaintainSiege_01Title'
+  DescriptionLocalization: '%Tutorial_MaintainSiege_01Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 5
+  UITargets:
+  - Stamp: -1931394896
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: -1951354293
+    CompleteOnInteraction: 1
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: 
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  - Stamp: 1905474150
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 0
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 0
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags:
+    - SiegeUnitItemTag
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 5
+    LocalEmpireRoleRequierement: 1
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 1
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &7292437099355873322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_BattleRound_04
+  m_EditorClassIdentifier: 
+  Level: 7
+  Domain: 4210688
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_BattleRound_04Title'
+  DescriptionLocalization: '%Tutorial_BattleRound_04Description'
+  DescriptionLocalizationBindings:
+  - BindingType: 0
+    Action:
+      ActionMapName: Presentation.Generic
+      ActionId: ActivateOrSelect
+      IsMandatory: 0
+    KeyCode: 0
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: 16336908
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 2
+    TextSecondaryAnchor: 4
+    Highlight: 0
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 0
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 4
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 0
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites: []
+--- !u!114 &7610300683548719601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 470145577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Tutorial_Fortifications_02
+  m_EditorClassIdentifier: 
+  Level: 5
+  Domain: 16384
+  SubDomain: 0
+  Category: 2
+  TitleLocalization: '%Tutorial_Fortifications_02Title'
+  DescriptionLocalization: '%Tutorial_Fortifications_02Description'
+  DescriptionLocalizationBindings: []
+  InstructionLocalization: 
+  InstructionLocalizationBindings: []
+  TutorialBoxSize: 0
+  ForceTutorialBoxOverlay: 0
+  IsReminder: 0
+  CompleteOnTutorialClosed: 1
+  SkipWaitingTurns: 1
+  SpecificAnchor: 0
+  UITargets:
+  - Stamp: -1377089647
+    CompleteOnInteraction: 0
+    SkipOnCompletion: []
+    TextAnchor: 1
+    TextPrimaryAnchor: 0
+    TextSecondaryAnchor: 4
+    Highlight: 1
+    HighlightDefinition:
+      serializableElementName: SquircleHighlight
+    HighlightMandatory: 1
+    serializableGUITags: []
+    serializableGUITagsBlacklist: []
+  CompletionActions: 
+  SlaveTutorials: []
+  TutorialChainNextElement:
+    serializableElementName: 
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: 
+  EmpirePropertyPrerequisites: []
+  EntityStatusPrerequisites: []
+  SettlementPropertyPrerequisites: []
+  SettlementActionPrerequisites: []
+  ReligionPropertyPrerequisites: []
+  DiplomacyPropertyPrerequisites: []
+  ArmyPropertyPrerequisites: []
+  BattlePropertyPrerequisites: []
+  ArmyActionPrerequisites: []
+  ArmyCompositionPrerequisites: []
+  TechnologyPrerequisite:
+    TechnologyUnlockConstraint: 0
+    TechnologyStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+  DistrictPlacementPrerequisite:
+    SynergyVisibilityConstraint: 0
+  ConstructiblePrerequisite:
+    ConstructibleAvailabilityConstraint: 0
+    ConstructibleSourceType: 0
+    ConstructibleTypeConstraint: 0
+    ConstructibleBuyoutConstraint: 0
+    ConstructibleStringConstraints: []
+    Inverted: 0
+    serializableNameConstraints: []
+    serializableTagConstraints: []
+  CuriosityPrerequisite:
+    Constraint: 0
+    serializableCuriosityNames: []
+  NotificationPrerequisite:
+    Constraint: 0
+    Type: 0
+  DepositPrerequisite:
+    DepositVisibilityConstraint: 0
+    DepositExploitationConstraint: 0
+    DepositOwnershipConstraint: 0
+    SerializableResourceDepositNames: []
+  BattlePanelPrerequisite:
+    RequieredPhase: 3
+    LocalEmpireRoleRequierement: 0
+    OwnUnitSelected: 0
+    ManualBattle: 0
+    IsSiege: 1
+    IsContinueSiegeGreyedOut: 0
+    LocalEmpireSiegeStatusRequierement: 0
+  SocietyPrerequisite:
+    CultureGaugesAvailable: 0
+    CivicPointGaugeVisible: 0
+    TechnologieForSaleVisible: 0
+    CivicShakedownVisible: 0
+    CivicsNarrativeEventDisplayed: 0
+    AtLeastOneCivicsVotable: 0
+  MinorFactionPrerequisite:
+    SelectedMinorFactionConstraint: 0
+    StatusesConstraint: 
+  AffinityPrerequisites:
+    RequieredAffinity: 0
+    ScienceModeState: 0
+    IsFarmerGaugeCharging: 0
+    PopulationBoostAvailability: 0
+    PopulationStealAvailability: 0
+    AtLeastOneTradeForwarded: 0
+  PathCuriosityPrerequisites: []
+  BeginnerPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites:
+    - serializableElementName: Tutorial_Fortifications_01
+  AdvancedPrerequisites:
+    ConditionalOperator: 0
+    ElementPrerequisites:
+    - serializableElementName: Tutorial_Fortifications_01

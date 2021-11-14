@@ -1,0 +1,665 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8503802112260998421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1899580271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AISuperiorityScoreConfiguration
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  IsSuperiorityScore: 1
+  LogModifiers:
+  - Duration: 9999
+    Impact: 0
+    FeedbackImportance: 5
+    MaximumNumberOfOccurrences: 1
+    logLong: 4294967296
+  - Duration: 50
+    Impact: 0
+    FeedbackImportance: 5
+    MaximumNumberOfOccurrences: 2
+    logLong: 67108864
+  - Duration: 9999
+    Impact: 1
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 2147483648
+  - Duration: 50
+    Impact: 1
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 2048
+  - Duration: 50
+    Impact: 1
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 2
+    logLong: 8
+  - Duration: 50
+    Impact: 1
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 17179869184
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 1
+    MaximumNumberOfOccurrences: 2
+    logLong: 1024
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 1
+    logLong: 16384
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 2
+    logLong: 256
+  - Duration: 50
+    Impact: 3
+    FeedbackImportance: 1
+    MaximumNumberOfOccurrences: 1
+    logLong: 32768
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 2
+    logLong: 134217728
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 8589934592
+  - Duration: 9999
+    Impact: 4
+    FeedbackImportance: 4
+    MaximumNumberOfOccurrences: 1
+    logLong: 536870912
+  - Duration: 9999
+    Impact: 5
+    FeedbackImportance: 5
+    MaximumNumberOfOccurrences: 1
+    logLong: 268435456
+  ScoreModifiers:
+  - Modifier: 29
+    Impact: 0
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 27
+    Impact: 1
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 30
+    Impact: 1
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 47
+    Impact: 1
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 80
+    IncreasingImpactDuration: 0
+  - Modifier: 43
+    Impact: 2
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 36
+    Impact: 2
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 37
+    Impact: 2
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 52
+    Impact: 2
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 23
+    Impact: 2
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 33
+    Impact: 2
+    FeedbackImportance: 3
+    MaxOccurrences: 3
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 34
+    Impact: 3
+    FeedbackImportance: 3
+    MaxOccurrences: 3
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 25
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 28
+    Impact: 4
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 53
+    Impact: 3
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 39
+    Impact: 3
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 38
+    Impact: 3
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 44
+    Impact: 3
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 31
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 48
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 30
+    IncreasingImpactDuration: 0
+  - Modifier: 32
+    Impact: 5
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  ArchetypeModifiers: []
+--- !u!114 &-4794025398458868565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1899580271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AIRapportScoreConfiguration
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  IsSuperiorityScore: 0
+  LogModifiers:
+  - Duration: 50
+    Impact: 1
+    FeedbackImportance: 4
+    MaximumNumberOfOccurrences: 1
+    logLong: 16384
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 4
+    MaximumNumberOfOccurrences: 1
+    logLong: 2048
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 3
+    logLong: 8
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 2
+    logLong: 256
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 1024
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 4
+    MaximumNumberOfOccurrences: 1
+    logLong: 274877906944
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 67108864
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 2
+    logLong: 524288
+  - Duration: 50
+    Impact: 2
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 2
+    logLong: 1048576
+  - Duration: 50
+    Impact: 3
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 3
+    logLong: 32
+  - Duration: 50
+    Impact: 3
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 2
+    logLong: 4096
+  - Duration: 50
+    Impact: 3
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 1
+    logLong: 65536
+  - Duration: 50
+    Impact: 3
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 4
+    logLong: 4194304
+  - Duration: 30
+    Impact: 3
+    FeedbackImportance: 2
+    MaximumNumberOfOccurrences: 3
+    logLong: 4398046511104
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 5
+    logLong: 4
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 2
+    logLong: 16
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 4
+    MaximumNumberOfOccurrences: 1
+    logLong: 137438953472
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 3
+    logLong: 64
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 8192
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 4
+    MaximumNumberOfOccurrences: 2
+    logLong: 16777216
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 1
+    logLong: 32768
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 3
+    logLong: 8388608
+  - Duration: 50
+    Impact: 4
+    FeedbackImportance: 3
+    MaximumNumberOfOccurrences: 2
+    logLong: 2097152
+  - Duration: 50
+    Impact: 5
+    FeedbackImportance: 5
+    MaximumNumberOfOccurrences: 1
+    logLong: 131072
+  - Duration: 50
+    Impact: 5
+    FeedbackImportance: 5
+    MaximumNumberOfOccurrences: 1
+    logLong: 33554432
+  ScoreModifiers:
+  - Modifier: 50
+    Impact: 0
+    FeedbackImportance: 5
+    MaxOccurrences: 2
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 25
+  - Modifier: 63
+    Impact: 0
+    FeedbackImportance: 6
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 3
+    Impact: 1
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 16
+    Impact: 1
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 19
+    Impact: 1
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 23
+    Impact: 1
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 54
+    Impact: 1
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 55
+    Impact: 1
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 57
+    Impact: 1
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 60
+    Impact: 1
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 61
+    Impact: 1
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 24
+    Impact: 2
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 0
+    Impact: 2
+    FeedbackImportance: 0
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 17
+    Impact: 2
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 40
+    Impact: 2
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 46
+    Impact: 2
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 38
+    Impact: 2
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 12
+    Impact: 2
+    FeedbackImportance: 3
+    MaxOccurrences: 3
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 27
+    Impact: 2
+    FeedbackImportance: 1
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 18
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 28
+    Impact: 3
+    FeedbackImportance: 1
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 31
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 42
+    Impact: 3
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 8
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 30
+  - Modifier: 9
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 30
+  - Modifier: 10
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 30
+  - Modifier: 11
+    Impact: 3
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 30
+  - Modifier: 21
+    Impact: 3
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 56
+    Impact: 4
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 59
+    Impact: 4
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 49
+    Impact: 4
+    FeedbackImportance: 2
+    MaxOccurrences: 3
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 20
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 22
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 45
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 1
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 51
+    Impact: 4
+    FeedbackImportance: 3
+    MaxOccurrences: 2
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 15
+  - Modifier: 25
+    Impact: 4
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 26
+    Impact: 4
+    FeedbackImportance: 2
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 32
+    Impact: 4
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 14
+    Impact: 4
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 15
+    Impact: 4
+    FeedbackImportance: 3
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 39
+    Impact: 4
+    FeedbackImportance: 4
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 13
+    Impact: 5
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 35
+    Impact: 5
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 58
+    Impact: 5
+    FeedbackImportance: 5
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 62
+    Impact: 5
+    FeedbackImportance: 6
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  - Modifier: 64
+    Impact: 5
+    FeedbackImportance: 6
+    MaxOccurrences: 0
+    DecliningImpactDuration: 0
+    IncreasingImpactDuration: 0
+  ArchetypeModifiers:
+  - Archetypes: 262149
+    Modifier: -5
+  - Archetypes: 16384
+    Modifier: -10
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1121212772, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AIDiplomaticScoreConfigurationCollection
+  m_EditorClassIdentifier: 

@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7835041552843247759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsIndustryMode
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsIndustryModeTitle'
+  Description: '%CityFlagsIndustryModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -758496492
+        b: 1151064797
+        c: -1285134198
+        d: 1430071656
+    serializableKey: Picto
+  Color: {r: 0.8509804, g: 0.45490196, b: 0.1882353, a: 1}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &1149527808153359703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsDistrictCenterBeingStolen
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsDistrictCenterBeingStolenTitle'
+  Description: '%CityFlagsDistrictCenterBeingStolenDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1172827489605726251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsCaptured
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsCapturedTitle'
+  Description: '%CityFlagsCapturedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1340408535934810208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsMoneyMode
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsMoneyModeTitle'
+  Description: '%CityFlagsMoneyModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2114785140
+        b: 1150529331
+        c: 638699393
+        d: -747140420
+    serializableKey: Picto
+  Color: {r: 0.8509804, g: 0.6627451, b: 0.1882353, a: 1}
+  Symbol: 
+--- !u!114 &6633155518532493814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsBesieged
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsBesiegedTitle'
+  Description: '%CityFlagsBesiegedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6991890115172424095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsScienceMode
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsScienceModeTitle'
+  Description: '%CityFlagsScienceModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1168539512
+        b: 1149282308
+        c: -1010804316
+        d: -807566764
+    serializableKey: Picto
+  Color: {r: 0.1882353, g: 0.8509804, b: 0.8235294, a: 1}
+  Symbol: 
+--- !u!114 &8400211163903171939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CityFlagsDistrictCenterBeingRansacked
+  m_EditorClassIdentifier: 
+  Title: '%CityFlagsDistrictCenterBeingRansackedTitle'
+  Description: '%CityFlagsDistrictCenterBeingRansackedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

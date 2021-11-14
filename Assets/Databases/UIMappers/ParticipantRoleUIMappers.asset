@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3861572110162587469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ParticipantRoleMainParticipant
+  m_EditorClassIdentifier: 
+  Title: '%ParticipantRoleMainParticipantTitle'
+  Description: '%ParticipantRoleMainParticipantDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1808649012
+        b: 1187535926
+        c: -586094946
+        d: 1895810649
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1377448445673038396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ParticipantRoleNone
+  m_EditorClassIdentifier: 
+  Title: '%ParticipantRoleNoneTitle'
+  Description: '%ParticipantRoleNoneDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1883044678
+        b: 1113327396
+        c: -1901537633
+        d: 1250779734
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ParticipantRoleUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &7749059947201862338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ParticipantRoleExternal
+  m_EditorClassIdentifier: 
+  Title: '%ParticipantRoleExternalTitle'
+  Description: '%ParticipantRoleExternalDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2003906069
+        b: 1114580721
+        c: -1044607311
+        d: -1406604534
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &9131682700626275762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ParticipantRoleReinforcement
+  m_EditorClassIdentifier: 
+  Title: '%ParticipantRoleReinforcementTitle'
+  Description: '%ParticipantRoleReinforcementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2066567440
+        b: 1279427673
+        c: 574620825
+        d: -366159700
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

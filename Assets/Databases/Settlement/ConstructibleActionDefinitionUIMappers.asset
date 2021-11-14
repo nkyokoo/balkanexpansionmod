@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3255330234393959184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleAction_CampRelocationCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CampRelocationTitle'
+  Description: '%ConstructibleEvolution_CampRelocationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 116154410
+        b: 1314274848
+        c: 1264157862
+        d: -1602303211
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3905
+  ConstructibleTraits: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ConstructibleActionDefinitionUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &2447474874628199279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleAction_CleanRuin
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleAction_CleanRuinTitle'
+  Description: '%ConstructibleAction_CleanRuinDescription'
+  Images:
+  - Value:
+      guid:
+        a: 554549032
+        b: 1114883694
+        c: -1905225025
+        d: -1039771405
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4000
+  ConstructibleTraits: 
+--- !u!114 &8443258325350460515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleAction_ForestPlantation
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleAction_ForestPlantationTitle'
+  Description: '%ConstructibleAction_ForestPlantationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 554549032
+        b: 1114883694
+        c: -1905225025
+        d: -1039771405
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4005
+  ConstructibleTraits: 

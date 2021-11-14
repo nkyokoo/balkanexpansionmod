@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9033463439951695795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2122908594, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: HeroBadgeDefinition
+  m_EditorClassIdentifier: 
+  BadgeType: 1
+  DescriptorReferencesByLevel:
+  - serializableElementName: Effect_Diplomacy_HeroBadgeLevel1
+  - serializableElementName: Effect_Diplomacy_HeroBadgeLevel2
+  - serializableElementName: Effect_Diplomacy_HeroBadgeLevel3
+--- !u!114 &-8277907011418213300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2122908594, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ThiefBadgeDefinition
+  m_EditorClassIdentifier: 
+  BadgeType: 4
+  DescriptorReferencesByLevel:
+  - serializableElementName: Effect_Diplomacy_ThiefBadgeLevel1
+  - serializableElementName: Effect_Diplomacy_ThiefBadgeLevel2
+  - serializableElementName: Effect_Diplomacy_ThiefBadgeLevel3
+--- !u!114 &-6125530435099082652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2122908594, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WarriorBadgeDefinition
+  m_EditorClassIdentifier: 
+  BadgeType: 2
+  DescriptorReferencesByLevel:
+  - serializableElementName: Effect_Diplomacy_WarriorBadgeLevel1
+  - serializableElementName: Effect_Diplomacy_WarriorBadgeLevel2
+  - serializableElementName: Effect_Diplomacy_WarriorBadgeLevel3
+--- !u!114 &-4673483950508316847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2122908594, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MerchantBadgeDefinition
+  m_EditorClassIdentifier: 
+  BadgeType: 5
+  DescriptorReferencesByLevel:
+  - serializableElementName: Effect_Diplomacy_MerchantBadgeLevel1
+  - serializableElementName: Effect_Diplomacy_MerchantBadgeLevel2
+  - serializableElementName: Effect_Diplomacy_MerchantBadgeLevel3
+--- !u!114 &-2340040575824469580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2122908594, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MonsterBadgeDefinition
+  m_EditorClassIdentifier: 
+  BadgeType: 0
+  DescriptorReferencesByLevel:
+  - serializableElementName: Effect_Diplomacy_MonsterBadgeLevel1
+  - serializableElementName: Effect_Diplomacy_MonsterBadgeLevel2
+  - serializableElementName: Effect_Diplomacy_MonsterBadgeLevel3
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1567243524, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticBadgeDefinitionCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &441107968240872211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2122908594, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PacifistBadgeDefinition
+  m_EditorClassIdentifier: 
+  BadgeType: 3
+  DescriptorReferencesByLevel:
+  - serializableElementName: Effect_Diplomacy_PacifistBadgeLevel1
+  - serializableElementName: Effect_Diplomacy_PacifistBadgeLevel2
+  - serializableElementName: Effect_Diplomacy_PacifistBadgeLevel3

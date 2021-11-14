@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7750608258625671199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_NationalProject
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 100
+  Global: 0
+  NarrativeEventDefinitionDistribution: 0
+  NeedManualTrigger: 1
+  MaximumNumberOfConcurrentInstances: 10
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 0
+  NumberOfTurnsInDeadZoneAfterEraChange: 0
+  NumberOfTurnsInDeadZoneAfterTrigger: 0
+  NoUI: 0
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0
+--- !u!114 &-7627071886849435507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_Rare
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 3
+  Global: 0
+  NarrativeEventDefinitionDistribution: 0
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 10
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 1
+  NumberOfTurnsInDeadZoneAfterEraChange: 1
+  NumberOfTurnsInDeadZoneAfterTrigger: 1
+  NoUI: 0
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0
+--- !u!114 &-7401008097621763355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_StateShare
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 2
+  Global: 0
+  NarrativeEventDefinitionDistribution: 0
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 10
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 0
+  NumberOfTurnsInDeadZoneAfterEraChange: 0
+  NumberOfTurnsInDeadZoneAfterTrigger: 0
+  NoUI: 0
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0
+--- !u!114 &-4302760444470897916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_Narrator
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 1
+  Global: 0
+  NarrativeEventDefinitionDistribution: 0
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 10
+  ConsumeEventUponTrigger: 0
+  TriggerDistributionRange: 0
+  NumberOfTurnsInDeadZoneAfterEraChange: 0
+  NumberOfTurnsInDeadZoneAfterTrigger: 0
+  NoUI: 1
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2123347310, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategoryDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &1351947952458871979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_Civics
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 50
+  Global: 0
+  NarrativeEventDefinitionDistribution: 0
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 1
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 1
+  NumberOfTurnsInDeadZoneAfterEraChange: 1
+  NumberOfTurnsInDeadZoneAfterTrigger: 1
+  NoUI: 0
+  Picto:
+    guid:
+      a: 725507619
+      b: 1113386876
+      c: -967597904
+      d: 1748780849
+  NoRestrictionOnTiming: 0
+--- !u!114 &5754398463587319852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_Global
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 10
+  Global: 1
+  NarrativeEventDefinitionDistribution: 0
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 1
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 10
+  NumberOfTurnsInDeadZoneAfterEraChange: 3
+  NumberOfTurnsInDeadZoneAfterTrigger: 3
+  NoUI: 0
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0
+--- !u!114 &6458212396250057140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_Common
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 2
+  Global: 0
+  NarrativeEventDefinitionDistribution: 1
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 1
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 8
+  NumberOfTurnsInDeadZoneAfterEraChange: 3
+  NumberOfTurnsInDeadZoneAfterTrigger: 3
+  NoUI: 0
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0
+--- !u!114 &6696881135013009462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15112015, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarrativeEventCategory_Neolithic
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Priority: 2
+  Global: 0
+  NarrativeEventDefinitionDistribution: 1
+  NeedManualTrigger: 0
+  MaximumNumberOfConcurrentInstances: 1
+  ConsumeEventUponTrigger: 1
+  TriggerDistributionRange: 3
+  NumberOfTurnsInDeadZoneAfterEraChange: 1
+  NumberOfTurnsInDeadZoneAfterTrigger: 3
+  NoUI: 0
+  Picto:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  NoRestrictionOnTiming: 0

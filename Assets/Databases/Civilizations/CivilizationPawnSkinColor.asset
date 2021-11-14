@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8569910255858497805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_13
+  m_EditorClassIdentifier: 
+  Color: {r: 0.86666673, g: 0.8313726, b: 0.8078432, a: 1}
+--- !u!114 &-7894652001274015878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_31
+  m_EditorClassIdentifier: 
+  Color: {r: 0.86666673, g: 0.6627451, b: 0.4784314, a: 1}
+--- !u!114 &-6028841963057105861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_32
+  m_EditorClassIdentifier: 
+  Color: {r: 0.7686275, g: 0.6039216, b: 0.48235297, a: 1}
+--- !u!114 &-5784470251525684149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_43
+  m_EditorClassIdentifier: 
+  Color: {r: 0.6784314, g: 0.5568628, b: 0.4784314, a: 1}
+--- !u!114 &-5705941838761886591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_21
+  m_EditorClassIdentifier: 
+  Color: {r: 0.9215687, g: 0.8000001, b: 0.654902, a: 1}
+--- !u!114 &-5704810892988649693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_12
+  m_EditorClassIdentifier: 
+  Color: {r: 0.92549026, g: 0.8196079, b: 0.75294125, a: 1}
+--- !u!114 &-4888060116984761576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_23
+  m_EditorClassIdentifier: 
+  Color: {r: 0.73333335, g: 0.5921569, b: 0.42352945, a: 1}
+--- !u!114 &-2589703188032657971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_22
+  m_EditorClassIdentifier: 
+  Color: {r: 1, g: 0.85098046, b: 0.67058825, a: 1}
+--- !u!114 &-2264429401220061680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_51
+  m_EditorClassIdentifier: 
+  Color: {r: 0.36862746, g: 0.2627451, b: 0.23137257, a: 1}
+--- !u!114 &-2148247972201976096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_42
+  m_EditorClassIdentifier: 
+  Color: {r: 0.6156863, g: 0.47058827, b: 0.37254903, a: 1}
+--- !u!114 &-218802169295928983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_41
+  m_EditorClassIdentifier: 
+  Color: {r: 0.54509807, g: 0.4156863, b: 0.32941177, a: 1}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1525941485, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CivilizationPawnSkinColor
+  m_EditorClassIdentifier: 
+--- !u!114 &1469984665288704641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_0
+  m_EditorClassIdentifier: 
+  Color: {r: 1, g: 1, b: 1, a: 1}
+--- !u!114 &4772294470446931466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_33
+  m_EditorClassIdentifier: 
+  Color: {r: 0.65882355, g: 0.48627454, b: 0.35686275, a: 1}
+--- !u!114 &5758056795179797630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_11
+  m_EditorClassIdentifier: 
+  Color: {r: 0.9803922, g: 0.8470589, b: 0.76470596, a: 1}
+--- !u!114 &9150524300496130301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2072288283, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Skin_52
+  m_EditorClassIdentifier: 
+  Color: {r: 0.36862746, g: 0.3137255, b: 0.29803923, a: 1}

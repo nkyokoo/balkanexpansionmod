@@ -1,0 +1,1142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9045229469291127016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherEmpireCapturedCamp
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherEmpireCapturedCampDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherEmpireCapturedCampLogTitle'
+--- !u!114 &-8496555477069249888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeRefreshOrCreateGrievance
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_RefreshOrCreateGrievanceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_RefreshOrCreateGrievanceLogTitle'
+--- !u!114 &-8423004083606044353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeEndWarTreatyRefused
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_WhitePeaceTreatyRefusedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_WhitePeaceTreatyLogTitle'
+--- !u!114 &-8379351689653282074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherEmpireDeclaredEndOfAlliance
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherEmpireDeclaredEndOfAllianceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherEmpireDeclaredEndOfAllianceLogTitle'
+--- !u!114 &-7768075731010060876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDeclareWar
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DeclareWarDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DeclareWarLogTitle'
+--- !u!114 &-7421642016971157752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeOurCityOccupiedByThem
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_OurCityOccupiedByThemDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7247410496210473584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeTheirEmpireHasNoCapital
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_TheirEmpireHasNoCapitalDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7090519046065887129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeThisUnjustWarWasTheirFault
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_ThisUnjustWarWasTheirFaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6981390112040080855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeAtWarWithPacifist
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_AtWarWithPacifistDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: 
+--- !u!114 &-6471027540642914162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeRefuseSurrender
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_RefuseSurrenderDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_RefuseSurrenderLogTitle'
+--- !u!114 &-6461348088945118930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeCulturalProximity
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_CulturalProximityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6085620536547832098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDamageEnemyExtension
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DamageEnemyExtensionDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DamageEnemyExtensionLogTitle'
+--- !u!114 &-5962370643741950529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeThisUnjustWarWasOurFault
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_ThisUnjustWarWasOurFaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5874744520206815803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeTheirCityIsInStateOfUnrest
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_TheirCityIsInStateOfUnrestDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5518926217601532306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherEmpireCapturedCity
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherEmpireCapturedCityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherEmpireCapturedCityLogTitle'
+--- !u!114 &-5269194517860187461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDamageEnemyAdministrativeCentre
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DamageEnemyAdministrativeCentreDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DamageEnemyAdministrativeCentreLogTitle'
+--- !u!114 &-5012231555892752254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeOurEmpireHasNoCapital
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_OurEmpireHasNoCapitalDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4983393080720732095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeBattleWon
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_BattleWonDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_BattleWonLogTitle'
+--- !u!114 &-4796121273314601778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeBattleLost
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_BattleLostDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_BattleLostLogTitle'
+--- !u!114 &-4695650092277642957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeProximityStateThisWarWasTheirFault
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_ProximityStateThisWarWasTheirFaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4272272793881333197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDemandsRefused
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DemandsRefusedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DemandsRefusedLogTitle'
+--- !u!114 &-3899352469469153368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherRefuseSurrender
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherRefuseSurrenderDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherRefuseSurrenderLogTitle'
+--- !u!114 &-3789899638342715723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeProximityStateThisWarWasOurFault
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_ProximityStateThisWarWasOurFaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2432240178893078069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherEmpireBrokeAgreement
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherEmpireBrokeAgreementDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_BreakAgreementLogTitle'
+--- !u!114 &-2389563546652344298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeCreateDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_CreateDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_CreateDemandsLogTitle'
+--- !u!114 &-2362000768183967598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeRefuseDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_RefuseDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_RefuseDemandsLogTitle'
+--- !u!114 &-2082126327890994807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeWarStarts
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_WarStartsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: 
+--- !u!114 &-1762965196882439406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeTheirTerritoryIsUnderOurInfluence
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_TheirTerritoryIsUnderOurInfluenceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1258728912673940054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeOtherEmpireStability
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_OtherEmpireStabilityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-770171309963084859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherEmpireRetreated
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherEmpireRetreatedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherEmpireRetreatedLogTitle'
+--- !u!114 &-490166426796104252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeStallForTime
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_StallForTimeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoraleUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &376789042473722238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeMyEmpireAbandonedSiege
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_MyEmpireAbandonedSiegeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_MyEmpireAbandonedSiegeLogTitle'
+--- !u!114 &466479386934905103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeTheirCityOccupiedByUs
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_TheirCityOccupiedByUsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &833194327778080001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeMyEmpireCapturedCity
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_MyEmpireCapturedCityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_MyEmpireCapturedCityLogTitle'
+--- !u!114 &1211263878001254739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeWarAgainstPacifist
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_WarAgainstPacifistDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1212906242275393509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDeclareSurpriseWar
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DeclareSurpriseWarDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DeclareSupriseWarLogTitle'
+--- !u!114 &1550822965402797344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeOurTerritoryIsUnderTheirInfluence
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_OurTerritoryIsUnderTheirInfluenceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1574266921061731617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherEmpireAbandonedSiege
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherEmpireAbandonedSiegeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherEmpireAbandonedSiegeLogTitle'
+--- !u!114 &2322435159126532549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeRansackingAsMonster
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_RansackingAsMonsterDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: 
+--- !u!114 &2438910330772496066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeProposeEndWarTreaty
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_ProposeWhitePeaceTreatyDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_ProposeWhitePeaceTreatyLogTitle'
+--- !u!114 &2568278238313788945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeRetreat
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_RetreatDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_RetreatLogTitle'
+--- !u!114 &3357225059575494718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeEmpireStability
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_EmpireStabilityDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3960915118221634423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeMyExtensionHasBeenDamaged
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_MyExtensionHasBeenDamagedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_MyExtensionHasBeenDamagedLogTitle'
+--- !u!114 &4096756701619070221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeNoWarAndWeHaveMoreThanBaseMorale
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_NoWarAndWeHaveMoreThanBaseMoraleDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4165681309439285136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeNoWarAndWeHaveMoreOngoingDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_NoWarAndWeHaveMoreOngoingDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4294177579250143630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDeclareEndOfAlliance
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DeclareEndOfAllianceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DeclareEndOfAllianceLogTitle'
+--- !u!114 &4409263244259648821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeNoWarAndTheyHaveMoreOngoingDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_NoWarAndTheyHaveMoreOngoingDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4763206559153560984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeDeclareFormalWar
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_DeclareFormalWarDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_DeclareFormalWarLogTitle'
+--- !u!114 &4829238177731864061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeMyEmpireRetreated
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_MyEmpireRetreatedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_MyEmpireRetreatedLogTitle'
+--- !u!114 &5123681767426960078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeOurCityIsInStateOfUnrest
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_OurCityIsInStateOfUnrestDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5157364362394552359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeThisJustWarWasTheirFault
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_ThisJustWarWasTheirFaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5591879408608312553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeNoWarAndWeHaveLessThanBaseMorale
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_NoWarAndWeHaveLessThanBaseMoraleDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5699396395895099622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeAcceptDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_AcceptDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_AcceptDemandsLogTitle'
+--- !u!114 &6014965078437395337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeProposeEndCrisisTreaty
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_ProposeEndCrisisTreatyDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_ProposeEndCrisisTreatyLogTitle'
+--- !u!114 &6178123360133611438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeThisJustWarWasOurFault
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_ThisJustWarWasOurFaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6265268859521732419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeOurCityOccupiedByWarrior
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_OurCityOccupiedByWarriorDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6655136976265598477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeNoCities
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_NoCitiesDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_NoCitiesLogTitle'
+--- !u!114 &7184737391772401513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticMoralOvertimeInfluenceTypeDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_OvertimeInfluenceType_DemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8090507393671532860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeMyEmpireCapturedCamp
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_MyEmpireCapturedCampDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_MyEmpireCapturedCampLogTitle'
+--- !u!114 &8308779042513340591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeBreakAgreement
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_BreakAgreementDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_BreakAgreementLogTitle'
+--- !u!114 &8417755295415685458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeMyAdministrativeCentreHasBeenDamaged
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_MyAdministrativeCentreHasBeenDamagedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_MyAdministrativeCentreHasBeenDamagedLogTitle'
+--- !u!114 &8955753810120057079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeWithdrawDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_WithdrawDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_WithdrawDemandsLogTitle'
+--- !u!114 &8991206362906947580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeRansackedByMonster
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_RansackedByMonsterDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: 
+--- !u!114 &9020244146806423460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -781102957, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticMoralInfluenceTypeOtherRefuseDemands
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%DiplomaticMoral_InfluenceType_OtherRefuseDemandsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  LogTitle: '%DiplomaticMoral_InfluenceType_OtherRefuseDemandsLogTitle'

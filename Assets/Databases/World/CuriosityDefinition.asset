@@ -1,0 +1,1491 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9104705390685704021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Science02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_AncientRuins
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era1_World_Science02
+  Ratio: 5
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era1
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-8814031980084850053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Unit01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanCampfire
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era4_World_Unit01
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-8417058802752161686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Unit02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterArtifical
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era3_World_Unit02
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-6884158539218166396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Unit01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanCampfire
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Unit01
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-6807768242344379422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Science01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_AncientRuins
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era3_World_Science01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-6186942005920002412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Unit01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanHideout
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era1_World_Unit01
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era1
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-6052278971748334148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Money02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_DeathNatural
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era1_World_Money02
+  Ratio: 5
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era1
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-5256030053844722115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1380408157, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityNomadic
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_PrehistoricBushes
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era0_Nomadic_Food01
+  Ratio: 1
+  SpawnGroupMin: 1
+  SpawnGroupMax: 1
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era0
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_DryGrass
+    - TerrainType_Prairie
+    - TerrainType_WoodLand
+    - TerrainType_Forest
+    - TerrainType_RockyForest
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 10
+--- !u!114 &-5175528738584017357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Science01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_AncientRuins
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Science01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-5084273048415114647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Science02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterNatural
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era3_World_Science02
+  Ratio: 6
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-4930787327354513534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1380408157, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityNomadic
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_PrehistoricBushes
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era0_Nomadic_Food02
+  Ratio: 3
+  SpawnGroupMin: 1
+  SpawnGroupMax: 1
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era0
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_DryGrass
+    - TerrainType_Prairie
+    - TerrainType_WoodLand
+    - TerrainType_Forest
+    - TerrainType_RockyForest
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 10
+--- !u!114 &-4029968579257007123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Unit01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanCampfire
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era3_World_Unit01
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-3555073264297460401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Science01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_DeathNatural
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era1_World_Science01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era1
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-2452528355332334192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Science02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterNatural
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Science02
+  Ratio: 6
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-2235206695781090549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Money01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanMerchant
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era3_World_Money01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &-2053868281985230224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Money01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_DeathHuman
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Money01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 368001072, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &1021274931959505834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Money01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_DeathHuman
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era4_World_Money01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &1077566211965537782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era1_World_Money01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanMerchant
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era1_World_Money01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era1
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &1277825691992447006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era3_World_Money02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterArtifical
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era3_World_Money02
+  Ratio: 6
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era3
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &1284302703021048331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Science02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterNatural
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era4_World_Science02
+  Ratio: 6
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &2863998572558978780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1380408157, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Food03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityNomadic
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_PrehistoricBushes
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era0_Nomadic_Food03
+  Ratio: 1
+  SpawnGroupMin: 1
+  SpawnGroupMax: 1
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era0
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_DryGrass
+    - TerrainType_Prairie
+    - TerrainType_WoodLand
+    - TerrainType_Forest
+    - TerrainType_RockyForest
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 10
+--- !u!114 &3622939965082370954
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Vision01
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  Category:
+    serializableElementName: CuriosityNomadic
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanCampfire
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era0_Nomadic_Vision01
+  Ratio: 1
+  EraPrerequisite:
+    Operator: 1
+    EraReference:
+      serializableElementName: Era0
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 1
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 15
+--- !u!114 &4720290600351831824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Unit02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterArtifical
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era4_World_Unit02
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &4926016227061448766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Money02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterArtifical
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era4_World_Money02
+  Ratio: 6
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &6076313379562886087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Unit02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterArtifical
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Unit02
+  Ratio: 2
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &7025145528859541892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era4_World_Science01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_AncientRuins
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era4_World_Science01
+  Ratio: 10
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era4
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &7609605104871115634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_ClaimTerritory01
+  m_EditorClassIdentifier: 
+  IsObsolete: 1
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_AncientRuins
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Money01
+  Ratio: 1
+  EraPrerequisite:
+    Operator: 1
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 1
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &8743646882547846288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -853343330, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era2_World_Money02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityRegularCompetitive
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_WaterArtifical
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era2_World_Money02
+  Ratio: 6
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era2
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 1
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TerritoryClaimPrerequisite:
+    ClaimConstraint: 0
+    SettlementConstraintIfClaimed: 0
+    VisibilityConstraintIfClaimed: 0
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 25
+--- !u!114 &9019554287014056291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1380408157, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Curiosity_Era0_Nomadic_Science01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  Category:
+    serializableElementName: CuriosityNomadic
+  VisualAffinityReference:
+    serializableElementName: CuriosityVisualAffinity_HumanCampfire
+  IsCompetitive: 1
+  LootTableReference:
+    serializableElementName: LootTable_Curiosity_Era0_Nomadic_Knowledge01
+  Ratio: 17
+  SpawnGroupMin: 1
+  SpawnGroupMax: 1
+  EraPrerequisite:
+    Operator: 0
+    EraReference:
+      serializableElementName: Era0
+  BiomePrerequisite:
+    Constraint: 0
+    serializableBiomeName: 
+  PointOfInterestPrerequisite:
+    Constraint: 0
+    HideInUI: 0
+    serializablePointOfInterestNames: []
+  RiverPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+  TerrainPrerequisite:
+    Constraint: 2
+    HideInUI: 0
+    CanBuildOnWasteland: 0
+    serializableTerrainTypeNames:
+    - TerrainType_Ocean
+    - TerrainType_CoastalWater
+    - TerrainType_Lake
+  TileVisibilityPrerequisite:
+    Constraint: 2
+    Visibility: 1
+  lifeSpanInTurns: 15

@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8380796762322670208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: SettlementImprovementScienceCompleted
+  m_EditorClassIdentifier: 
+  Title: '%FameAction_SettlementInfrastructureScienceCompletedTitle'
+  Description: '%FameAction_SettlementInfrastructureScienceCompletedDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2020269551
+        b: 1242403204
+        c: 1950234268
+        d: 1405908759
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7887589570327697171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UnitCompleted
+  m_EditorClassIdentifier: 
+  Title: '%FameAction_UnitCompletedTitle'
+  Description: '%FameAction_UnitCompletedDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2020269551
+        b: 1242403204
+        c: 1950234268
+        d: 1405908759
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4650415215873294923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame
+  m_EditorClassIdentifier: 
+  Title: '%FameTitle'
+  Description: '%FameDescription'
+  Images:
+  - Value:
+      guid:
+        a: 678232807
+        b: 1177925724
+        c: 587563915
+        d: -717991984
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 678232807
+        b: 1177925724
+        c: 587563915
+        d: -717991984
+    serializableKey: Medium
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: '[Fame]'
+--- !u!114 &-1300508713408782931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EmblematicDistrictCompleted
+  m_EditorClassIdentifier: 
+  Title: '%FameAction_EmblematicDistrictCompletedTitle'
+  Description: '%FameAction_EmblematicDistrictCompletedDescription'
+  Images:
+  - Value:
+      guid:
+        a: 216147784
+        b: 1304309210
+        c: -1602481273
+        d: 1542206281
+    serializableKey: Picto
+  Color: {r: 0.8745098, g: 0.50980395, b: 0.4117647, a: 1}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame
+  m_EditorClassIdentifier: 
+--- !u!114 &2163465379149274009
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ExtensionDistrictCompleted
+  m_EditorClassIdentifier: 
+  Title: '%FameAction_ExtensionDistrictCompletedTitle'
+  Description: '%FameAction_ExtensionDistrictCompletedDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2020269551
+        b: 1242403204
+        c: 1950234268
+        d: 1405908759
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4536966704531253825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: SettlementImprovementMoneyCompleted
+  m_EditorClassIdentifier: 
+  Title: '%FameAction_SettlementInfrastructureMoneyCompletedTitle'
+  Description: '%FameAction_SettlementInfrastructureMoneyCompletedDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2020269551
+        b: 1242403204
+        c: 1950234268
+        d: 1405908759
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

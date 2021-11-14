@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7450559647314089926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_AttachCamp01
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_AttachCamp01Title'
+  Description: '%ActionCostModifier_AttachCamp01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1874255628
+        b: 1201424087
+        c: -686221897
+        d: -81444828
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-6291180970383266425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_Affinity_Expansionist_AttachCamp
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_Affinity_Expansionist_AttachCampTitle'
+  Description: '%ActionCostModifier_Affinity_Expansionist_AttachCampDescription'
+  Images:
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-3043672105468329360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_Civics_Army03
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_Civics_Army03Title'
+  Description: '%ActionCostModifier_Civics_Army03Description'
+  Images:
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2089924667484446235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_Affinity_Expansionist_UnassignAdministrator
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_Affinity_Expansionist_UnassignAdministratorTitle'
+  Description: '%ActionCostModifier_Affinity_Expansionist_UnassignAdministratorDescription'
+  Images:
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifierUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &234748731001965047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: TradeCostModifier_Trade01
+  m_EditorClassIdentifier: 
+  Title: '%TradeCostModifier_Trade01Title'
+  Description: '%TradeCostModifier_Trade01Description'
+  Images:
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &719777894774762519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: TradeCostModifier_LegacyTrait_Era4_VenetianRepublic
+  m_EditorClassIdentifier: 
+  Title: '%TradeCostModifier_LegacyTrait_Era4_VenetianRepublic_Title'
+  Description: '%TradeCostModifier_LegacyTrait_Era4_VenetianRepublic_Description'
+  Images:
+  - Value:
+      guid:
+        a: -1265305055
+        b: 1084409258
+        c: 1042053776
+        d: -2086926354
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3354593671570671419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_Affinity_Expansionist_CreateCamp
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_Affinity_Expansionist_CreateCampTitle'
+  Description: '%ActionCostModifier_Affinity_Expansionist_CreateCampDescription'
+  Images:
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6252337458922668025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_Affinity_Expansionist_CaptureCamp
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_Affinity_Expansionist_CaptureCampTitle'
+  Description: '%ActionCostModifier_Affinity_Expansionist_CaptureCampDescription'
+  Images:
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6257019824011087457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ActionCostModifier_Affinity_Expansionist_AttachCity
+  m_EditorClassIdentifier: 
+  Title: '%ActionCostModifier_Affinity_Expansionist_AttachCityTitle'
+  Description: '%ActionCostModifier_Affinity_Expansionist_AttachCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

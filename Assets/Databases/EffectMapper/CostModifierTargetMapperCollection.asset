@@ -1,0 +1,872 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9048091317933554806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_TrainStation
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_TrainStation'
+--- !u!114 &-8731527842128844246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_Military
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Military'
+--- !u!114 &-8633142529292014883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_PublicOrder
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_PublicOrder'
+--- !u!114 &-8310254259269040173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era1
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &-8271938047004583131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era1_12
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era1_12Title'
+--- !u!114 &-7578173379816783678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnitClass_FieldArtillery
+  m_EditorClassIdentifier: 
+  Localization: '%UnitClass_FieldArtilleryTitle'
+--- !u!114 &-7004282476949647032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: AttachCamp
+  m_EditorClassIdentifier: 
+  Localization: '%Unlock_EmpireAction_AttachCampTitle'
+--- !u!114 &-6637958934845110158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: CaptureCamp
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_EmpireAction_CaptureCampTitle'
+--- !u!114 &-6606706654855605584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Infrastructure_Industry_Family07_01
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Infrastructure_Industry_Family07_01'
+--- !u!114 &-6430365964647492610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: EmpireWideConstructionDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%EmpireWideConstructionDefinition'
+--- !u!114 &-6167314985108497168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era0_2
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era0_2'
+--- !u!114 &-5814781734038441933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era0_4
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era0_4'
+--- !u!114 &-5765625635056935354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnassignAdministrator
+  m_EditorClassIdentifier: 
+  Localization: '%UnassignAdministrator'
+--- !u!114 &-5296755654767833810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_Science
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Science'
+--- !u!114 &-4982223981905929463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Instantiate_Extension_Camp_CityCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Instantiate_Extension_Camp_CityCenter'
+--- !u!114 &-4624476261166537325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: AllConstructibles
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &-4347241193686303335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: NationalProjectDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%NationalProjectDefinition'
+--- !u!114 &-4003828270526174718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: HolySiteDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%HolySiteDefinition'
+--- !u!114 &-3918884802328743355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnitClass_NuclearMissile
+  m_EditorClassIdentifier: 
+  Localization: '%UnitClass_NuclearMissileTitle'
+--- !u!114 &-3906762202811832947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnitClass_HeavyCavalry
+  m_EditorClassIdentifier: 
+  Localization: '%UnitClass_HeavyCavalryTitle'
+--- !u!114 &-3391887453775865001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_PublicOrder
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_PublicOrder'
+--- !u!114 &-3263203170493027580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era0_1
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era0_1'
+--- !u!114 &-2160586226324818312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: AirUnitDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%AirUnitDefinition'
+--- !u!114 &-2101793928262445421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: ExtensionDistrictDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%ExtensionDistrictDefinition'
+--- !u!114 &-1945185731601395805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Religious
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Religious'
+--- !u!114 &-1890926496008039227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era6
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &-1283147079393770547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Harbour
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Harbour'
+--- !u!114 &-1172657327631705307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnitFamily_NuclearMissile
+  m_EditorClassIdentifier: 
+  Localization: '%UnitFamily_NuclearMissile'
+--- !u!114 &-1172278881291759241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era1_07
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era1_07Title'
+--- !u!114 &-396925471533287183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: MissileUnitDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%UnitClass_MissileTitle'
+--- !u!114 &-260515021395912169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era2_11
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era2_11Title'
+--- !u!114 &-105857426999795099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: AbsorbCity
+  m_EditorClassIdentifier: 
+  Localization: '%Unlock_EmpireAction_AbsorbCityTitle'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -523062418, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: CostModifierTargetMapperCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &464093118443517566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era0_3
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era0_3'
+--- !u!114 &1177803841249329379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_Money
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Money'
+--- !u!114 &1329442073869174363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era1_02
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era1_02Title'
+--- !u!114 &1443874154100558467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Assimilation
+  m_EditorClassIdentifier: 
+  Localization: '%ActionTypeAssimilationTitle'
+--- !u!114 &1461927308352392663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Infrastructure_Industry_Family04_02
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Infrastructure_Industry_SynergyRiver02'
+--- !u!114 &1585650604787655051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Emblematic
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Emblematic'
+--- !u!114 &1676031491133196480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: AllResources
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &1856002294709115438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_Food
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Food'
+--- !u!114 &2032154295039622787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family04
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_InfrastructureFamily_PublicOrder_Family04'
+--- !u!114 &2706215169113817256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: DistrictDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%DistrictDefinition'
+--- !u!114 &2787361057952321304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era5
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &2923928357411413303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: LandUnitDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%LandUnitDefinition'
+--- !u!114 &4242043427138248314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: NavalUnitDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%NavalUnitDefinition'
+--- !u!114 &4425790299063020801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: CreateCamp
+  m_EditorClassIdentifier: 
+  Localization: '%ActionTypeCreateCampTitle'
+--- !u!114 &4541437062663165934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: RentArmy
+  m_EditorClassIdentifier: 
+  Localization: '%ActionTypeRentArmyTitle'
+--- !u!114 &4709621811941534630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_VillageCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_VillageCenter'
+--- !u!114 &4768285388399205164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_HolySite
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_HolySite'
+--- !u!114 &4982662365320479090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era1_04
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era1_04Title'
+--- !u!114 &4986513572972228984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnitDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%UnitBreakdownSource'
+--- !u!114 &5063855662217021850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: RepeatableDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%RepeatableDefinition'
+--- !u!114 &5382286987105848155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era3
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &5526159250561004109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era4
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &5632115016687917961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: AllTechnologies
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &5906904997506952254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: UnitFamily_ThermonuclearMissile
+  m_EditorClassIdentifier: 
+  Localization: '%UnitFamily_ThermonuclearMissile'
+--- !u!114 &6167963603403847407
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: InfrastructureFamily_Military_Family01
+  m_EditorClassIdentifier: 
+  Localization: '%InfrastructureFamily_Military_Family01Title'
+--- !u!114 &6344465916458704823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Instantiate_Extension_Camp_CampCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Instantiate_Extension_Camp_CampCenter'
+--- !u!114 &7445105722785341294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family03
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_InfrastructureFamily_PublicOrder_Family03'
+--- !u!114 &8082487323097128020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Technology_Era1_01
+  m_EditorClassIdentifier: 
+  Localization: '%Technology_Era1_01Title'
+--- !u!114 &8163256311401631377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: ArtificialWonderDefinition
+  m_EditorClassIdentifier: 
+  Localization: '%ArtificialWonderDefinition'
+--- !u!114 &8195469678945077876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Extension_Base_Industry
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Industry'
+--- !u!114 &8424697438686349579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Infrastructure_Industry_Family08_01
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Infrastructure_Industry_Family08_01'
+--- !u!114 &8485381819216528099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era0
+  m_EditorClassIdentifier: 
+  Localization: 
+--- !u!114 &8595947673872991837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Military
+  m_EditorClassIdentifier: 
+  Localization: '%SettlementScreenMilitaryCategoryTitle'
+--- !u!114 &9001985474322899818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1611000433, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Era2
+  m_EditorClassIdentifier: 
+  Localization: 

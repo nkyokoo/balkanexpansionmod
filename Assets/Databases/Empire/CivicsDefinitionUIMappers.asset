@@ -1,0 +1,1374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9043675539139108601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Religion03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Religion03Title'
+  Description: '%Civics_Religion03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1717770634
+        b: 1135593517
+        c: 785221814
+        d: 1979771441
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1717770634
+        b: 1135593517
+        c: 785221814
+        d: 1979771441
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1391
+  Y: 743
+  Deprecated: 0
+--- !u!114 &-8451846159481074751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Army05
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Army05Title'
+  Description: '%Civics_Army05Description'
+  Images:
+  - Value:
+      guid:
+        a: 106125362
+        b: 1304598307
+        c: 2040950200
+        d: -1225460863
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 106125362
+        b: 1304598307
+        c: 2040950200
+        d: -1225460863
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 314
+  Y: 329
+  Deprecated: 0
+--- !u!114 &-8362041275243956467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government03Title'
+  Description: '%Civics_Government03Description'
+  Images:
+  - Value:
+      guid:
+        a: 335152828
+        b: 1156128002
+        c: -1659223659
+        d: 1765383701
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 335152828
+        b: 1156128002
+        c: -1659223659
+        d: 1765383701
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 770
+  Y: 365
+  Deprecated: 0
+--- !u!114 &-8076091706228688199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government01Title'
+  Description: '%Civics_Government01Description'
+  Images:
+  - Value:
+      guid:
+        a: -509954974
+        b: 1171575692
+        c: -119146870
+        d: -557289461
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -509954974
+        b: 1171575692
+        c: -119146870
+        d: -557289461
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 830
+  Y: 570
+  Deprecated: 0
+--- !u!114 &-6229656063724884229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government02Title'
+  Description: '%Civics_Government02Description'
+  Images:
+  - Value:
+      guid:
+        a: 163576718
+        b: 1299706909
+        c: 733758596
+        d: 1461616597
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 163576718
+        b: 1299706909
+        c: 733758596
+        d: 1461616597
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 846
+  Y: 449
+  Deprecated: 0
+--- !u!114 &-6120589506974415192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy07
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy07Title'
+  Description: '%Civics_Economy07Description'
+  Images:
+  - Value:
+      guid:
+        a: -690436204
+        b: 1335973167
+        c: -1325992022
+        d: 1142299589
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -690436204
+        b: 1335973167
+        c: -1325992022
+        d: 1142299589
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 167
+  Y: 561
+  Deprecated: 0
+--- !u!114 &-5198764761215964761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Society01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Society01Title'
+  Description: '%Civics_Society01Description'
+  Images:
+  - Value:
+      guid:
+        a: 160595538
+        b: 1240087398
+        c: 1537684871
+        d: 498802895
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 160595538
+        b: 1240087398
+        c: 1537684871
+        d: 498802895
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 946
+  Y: 542
+  Deprecated: 0
+--- !u!114 &-4870055202290426374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Army02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Army02Title'
+  Description: '%Civics_Army02Description'
+  Images:
+  - Value:
+      guid:
+        a: 2032893502
+        b: 1159041697
+        c: 611240837
+        d: 705448853
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 2032893502
+        b: 1159041697
+        c: 611240837
+        d: 705448853
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 500
+  Y: 563
+  Deprecated: 0
+--- !u!114 &-4491011484816561093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Army03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Army03Title'
+  Description: '%Civics_Army03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1980894313
+        b: 1266999515
+        c: 2130709408
+        d: -1228166761
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1980894313
+        b: 1266999515
+        c: 2130709408
+        d: -1228166761
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 459
+  Y: 462
+  Deprecated: 0
+--- !u!114 &-3884782085511942228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Religion05
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Religion05Title'
+  Description: '%Civics_Religion05Description'
+  Images:
+  - Value:
+      guid:
+        a: 455893997
+        b: 1260411871
+        c: 807445655
+        d: -1402695999
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 455893997
+        b: 1260411871
+        c: 807445655
+        d: -1402695999
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1528
+  Y: 759
+  Deprecated: 0
+--- !u!114 &-3566231239100312754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Justice06
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Justice06Title'
+  Description: '%Civics_Justice06Description'
+  Images:
+  - Value:
+      guid:
+        a: 1591777584
+        b: 1090906182
+        c: 102984834
+        d: -1780069579
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1591777584
+        b: 1090906182
+        c: 102984834
+        d: -1780069579
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 487
+  Y: 172
+  Deprecated: 0
+--- !u!114 &-1737163232991446301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy04Title'
+  Description: '%Civics_Economy04Description'
+  Images:
+  - Value:
+      guid:
+        a: -601459304
+        b: 1317695442
+        c: -354557788
+        d: -616376641
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -601459304
+        b: 1317695442
+        c: -354557788
+        d: -616376641
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 262
+  Y: 694
+  Deprecated: 0
+--- !u!114 &-1569648960326276120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Religion06
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Religion06Title'
+  Description: '%Civics_Religion06Description'
+  Images:
+  - Value:
+      guid:
+        a: 234797153
+        b: 1082800857
+        c: 929583037
+        d: -1850438161
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 234797153
+        b: 1082800857
+        c: 929583037
+        d: -1850438161
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1487
+  Y: 567
+  Deprecated: 0
+--- !u!114 &-1372842849719982945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government05
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government05Title'
+  Description: '%Civics_Government05Description'
+  Images:
+  - Value:
+      guid:
+        a: -844498193
+        b: 1319088078
+        c: -1837460092
+        d: 431049082
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -844498193
+        b: 1319088078
+        c: -1837460092
+        d: 431049082
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 757
+  Y: 82
+  Deprecated: 0
+--- !u!114 &-680288709557447897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Religion01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Religion01Title'
+  Description: '%Civics_Religion01Description'
+  Images:
+  - Value:
+      guid:
+        a: 662892861
+        b: 1132150881
+        c: 1829473418
+        d: 1806103378
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 662892861
+        b: 1132150881
+        c: 1829473418
+        d: 1806103378
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1072
+  Y: 755
+  Deprecated: 0
+--- !u!114 &-511369378490222720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Justice05
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Justice05Title'
+  Description: '%Civics_Justice05Description'
+  Images:
+  - Value:
+      guid:
+        a: 1107433981
+        b: 1278928492
+        c: 1834626699
+        d: 259373224
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1107433981
+        b: 1278928492
+        c: 1834626699
+        d: 259373224
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 484
+  Y: 274
+  Deprecated: 0
+--- !u!114 &-37897094435447457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government04Title'
+  Description: '%Civics_Government04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1557820125
+        b: 1322964181
+        c: 2007076251
+        d: -817589388
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1557820125
+        b: 1322964181
+        c: 2007076251
+        d: -817589388
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 904
+  Y: 222
+  Deprecated: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CivicsDefinitionUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &335897964186091420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Society03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Society03Title'
+  Description: '%Civics_Society03Description'
+  Images:
+  - Value:
+      guid:
+        a: 1653364418
+        b: 1171609395
+        c: -1550420082
+        d: 1142684023
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1653364418
+        b: 1171609395
+        c: -1550420082
+        d: 1142684023
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1002
+  Y: 249
+  Deprecated: 0
+--- !u!114 &793745549474453283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Culture04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Culture04Title'
+  Description: '%Civics_Culture04Description'
+  Images:
+  - Value:
+      guid:
+        a: -67914502
+        b: 1125200303
+        c: -585438283
+        d: -876232706
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -67914502
+        b: 1125200303
+        c: -585438283
+        d: -876232706
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1409
+  Y: 447
+  Deprecated: 0
+--- !u!114 &844883933945644593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Justice04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Justice04Title'
+  Description: '%Civics_Justice04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1049074664
+        b: 1295271475
+        c: -978935379
+        d: -1801318462
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1049074664
+        b: 1295271475
+        c: -978935379
+        d: -1801318462
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 607
+  Y: 141
+  Deprecated: 0
+--- !u!114 &986795802503988660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy01Title'
+  Description: '%Civics_Economy01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1574047487
+        b: 1193146051
+        c: 452058028
+        d: 1463114550
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1574047487
+        b: 1193146051
+        c: 452058028
+        d: 1463114550
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 568
+  Y: 747
+  Deprecated: 0
+--- !u!114 &1110220039237546087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Justice03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Justice03Title'
+  Description: '%Civics_Justice03Description'
+  Images:
+  - Value:
+      guid:
+        a: -791831897
+        b: 1211274575
+        c: -706031996
+        d: 1093509322
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -791831897
+        b: 1211274575
+        c: -706031996
+        d: 1093509322
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 622
+  Y: 238
+  Deprecated: 0
+--- !u!114 &2193166433204176574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Society04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Society04Title'
+  Description: '%Civics_Society04Description'
+  Images:
+  - Value:
+      guid:
+        a: -1086661734
+        b: 1341445662
+        c: 1465727384
+        d: -128411226
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1086661734
+        b: 1341445662
+        c: 1465727384
+        d: -128411226
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1122
+  Y: 190
+  Deprecated: 0
+--- !u!114 &2916500257177744716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Justice02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Justice02Title'
+  Description: '%Civics_Justice02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1114136875
+        b: 1162270356
+        c: 1167732363
+        d: 177877579
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1114136875
+        b: 1162270356
+        c: 1167732363
+        d: 177877579
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 637
+  Y: 426
+  Deprecated: 0
+--- !u!114 &2948495609723570028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Culture02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Culture02Title'
+  Description: '%Civics_Culture02Description'
+  Images:
+  - Value:
+      guid:
+        a: 190491466
+        b: 1149408278
+        c: -33684042
+        d: 1600067188
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 190491466
+        b: 1149408278
+        c: -33684042
+        d: 1600067188
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1131
+  Y: 567
+  Deprecated: 0
+--- !u!114 &3210652452585064121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy03Title'
+  Description: '%Civics_Economy03Description'
+  Images:
+  - Value:
+      guid:
+        a: -79156678
+        b: 1194443267
+        c: -1137988446
+        d: -236078753
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -79156678
+        b: 1194443267
+        c: -1137988446
+        d: -236078753
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 395
+  Y: 657
+  Deprecated: 0
+--- !u!114 &3224473291111382231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Justice01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Justice01Title'
+  Description: '%Civics_Justice01Description'
+  Images:
+  - Value:
+      guid:
+        a: -928860416
+        b: 1166160060
+        c: 629282750
+        d: 1467365195
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -928860416
+        b: 1166160060
+        c: 629282750
+        d: 1467365195
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 696
+  Y: 539
+  Deprecated: 0
+--- !u!114 &3281879847170851262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy02Title'
+  Description: '%Civics_Economy02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1841529573
+        b: 1129462943
+        c: -778694234
+        d: -391188850
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1841529573
+        b: 1129462943
+        c: -778694234
+        d: -391188850
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 412
+  Y: 753
+  Deprecated: 0
+--- !u!114 &3524458971568796781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government07
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government07Title'
+  Description: '%Civics_Government07Description'
+  Images:
+  - Value:
+      guid:
+        a: 424840176
+        b: 1196099469
+        c: 1229949573
+        d: 1809447847
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 424840176
+        b: 1196099469
+        c: 1229949573
+        d: 1809447847
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 938
+  Y: 71
+  Deprecated: 0
+--- !u!114 &3794087867802408042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Culture01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Culture01Title'
+  Description: '%Civics_Culture01Description'
+  Images:
+  - Value:
+      guid:
+        a: -99479831
+        b: 1145383974
+        c: 1154349994
+        d: 119142007
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -99479831
+        b: 1145383974
+        c: 1154349994
+        d: 119142007
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1029
+  Y: 636
+  Deprecated: 0
+--- !u!114 &3864066808121347716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Government06
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Government06Title'
+  Description: '%Civics_Government06Description'
+  Images:
+  - Value:
+      guid:
+        a: -864766643
+        b: 1230450113
+        c: -1621142654
+        d: -90150205
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -864766643
+        b: 1230450113
+        c: -1621142654
+        d: -90150205
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 742
+  Y: 267
+  Deprecated: 0
+--- !u!114 &4731803760349229468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Society02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Society02Title'
+  Description: '%Civics_Society02Description'
+  Images:
+  - Value:
+      guid:
+        a: 24281074
+        b: 1241340053
+        c: -1455985480
+        d: -1946118314
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 24281074
+        b: 1241340053
+        c: -1455985480
+        d: -1946118314
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1144
+  Y: 306
+  Deprecated: 0
+--- !u!114 &5575283187324433516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy06
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy06Title'
+  Description: '%Civics_Economy06Description'
+  Images:
+  - Value:
+      guid:
+        a: 657871170
+        b: 1142189240
+        c: -377357174
+        d: -1707488340
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 657871170
+        b: 1142189240
+        c: -377357174
+        d: -1707488340
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 149
+  Y: 745
+  Deprecated: 0
+--- !u!114 &6194204750985910582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Army01
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Army01Title'
+  Description: '%Civics_Army01Description'
+  Images:
+  - Value:
+      guid:
+        a: 578854737
+        b: 1204788690
+        c: -1314867579
+        d: 1411000421
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 578854737
+        b: 1204788690
+        c: -1314867579
+        d: 1411000421
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 613
+  Y: 627
+  Deprecated: 0
+--- !u!114 &6784609319806080773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Army04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Army04Title'
+  Description: '%Civics_Army04Description'
+  Images:
+  - Value:
+      guid:
+        a: -2144009792
+        b: 1159362900
+        c: -1530865751
+        d: -902178702
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -2144009792
+        b: 1159362900
+        c: -1530865751
+        d: -902178702
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 317
+  Y: 462
+  Deprecated: 0
+--- !u!114 &6891666278206936228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Culture03
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Culture03Title'
+  Description: '%Civics_Culture03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1769598247
+        b: 1089807347
+        c: -994920272
+        d: 1716819833
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1769598247
+        b: 1089807347
+        c: -994920272
+        d: 1716819833
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1235
+  Y: 493
+  Deprecated: 0
+--- !u!114 &6992883583365409283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Economy05
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Economy05Title'
+  Description: '%Civics_Economy05Description'
+  Images:
+  - Value:
+      guid:
+        a: 1223230232
+        b: 1093878402
+        c: 332399506
+        d: -1088459748
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 1223230232
+        b: 1093878402
+        c: 332399506
+        d: -1088459748
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 282
+  Y: 602
+  Deprecated: 0
+--- !u!114 &7058824842860522072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Culture05
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Culture05Title'
+  Description: '%Civics_Culture05Description'
+  Images:
+  - Value:
+      guid:
+        a: -1582470301
+        b: 1185283790
+        c: 1517725859
+        d: -396174318
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1582470301
+        b: 1185283790
+        c: 1517725859
+        d: -396174318
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1269
+  Y: 341
+  Deprecated: 0
+--- !u!114 &7184019683897832498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Religion04
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Religion04Title'
+  Description: '%Civics_Religion04Description'
+  Images:
+  - Value:
+      guid:
+        a: 147890705
+        b: 1138053324
+        c: -303722861
+        d: -6844044
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: 147890705
+        b: 1138053324
+        c: -303722861
+        d: -6844044
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1355
+  Y: 611
+  Deprecated: 0
+--- !u!114 &7619191092002238129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1359316174, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Civics_Religion02
+  m_EditorClassIdentifier: 
+  Title: '%Civics_Religion02Title'
+  Description: '%Civics_Religion02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1903688008
+        b: 1194293390
+        c: -209636462
+        d: -719174618
+    serializableKey: CivicsArtwork
+  - Value:
+      guid:
+        a: -1903688008
+        b: 1194293390
+        c: -209636462
+        d: -719174618
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  X: 1223
+  Y: 725
+  Deprecated: 0

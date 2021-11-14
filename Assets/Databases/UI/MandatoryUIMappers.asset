@@ -1,0 +1,526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9079331933956430735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryEndOfStateShare
+  m_EditorClassIdentifier: 
+  Title: '%EndOfStateShareWindowTitle'
+  Description: '%EndOfStateShareWindowDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1960621172
+        b: 1122312717
+        c: -886075243
+        d: 40515363
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 6795159470413477616, guid: 00000000000000000000000000000000, type: 0}
+--- !u!114 &-6599796360775097043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryCivicsShakedown
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderCivicsShakedownTitle'
+  Description: '%MandatoryBinderCivicsShakedownDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1270117698
+        b: 1260899276
+        c: -1390726473
+        d: 1970867380
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &-6598177204963455577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryIdleSettlement
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderIdleSettlementTitle'
+  Description: '%MandatoryBinderIdleSettlementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 491599851
+        b: 1281612599
+        c: 137270461
+        d: 1564876299
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 1
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &-6359853388831525348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryReligionTenetsChoice
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderReligionTenetsChoiceTitle'
+  Description: '%MandatoryBinderReligionTenetsChoiceDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1655520415
+        b: 1297751853
+        c: -486935146
+        d: -816467393
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 6877148951526798946, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &-5272095615855977917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryFirstCity
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderFirstCityTitle'
+  Description: '%MandatoryBindeFirstCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1833259852
+        b: 1192740913
+        c: 116099493
+        d: 754707774
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &-5011254170788192573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryFurtherableArmies
+  m_EditorClassIdentifier: 
+  Title: 
+  Description: '%ArmyMoveEndTurnOverrideTitle'
+  Images:
+  - Value:
+      guid:
+        a: -558503897
+        b: 1319762609
+        c: 734319532
+        d: -120735850
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &-3617396817379666348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryIdleResearch
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderIdleResearchTitle'
+  Description: '%MandatoryBinderIdleResearchDescription'
+  Images:
+  - Value:
+      guid:
+        a: 209776758
+        b: 1286721164
+        c: -1264855650
+        d: 577032575
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 1
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: -3270280730548427893, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &-3272327365726965700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryExceptionPopup
+  m_EditorClassIdentifier: 
+  Title: '%ExceptionPopupTitle'
+  Description: '%ExceptionPopupDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1714230181
+        b: 1163517938
+        c: 389015479
+        d: -1408167899
+    serializableKey: Picto
+  Color: {r: 0.8862745, g: 0.21960784, b: 0.9254902, a: 1}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MandatoryUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &609970349092637970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryDiplomaticPropositionPending
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderDiplomaticPropositionPendingTitle'
+  Description: '%MandatoryBinderDiplomaticPropositionPendingDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1792738511
+        b: 1341272816
+        c: 686746787
+        d: -1943303877
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: -5250895658932243073, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &3966457658687769664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryIdleArmy
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderIdleArmyTitle'
+  Description: '%MandatoryBinderIdleArmyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1807466607
+        b: 1269934043
+        c: 355450519
+        d: 929494502
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 1
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &4665861497496330395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryNarrativeEventUnread
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderNarrativeEventUnreadTitle'
+  Description: '%MandatoryBinderNarrativeEventUnreadDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2107830363
+        b: 1233399231
+        c: -1609507960
+        d: -573218060
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 6127586757870360114, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &7185106437563570843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryCreateFirstReligion
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderCreateFirstReligionTitle'
+  Description: '%MandatoryBinderCreateFirstReligionDescription'
+  Images:
+  - Value:
+      guid:
+        a: 377964019
+        b: 1220235788
+        c: 502172809
+        d: -480077182
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 6877148951526798946, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &8165154954846789719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryOngoingBattle
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderOngoingBattleTitle'
+  Description: '%MandatoryBinderOngoingBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1375307527
+        b: 1256211674
+        c: 585004961
+        d: 1424521580
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 1
+  audioController:
+    Profile: {fileID: 4177795683563593415, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &8168095270816125107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryDiplomatic
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderDiplomaticTitle'
+  Description: '%MandatoryBinderDiplomaticDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1792738511
+        b: 1341272816
+        c: 686746787
+        d: -1943303877
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 1
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: -5250895658932243073, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &8184305950065803426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryDemandsRefused
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderDemandsRefusedTitle'
+  Description: '%MandatoryBinderDemandsRefusedDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1639879440
+        b: 1242134646
+        c: -625748310
+        d: 2026759809
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 0
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: -5250895658932243073, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 0}
+--- !u!114 &8974794676557190104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2051618722, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MandatoryUnlockedFactionEvolution
+  m_EditorClassIdentifier: 
+  Title: '%MandatoryBinderUnlockedFactionEvolutionNotificationTitle'
+  Description: '%MandatoryBinderUnlockedFactionEvolutionNotificationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1000852906
+        b: 1127201585
+        c: -662495052
+        d: 1574939297
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  Skippable: 1
+  ShowInAnySandboxState: 0
+  audioController:
+    Profile: {fileID: 5539575800603839816, guid: 00000000000000000000000000000000, type: 0}
+  extraordinaryData:
+    ImmersiveWindowWidth: 510
+    audioController:
+      Profile: {fileID: 6795159470413477616, guid: 00000000000000000000000000000000, type: 0}

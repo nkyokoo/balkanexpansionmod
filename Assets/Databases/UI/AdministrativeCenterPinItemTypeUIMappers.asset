@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AdministrativeCenterPinItemTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &2031805139329588065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AdministrativeCenterPinItemTypeAntiAirCombatStrength
+  m_EditorClassIdentifier: 
+  Title: '%AdministrativeCenterPinItemTypeAntiAirCombatStrengthTitle'
+  Description: '%AdministrativeCenterPinItemTypeAntiAirCombatStrengthDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1806449682
+        b: 1268403597
+        c: -102436728
+        d: -181434707
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5449730624012005255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AdministrativeCenterPinItemTypeFaith
+  m_EditorClassIdentifier: 
+  Title: '%AdministrativeCenterPinItemTypeFaithTitle'
+  Description: '%AdministrativeCenterPinItemTypeFaithDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1655520415
+        b: 1297751853
+        c: -486935146
+        d: -816467393
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8980088630865823146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AdministrativeCenterPinItemTypeTradeRoad
+  m_EditorClassIdentifier: 
+  Title: '%AdministrativeCenterPinItemTypeTradeRoadTitle'
+  Description: '%AdministrativeCenterPinItemTypeTradeRoadDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1652292645
+        b: 1179117141
+        c: 1269733023
+        d: 734726847
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

@@ -1,0 +1,869 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8247833790681914418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_OlmecCivilization_JavelinThrowers
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_OlmecCivilization_JavelinThrowers
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Wedge_Spaced_9
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &-8075163161135694431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Assyria_AssyrianRaiders
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Assyria_AssyrianRaiders
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Wedge_3
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 3
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 1
+  CoordinationMasterValue: 0.696
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.060800005, y: 0.106400006}
+    DummyOffsetAngle: {x: 6.0800004, y: 9.120001}
+    AnimationDelay: {x: 0, y: 0.30400002}
+    MinDistanceReformationMultiplier: 0.652
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &-7341945247971216615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_MycenaeanCivilization_Promachois
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_MycenaeanCivilization_Promachois
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Wedge_Close_9_2R5C
+  FormationBehaviourDefinition:
+    serializableElementName: Shieldwall Line PR_F / Clash / Clash
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.709
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.0582, y: 0.10185}
+    DummyOffsetAngle: {x: 5.82, y: 8.7300005}
+    AnimationDelay: {x: 0, y: 0.291}
+    MinDistanceReformationMultiplier: 0.6455
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1944617898
+      b: 1240114715
+      c: 1420602779
+      d: -1794779895
+--- !u!114 &-5066098644790649642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_BatteringRams_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_BatteringRams
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 3
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1401133453
+      b: 1244152260
+      c: 732419475
+      d: -1635721152
+--- !u!114 &-4937336120750093509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_Scouts_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_Scouts
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Scatter_Spaced_5
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &-4837473556902599183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Nubia_NubianArchers
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Nubia_NubianArchers
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Line_Spaced_9
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.99
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.0019999982, y: 0.0034999966}
+    DummyOffsetAngle: {x: 0.19999981, y: 0.2999997}
+    AnimationDelay: {x: 0, y: 0.00999999}
+    MinDistanceReformationMultiplier: 0.505
+    CoordinateAttackMovement: 1
+    SameRowAttack: 1
+    AveragePathLength: 1
+    UseDisciplinedVariation: 1
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &-3812330471436515701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationNavalUnit_Era1_Common_Biremes_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: NavalUnit_Era1_Common_Biremes
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 90
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.5
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.1, y: 0.175}
+    DummyOffsetAngle: {x: 10, y: 15}
+    AnimationDelay: {x: 0, y: 0.5}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 2111542706
+      b: 1261554029
+      c: -1363695428
+      d: 454133168
+--- !u!114 &-3360124845576162682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationNavalUnit_Era1_Phoenicia_WarGalleys
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: NavalUnit_Era1_Phoenicia_WarGalleys
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 90
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.5
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.1, y: 0.175}
+    DummyOffsetAngle: {x: 10, y: 15}
+    AnimationDelay: {x: 0, y: 0.5}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 2111542706
+      b: 1261554029
+      c: -1363695428
+      d: 454133168
+--- !u!114 &-1465820197517795302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_Chariots_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_Chariots
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 3
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 2
+  CoordinationMasterValue: 0.66
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.067999996, y: 0.11899999}
+    DummyOffsetAngle: {x: 6.799999, y: 10.199999}
+    AnimationDelay: {x: 0, y: 0.33999997}
+    MinDistanceReformationMultiplier: 0.66999996
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &-1186834985376229510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Babylon_RoyalGuardsmen
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Babylon_RoyalGuardsmen
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Arrowhead_Close_9_4R4C
+  FormationBehaviourDefinition:
+    serializableElementName: Shieldwall V PR_F / Clash
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.99
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.0019999982, y: 0.0034999966}
+    DummyOffsetAngle: {x: 0.19999981, y: 0.2999997}
+    AnimationDelay: {x: 0, y: 0.00999999}
+    MinDistanceReformationMultiplier: 0.505
+    CoordinateAttackMovement: 1
+    SameRowAttack: 1
+    AveragePathLength: 1
+    UseDisciplinedVariation: 1
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1944617898
+      b: 1240114715
+      c: 1420602779
+      d: -1794779895
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -570373346, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationUnitDefinition_Era1
+  m_EditorClassIdentifier: 
+--- !u!114 &744154599505119422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_EgyptianKingdom_ChariotArchers
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_EgyptianKingdom_ChariotArchers
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 2
+  CoordinationMasterValue: 0.5
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.1, y: 0.175}
+    DummyOffsetAngle: {x: 10, y: 15}
+    AnimationDelay: {x: 0, y: 0.5}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &2581664531373614485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_HittiteEmpire_NobleChariots
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_HittiteEmpire_NobleChariots
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 3
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 2
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &2729220865865280370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_Archers_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_Archers
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Scatter_Spaced_9
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 0
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &4119361093814831810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_ScoutCavalry_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_ScoutCavalry
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Wedge_3
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 3
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 1
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &4928103416738500033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_Spearmen_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_Spearmen
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Close_9
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &6717400447978553879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_HarappanCivilization_Runners
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_HarappanCivilization_Runners
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Scatter_Spaced_5
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.99
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.0019999982, y: 0.0034999966}
+    DummyOffsetAngle: {x: 0.19999981, y: 0.2999997}
+    AnimationDelay: {x: 0, y: 0.00999999}
+    MinDistanceReformationMultiplier: 0.505
+    CoordinateAttackMovement: 1
+    SameRowAttack: 1
+    AveragePathLength: 1
+    UseDisciplinedVariation: 1
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &8446992010363402045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_Warriors_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_Warriors
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Close_9
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &8769859551409372473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_Common_Levies_Default
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_Common_Levies
+  PresentationFormationDefinition:
+    serializableElementName: Formation_Close_9
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 0
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 0
+  CoordinationMasterValue: 0.01
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.198, y: 0.3465}
+    DummyOffsetAngle: {x: 19.8, y: 29.7}
+    AnimationDelay: {x: 0, y: 0.99}
+    MinDistanceReformationMultiplier: 1
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116
+--- !u!114 &8976809602887636575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 759592875, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PresentationLandUnit_Era1_ZhouChina_WarChariots
+  m_EditorClassIdentifier: 
+  UnitDefinitionReference:
+    serializableElementName: LandUnit_Era1_ZhouChina_WarChariots
+  PresentationFormationDefinition:
+    serializableElementName: Formation_1
+  FormationBehaviourDefinition:
+    serializableElementName: 
+  ChoreographyOverride: 3
+  FacingAngleOffset: 0
+  MinDistanceBetweenFormationDummies: 0
+  RestrictionPerSlot: []
+  UnitSpecification: 2
+  CoordinationMasterValue: 0.66
+  CoordinationValues:
+    DummyOffsetPosition: {x: 0.067999996, y: 0.11899999}
+    DummyOffsetAngle: {x: 6.799999, y: 10.199999}
+    AnimationDelay: {x: 0, y: 0.33999997}
+    MinDistanceReformationMultiplier: 0.66999996
+    CoordinateAttackMovement: 0
+    SameRowAttack: 1
+    AveragePathLength: 0
+    UseDisciplinedVariation: 0
+  StealthRevealAudioEvent:
+    guid:
+      a: -1326129278
+      b: 1160368417
+      c: 1151361188
+      d: -1076931018
+  unitVoiceProviderReference:
+    guid:
+      a: 1799665559
+      b: 1139678947
+      c: 832313261
+      d: -1124329116

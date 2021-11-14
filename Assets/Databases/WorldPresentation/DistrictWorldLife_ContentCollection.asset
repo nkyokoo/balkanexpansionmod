@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2540408580253611270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TrainByEra
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: TrainByEra
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Era0
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era1
+    Value:
+      a: -676147135
+      b: 1189218859
+      c: 569140104
+      d: 288582613
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era2
+    Value:
+      a: -676147135
+      b: 1189218859
+      c: 569140104
+      d: 288582613
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era3
+    Value:
+      a: -676147135
+      b: 1189218859
+      c: 569140104
+      d: 288582613
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era4
+    Value:
+      a: -676147135
+      b: 1189218859
+      c: 569140104
+      d: 288582613
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era5
+    Value:
+      a: -676147135
+      b: 1189218859
+      c: 569140104
+      d: 288582613
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era6
+    Value:
+      a: -1478985180
+      b: 1341196142
+      c: 1721495467
+      d: 1148851190
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299993223, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DistrictWorldLife_ContentCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &2930468691152707197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: RoadVehicleByEra
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: RoadVehicleByEra
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Era0
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era1
+    Value:
+      a: -383388004
+      b: 1178979224
+      c: 566713534
+      d: 1619501754
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era2
+    Value:
+      a: 190005420
+      b: 1270901124
+      c: 611695012
+      d: -1911355593
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era3
+    Value:
+      a: -777294334
+      b: 1199031771
+      c: 507682455
+      d: -132966942
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era4
+    Value:
+      a: -874142246
+      b: 1197536611
+      c: 1932695464
+      d: -573961588
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era5
+    Value:
+      a: -571247907
+      b: 1155046624
+      c: -664331868
+      d: -146207452
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era6
+    Value:
+      a: -256417901
+      b: 1086102039
+      c: -1697432673
+      d: 1336397041
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &3076322462345707166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: PlanesByEra
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: PlanesByEra
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Era0
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era1
+    Value:
+      a: -488885502
+      b: 1083881557
+      c: 1425725113
+      d: 1923429210
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era2
+    Value:
+      a: -488885502
+      b: 1083881557
+      c: 1425725113
+      d: 1923429210
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era3
+    Value:
+      a: -488885502
+      b: 1083881557
+      c: 1425725113
+      d: 1923429210
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era4
+    Value:
+      a: -488885502
+      b: 1083881557
+      c: 1425725113
+      d: 1923429210
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era5
+    Value:
+      a: 125081855
+      b: 1235455658
+      c: 1434392750
+      d: 677034291
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era6
+    Value:
+      a: -1275021034
+      b: 1308011766
+      c: -976849516
+      d: 644020913
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &6254795340820943317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: BoatsByEra
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: BoatsByEra
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Era0
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era1
+    Value:
+      a: 1692379902
+      b: 1325686156
+      c: 959664057
+      d: -102282852
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era2
+    Value:
+      a: 1692379902
+      b: 1325686156
+      c: 959664057
+      d: -102282852
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era3
+    Value:
+      a: 1692379902
+      b: 1325686156
+      c: 959664057
+      d: -102282852
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era4
+    Value:
+      a: 1692379902
+      b: 1325686156
+      c: 959664057
+      d: -102282852
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era5
+    Value:
+      a: -167714357
+      b: 1211354554
+      c: -1375220301
+      d: -543738532
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era6
+    Value:
+      a: -1859772430
+      b: 1263195260
+      c: -1724311366
+      d: 867341858
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0

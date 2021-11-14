@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9132074408766707676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_HumanCampfire
+  m_EditorClassIdentifier: 
+--- !u!114 &-8166916937002624202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_HumanMerchant
+  m_EditorClassIdentifier: 
+--- !u!114 &-5286240527437466330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_StateShare
+  m_EditorClassIdentifier: 
+--- !u!114 &-3625546403599876778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_DeathNatural
+  m_EditorClassIdentifier: 
+--- !u!114 &-2591681873534903184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_PrehistoricBushes
+  m_EditorClassIdentifier: 
+--- !u!114 &-2112327272727485018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_None
+  m_EditorClassIdentifier: 
+--- !u!114 &-1893468051583871912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_DeathHuman
+  m_EditorClassIdentifier: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1271616412, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinityDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &2533744735616490919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_WaterNatural
+  m_EditorClassIdentifier: 
+--- !u!114 &2862693523491455373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_AncientRuins
+  m_EditorClassIdentifier: 
+--- !u!114 &3844945788825189077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_WaterArtifical
+  m_EditorClassIdentifier: 
+--- !u!114 &6903562644699032317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -812911619, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CuriosityVisualAffinity_HumanHideout
+  m_EditorClassIdentifier: 

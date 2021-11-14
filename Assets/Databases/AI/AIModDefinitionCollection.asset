@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4158551781271445900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1990877958, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Amplitude.Mercury.AI.Brain
+  m_EditorClassIdentifier: 
+  ModType: 0
+  AssemblyName: Amplitude.Mercury.AI.Brain, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  AIPlayerTypeName: Amplitude.Mercury.AI.Brain.AIPlayer
+  ProcessingPassTypesDenyList: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1652480448, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AIModDefinitionCollection
+  m_EditorClassIdentifier: 

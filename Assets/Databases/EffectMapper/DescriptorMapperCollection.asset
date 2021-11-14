@@ -1,0 +1,1824 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9202550541434912469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier01Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8688713834388765331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era6_SydneyOperaHouse
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era6_SydneyOperaHouse'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8543283525995886030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era3_ForbiddenCity
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era3_ForbiddenCity'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: 
+    ParameterFlags: 3
+--- !u!114 &-8508838592609812767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era4_TopkapiPalace
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era4_TopkapiPalace'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8495951850338334922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier11
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier11Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8416023227822746717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier4_Tenet01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8037593369082117565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_Reformation
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_EmpireBonus_Reformation'
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &-8023577840131367155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier05
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier05Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8011282486102375300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Forest
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_Forest'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-8009012714717570974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_StoneField
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_StoneField'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-7725735737120153534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Status_Empire_PostRevolution
+  m_EditorClassIdentifier: 
+  LocalizedName: '%PostRevolution'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-7666735912328391551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era5_StatueOfLiberty
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era5_StatueOfLiberty'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-7534770940712244849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_EmpireStability_Stable
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_EmpireBonus_EmpireStability_Stable'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_EmpireBonus_EmpireStability_StableOverride'
+    ParameterFlags: 0
+--- !u!114 &-7288209787875672278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era4_SaintBasilsCathedral
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era4_SaintBasilsCathedral'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-7021548984275907617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier0_Tenet02
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tier0_Tenet02'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-6983907706274951740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier3_Tenet06
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-6896973933315129625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier22
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier22Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-6853000820831646152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier02
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier02Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-6654152638261417190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Status_Empire_Revolution
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Revolution'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-6392510022429752679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier2_Tenet06
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-6217283917045668370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era1_Stonehenge
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era1_Stonehenge'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_ArtificialWonder_Era1_Stonehenge_Effect'
+    ParameterFlags: 19
+  - EffectIndex: 0
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_ArtificialWonder_Era1_Stonehenge_Effect'
+    ParameterFlags: 19
+--- !u!114 &-6079904266369464457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier2_Tenet05
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-5875805799926905922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier4_Tenet03
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-5782213388138235765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier17
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier17Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-5763546201964471140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier3_Tenet05
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-5718842743536846401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier1_Tenet03
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-5630311113786196467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_LegacyTrait_Era2_MauryaEmpire
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 1
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_LegacyTrait_Era2_MauryaEmpire'
+    ParameterFlags: 7
+--- !u!114 &-5436261054605958870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier12
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier12Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-5397846803340807223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_PersonaStrength_Diplomacy_01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%PersonaStrength_Diplomacy_01Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%PersonaStrength_Diplomacy_01Description'
+    ParameterFlags: 0
+--- !u!114 &-5012877922843386782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_PublicOrderFromCivicGov07
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Civics_Government07_Choice02Title'
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &-4802751152907124512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_DryGrass
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_DryGrass'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-4752936754960912082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era3_AngkorWat
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era3_AngkorWat'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-4075160214418098100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier3_Tenet03
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-3831612494981338117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Empire_Major
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Tag_Empire_Major'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 1
+    EffectLocalization: 
+    ParameterFlags: 0
+  - EffectIndex: 0
+    PropertyEffectIndex: 2
+    HidePropertyEffect: 1
+    EffectLocalization: 
+    ParameterFlags: 0
+  - EffectIndex: 1
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 1
+    EffectLocalization: 
+    ParameterFlags: 0
+--- !u!114 &-3781127262673353708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier10
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier10Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-3616510064619030887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_RockyForest
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_RockyForest'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-3303644114671549365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era2_ColossusOfRhodes
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era2_ColossusOfRhodes'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_ArtificialWonder_Era2_ColossusOfRhodes_Override'
+    ParameterFlags: 0
+--- !u!114 &-3079088098587267812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Cheat_MilitaryForceCap
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &-2891654146928358033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era4_TajMahal
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era4_TajMahal'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-2597846490684627736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Patronage_HumanPeaceful_Basic
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Patronage_HumanPeaceful_Basic'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_Patronage_HumanPeaceful_BasicOverride'
+    ParameterFlags: 0
+--- !u!114 &-2361408593018710552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Default
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Default'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 1
+    EffectLocalization: 
+    ParameterFlags: 0
+  - EffectIndex: 0
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 1
+    EffectLocalization: 
+    ParameterFlags: 0
+--- !u!114 &-1847811335935920551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier07
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier07Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-1610432126505448370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_TerritoryPollution_Low
+  m_EditorClassIdentifier: 
+  LocalizedName: '%GameEffect_TerritoryPollution_Low'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 1
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_Low_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 1
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_Low_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 1
+    PropertyEffectIndex: 2
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_Low_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 2
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_Low_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 2
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_Low_Effect_Override'
+    ParameterFlags: 7
+--- !u!114 &-1257896118662785287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_PublicOrderLoss
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Tag_Extension_PublicOrderLoss'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-1083535822706422852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier23
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier23Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-1060956542721021559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier2_Tenet04
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-889654763109957493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era5_BigBen
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era5_BigBen'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-829198234556099336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier2_Tenet02
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-655076109040279886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_SatelliteCityBonuses2
+  m_EditorClassIdentifier: 
+  LocalizedName: '%ConstructibleExtension_NationalProject_SatelliteLaunchTitle_Level2'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-640283290253263045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Prairie
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_Prairie'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-636640903647332124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era2_LighthouseOfAlexandria2
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era2_LighthouseOfAlexandria'
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &-616766656151036795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier1_Tenet05
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &-308198406961704150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Cheat_CityCap
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &-258815168884836874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era3_TodaiJi
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era3_TodaiJi'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1270168998, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: DescriptorMapperCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &251898027870867673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_RockyField
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_RockyField'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &334914315944263640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_LegacyTrait_Era1_HittiteEmpire
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_LegacyTrait_Era1_HittiteEmpire'
+    ParameterFlags: 3
+--- !u!114 &393482782062902455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier04
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier04Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &560832616052405724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_Settlement_TradeRoadGain
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &588704444399727569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier06
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier06Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &1229015527602695576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier24
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier24Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &1385559765740168409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era2_MausoleumAtHalicarnassus
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era2_MausoleumAtHalicarnassus'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &1628663499602652511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_PublicOrderFromCivicGov06
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Civics_Government06_Choice02Title'
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &2533394912927436180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier16
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier16Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &2551447658124247430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier2_Tenet03
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &2585740040397181084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era1_PyramidOfGiza
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era1_PyramidOfGiza'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &2748480324522565329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era2_StatueOfZeus
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era2_StatueOfZeus'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &2821686531371824704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_Jetty_Ransacked
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &3145228653083578671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier1_Tenet07
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &3225534910521669808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Vassal_Tribute
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Vassal_Tribute'
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &3315075733494546775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier1_Tenet06
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &3769028005012224552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier0_Tenet01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tier0_Tenet01'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &3774960254849758481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_CulturalAgreement
+  m_EditorClassIdentifier: 
+  LocalizedName: '%CulturalAgreement'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &3829510065546102906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmbassyBonus_ScientificAgreement
+  m_EditorClassIdentifier: 
+  LocalizedName: '%ScientificAgreement'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &3998326462270097325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier15
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier15Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4036110728392489301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier4_Tenet04
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4089193937957800812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier3_Tenet01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4105546191338965198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era1_TempleOfArtemis
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era1_TempleOfArtemis'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4346524289681949458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier1_Tenet04
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4360979721089521773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier21
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier21Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4610217151679987165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier14
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier14Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4640666860220683062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era3_NotreDameDeParis
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era3_NotreDameDeParis'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4720784773956665399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier19
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier19Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &4901568529869253332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier09
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier09Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &5483838601371820524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era5_EiffelTower
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era5_EiffelTower'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &5571386698763883983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_TerritoryPollution_High
+  m_EditorClassIdentifier: 
+  LocalizedName: '%GameEffect_TerritoryPollution_High'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 1
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_High_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 1
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_High_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 1
+    PropertyEffectIndex: 2
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_High_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 2
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_High_Effect_Override'
+    ParameterFlags: 7
+  - EffectIndex: 2
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 0
+    EffectLocalization: '%GameEffect_TerritoryPollution_High_Effect_Override'
+    ParameterFlags: 7
+--- !u!114 &5696872117698129684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier13
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier13Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &5757092883531630021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier3_Tenet04
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &5798213251507004474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier2_Tenet01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6085758475716354809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier08
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier08Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: 
+    ParameterFlags: 0
+--- !u!114 &6202985774925053004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Civics_DemocracticRepublic
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Tag_Civics_DemocracticRepublic'
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &6223154635506774600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier4_Tenet02
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6337724022815452042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Mountain
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_Mountain'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6459083836681434560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier3_Tenet02
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6488745206780452452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_CoastalWater
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_CoastalWater'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6518216456048751482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_SatelliteCityBonuses1
+  m_EditorClassIdentifier: 
+  LocalizedName: '%ConstructibleExtension_NationalProject_SatelliteLaunchTitle_Level1'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6519103103747542468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_SatelliteCityBonuses3
+  m_EditorClassIdentifier: 
+  LocalizedName: '%ConstructibleExtension_NationalProject_SatelliteLaunchTitle_Level3'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6536833633959877129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Lake
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_Lake'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6564241456859080816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_EmpireStability_VeryStable
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_EmpireBonus_EmpireStability_VeryStable'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_EmpireBonus_EmpireStability_VeryStableOverride'
+    ParameterFlags: 0
+--- !u!114 &6631679954866682441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Woodland
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Exploitation_Woodland'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &6682600785768105615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era4_MachuPicchu
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era4_MachuPicchu'
+  HideDescriptor: 0
+  PropertyEffectPolicies:
+  - EffectIndex: 1
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 0
+    EffectLocalization: '%Effect_ArtificialWonder_Era4_MachuPicchuEffectOverride'
+    ParameterFlags: 0
+  - EffectIndex: 0
+    PropertyEffectIndex: 0
+    HidePropertyEffect: 1
+    EffectLocalization: 
+    ParameterFlags: 0
+--- !u!114 &7050897922619150384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era6_EmpireStateBuilding
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era6_EmpireStateBuilding'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &7156135918086646975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Repeatable
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 1
+  PropertyEffectPolicies:
+  - EffectIndex: 0
+    PropertyEffectIndex: 1
+    HidePropertyEffect: 1
+    EffectLocalization: '%Tag_RepeatableTitle'
+    ParameterFlags: 0
+--- !u!114 &7373625238171564774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Army_InBattle
+  m_EditorClassIdentifier: 
+  LocalizedName: 
+  HideDescriptor: 1
+  PropertyEffectPolicies: []
+--- !u!114 &7466766147093949584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier18
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier18Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &7510314392768458466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era1_HangingGardensOfBabylon
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era1_HangingGardensOfBabylon'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &7589731365584359027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ReligionBonus_Tier1_Tenet01
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ReligionBonus_Tenet'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &7878581653535835469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era6_ChristTheRedeemer
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era6_ChristTheRedeemer'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &7995842374164476694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier03
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier03Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &8838305230577532900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_HolySite
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_Extension_HolySite'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &9162918429964537337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Era2_LighthouseOfAlexandria
+  m_EditorClassIdentifier: 
+  LocalizedName: '%Effect_ArtificialWonder_Era2_LighthouseOfAlexandria'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []
+--- !u!114 &9213344541319658793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1253022449, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_NaturalModifier20
+  m_EditorClassIdentifier: 
+  LocalizedName: '%NaturalModifier20Title'
+  HideDescriptor: 0
+  PropertyEffectPolicies: []

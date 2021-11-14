@@ -1,0 +1,1994 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9000298484284052870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_HittiteEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_HittiteEmpireTitle'
+  Description: '%ConstructibleExtension_Era1_HittiteEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: -45906797
+        b: 1105803777
+        c: -1992448615
+        d: -960916915
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-8138773245597243203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_Sweden
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_SwedenTitle'
+  Description: '%ConstructibleExtension_Era6_SwedenDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2083823865
+        b: 1135070364
+        c: 5673395
+        d: -1653232376
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-8030682675477104354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_Holland
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_HollandTitle'
+  Description: '%ConstructibleExtension_Era4_HollandDescription'
+  Images:
+  - Value:
+      guid:
+        a: -21145670
+        b: 1155722004
+        c: -326634091
+        d: -1187500172
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-8003453574257879418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_Assyria
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_AssyriaTitle'
+  Description: '%ConstructibleExtension_Era1_AssyriaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -175312814
+        b: 1074244144
+        c: 1387163570
+        d: 712257889
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-7730391685561852458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_Byzantium
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_ByzantiumTitle'
+  Description: '%ConstructibleExtension_Era3_ByzantiumDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1135715716
+        b: 1327923583
+        c: 1396470671
+        d: -963827284
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.7882353, b: 0.90588236, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-7700519844036018799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_Nubia
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_NubiaTitle'
+  Description: '%ConstructibleExtension_Era1_NubiaDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1412381611
+        b: 1286525838
+        c: 151893913
+        d: 2122514571
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.9019608, g: 0.7647059, b: 0.3647059, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-7579013311107145851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_India
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_IndiaTitle'
+  Description: '%ConstructibleExtension_Era6_IndiaDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1733774620
+        b: 1184015977
+        c: 707278768
+        d: 1359451358
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-7321649716821062082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_AncientGreece
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_AncientGreeceTitle'
+  Description: '%ConstructibleExtension_Era2_AncientGreeceDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1821156048
+        b: 1340065846
+        c: 165091749
+        d: -1250686369
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-6800858374704697135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_OttomanEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_OttomanEmpireTitle'
+  Description: '%ConstructibleExtension_Era4_OttomanEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1195326973
+        b: 1296911521
+        c: 1663931279
+        d: -1248449438
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-6786444622337158391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_OlmecCivilization
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_OlmecCivilizationTitle'
+  Description: '%ConstructibleExtension_Era1_OlmecCivilizationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 111461336
+        b: 1325180746
+        c: 379955348
+        d: 628063800
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.9019608, g: 0.7647059, b: 0.3647059, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-6400879623915329302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_AksumiteEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_AksumiteEmpireTitle'
+  Description: '%ConstructibleExtension_Era2_AksumiteEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: -232156565
+        b: 1274726248
+        c: 1118503341
+        d: -904293916
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-6258561636493567750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_AustriaHungary
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_AustriaHungaryTitle'
+  Description: '%ConstructibleExtension_Era5_AustriaHungaryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1089181990
+        b: 1105994731
+        c: 1325221567
+        d: -2064677407
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-6238356528998609251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_RomanEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_RomanEmpireTitle'
+  Description: '%ConstructibleExtension_Era2_RomanEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1594726172
+        b: 1091824477
+        c: -1499042921
+        d: 392759416
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-5442765256497524796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_HarappanCivilization
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_HarappanCivilizationTitle'
+  Description: '%ConstructibleExtension_Era1_HarappanCivilizationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 298811379
+        b: 1125803774
+        c: 2056885123
+        d: 1318959181
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-5399494795177959548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_UmayyadCaliphate
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_UmayyadCaliphateTitle'
+  Description: '%ConstructibleExtension_Era3_UmayyadCaliphateDescription'
+  Images:
+  - Value:
+      guid:
+        a: 894279035
+        b: 1296212249
+        c: 1250983829
+        d: -2026492509
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-5389094938073992765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_Goths
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_GothsTitle'
+  Description: '%ConstructibleExtension_Era2_GothsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -102891041
+        b: 1141702179
+        c: 744122023
+        d: 376752658
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-5327340797823122875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_USA
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_USATitle'
+  Description: '%ConstructibleExtension_Era6_USADescription'
+  Images:
+  - Value:
+      guid:
+        a: 1825941637
+        b: 1318483610
+        c: 1872416399
+        d: -596407016
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-5089223973631820573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_Germany
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_GermanyTitle'
+  Description: '%ConstructibleExtension_Era5_GermanyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1732291302
+        b: 1086312562
+        c: -1955721323
+        d: 2075775047
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-5040695648361998317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_KhmerEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_KhmerEmpireTitle'
+  Description: '%ConstructibleExtension_Era3_KhmerEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: -544589324
+        b: 1279357209
+        c: -1349023080
+        d: 1298329293
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.7882353, b: 0.90588236, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-4564298440100052413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_TokugawaShogunate
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_TokugawaShogunateTitle'
+  Description: '%ConstructibleExtension_Era4_TokugawaShogunateDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1419630152
+        b: 1220940625
+        c: -627967087
+        d: 1045306622
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-4458738816820822666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_China
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_ChinaTitle'
+  Description: '%ConstructibleExtension_Era6_ChinaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1381034391
+        b: 1157587910
+        c: 994736822
+        d: -839063206
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-3913587266381672937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_VenetianRepublic
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_VenetianRepublicTitle'
+  Description: '%ConstructibleExtension_Era4_VenetianRepublicDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1672442465
+        b: 1294221955
+        c: 1793550502
+        d: 452594235
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-2468645534634147290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_MughalEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_MughalEmpireTitle'
+  Description: '%ConstructibleExtension_Era4_MughalEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1737153531
+        b: 1271048248
+        c: -486409056
+        d: -1265986541
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-2078490758546006575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_Siam
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_SiamTitle'
+  Description: '%ConstructibleExtension_Era5_SiamDescription'
+  Images:
+  - Value:
+      guid:
+        a: -320933512
+        b: 1074059169
+        c: -2126803573
+        d: 525325572
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-1998435897636781246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_Egypt
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_EgyptTitle'
+  Description: '%ConstructibleExtension_Era6_EgyptDescription'
+  Images:
+  - Value:
+      guid:
+        a: -439612022
+        b: 1183042293
+        c: 708226714
+        d: 912521646
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-1321680872452361862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_IroquoisConfederacy
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_IroquoisConfederacyTitle'
+  Description: '%ConstructibleExtension_Era4_IroquoisConfederacyDescription'
+  Images:
+  - Value:
+      guid:
+        a: -537057866
+        b: 1164183604
+        c: 535901852
+        d: 1539290571
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-1285506779111748910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_Vikings
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_VikingsTitle'
+  Description: '%ConstructibleExtension_Era3_VikingsDescription'
+  Images:
+  - Value:
+      guid:
+        a: 92097769
+        b: 1261138010
+        c: -1197887307
+        d: -969544361
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-751663845602582136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_Japan
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_JapanTitle'
+  Description: '%ConstructibleExtension_Era6_JapanDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1644001794
+        b: 1120212145
+        c: 1659716508
+        d: 533169630
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-200633131678785652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_USSR
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_USSRTitle'
+  Description: '%ConstructibleExtension_Era6_USSRDescription'
+  Images:
+  - Value:
+      guid:
+        a: -358164634
+        b: 1203046104
+        c: 1170083006
+        d: -1149192205
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &-132774725474396486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_Persia
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_PersiaTitle'
+  Description: '%ConstructibleExtension_Era2_PersiaDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1128782392
+        b: 1224939123
+        c: 1589607850
+        d: 2079980520
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.9019608, g: 0.7647059, b: 0.3647059, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ConstructibleEmblematicExtensionUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &423593905980001766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_MauryaEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_MauryaEmpireTitle'
+  Description: '%ConstructibleExtension_Era2_MauryaEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 731726723
+        b: 1324013461
+        c: 2020691094
+        d: 733872873
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &514403481016396269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_ZhouChina
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_ZhouChinaTitle'
+  Description: '%ConstructibleExtension_Era1_ZhouChinaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -460659379
+        b: 1309655041
+        c: -2024511357
+        d: -491354213
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.9019608, g: 0.7647059, b: 0.3647059, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &1093788646106156768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_Italy
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_ItalyTitle'
+  Description: '%ConstructibleExtension_Era5_ItalyDescription'
+  Images:
+  - Value:
+      guid:
+        a: -866358920
+        b: 1190390534
+        c: -342126433
+        d: 831202869
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &1322330355115246437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_BritishEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_BritishEmpireTitle'
+  Description: '%ConstructibleExtension_Era5_BritishEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: -52661406
+        b: 1186766581
+        c: -1563132751
+        d: -1134635314
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &1534999219864225674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_FrenchRepublic
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_FrenchRepublicTitle'
+  Description: '%ConstructibleExtension_Era5_FrenchRepublicDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1764791985
+        b: 1274519914
+        c: -1799497813
+        d: -1375713004
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &1842019374205229893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_PolishKingdom
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_PolishKingdomTitle'
+  Description: '%ConstructibleExtension_Era4_PolishKingdomDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1550079129
+        b: 1286549387
+        c: -1023796339
+        d: 2005262377
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &2283151933291309191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_AfsharidPersia
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_AfsharidPersiaTitle'
+  Description: '%ConstructibleExtension_Era5_AfsharidPersiaDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1665949913
+        b: 1164971058
+        c: 519407539
+        d: -1699072309
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &2936603031951270740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_MayaCivilization
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_MayaCivilizationTitle'
+  Description: '%ConstructibleExtension_Era2_MayaCivilizationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1472371700
+        b: 1256796970
+        c: 973360810
+        d: -579013669
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &3712418110422477097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_MycenaeanCivilization
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_MycenaeanCivilizationTitle'
+  Description: '%ConstructibleExtension_Era1_MycenaeanCivilizationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -43215951
+        b: 1274829224
+        c: -564603238
+        d: -1405867816
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.9019608, g: 0.7647059, b: 0.3647059, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &4454739855807316885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_MingChina
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_MingChinaTitle'
+  Description: '%ConstructibleExtension_Era4_MingChinaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -456067106
+        b: 1288931519
+        c: 488201116
+        d: -1690002830
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &4571588592773236700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_MongolEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_MongolEmpireTitle'
+  Description: '%ConstructibleExtension_Era3_MongolEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1889343317
+        b: 1185053166
+        c: -935110753
+        d: 737655895
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &4948180822902070323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_Babylon
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_BabylonTitle'
+  Description: '%ConstructibleExtension_Era1_BabylonDescription'
+  Images:
+  - Value:
+      guid:
+        a: 667956744
+        b: 1104659098
+        c: 752434589
+        d: 522864333
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &4977674666698359215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_Brazil
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_BrazilTitle'
+  Description: '%ConstructibleExtension_Era6_BrazilDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1815764820
+        b: 1267990027
+        c: 1471466144
+        d: 610667992
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &5157687958682470263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_RussianEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_RussianEmpireTitle'
+  Description: '%ConstructibleExtension_Era5_RussianEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1041759158
+        b: 1143752043
+        c: 285723801
+        d: -256179144
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &5175452623592282461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_MedievalEngland
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_MedievalEnglandTitle'
+  Description: '%ConstructibleExtension_Era3_MedievalEnglandDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1546437120
+        b: 1277309652
+        c: -1263913332
+        d: -2006446486
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &5651022031844563824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_JoseonKorea
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_JoseonKoreaTitle'
+  Description: '%ConstructibleExtension_Era4_JoseonKoreaDescription'
+  Images:
+  - Value:
+      guid:
+        a: 930308675
+        b: 1200398746
+        c: -1265703776
+        d: 1785999
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &5708763250546985493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_Australia
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_AustraliaTitle'
+  Description: '%ConstructibleExtension_Era6_AustraliaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -894499545
+        b: 1299818078
+        c: 146042796
+        d: 145035732
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &5883223042162172562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era6_Turkey
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era6_TurkeyTitle'
+  Description: '%ConstructibleExtension_Era6_TurkeyDescription'
+  Images:
+  - Value:
+      guid:
+        a: -806441144
+        b: 1195370595
+        c: 1794046622
+        d: 88531389
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &6140219715787885727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_ZuluKingdom
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_ZuluKingdomTitle'
+  Description: '%ConstructibleExtension_Era5_ZuluKingdomDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2122767140
+        b: 1092193683
+        c: 253037712
+        d: -428892030
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &6340747610472627812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era5_Mexico
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era5_MexicoTitle'
+  Description: '%ConstructibleExtension_Era5_MexicoDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1405300519
+        b: 1338509618
+        c: 493660305
+        d: -737595527
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &6809338872464084150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_FrankishKingdom
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_FrankishKingdomTitle'
+  Description: '%ConstructibleExtension_Era3_FrankishKingdomDescription'
+  Images:
+  - Value:
+      guid:
+        a: 52061991
+        b: 1084595567
+        c: -40701530
+        d: 381712632
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.7882353, b: 0.90588236, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7115906408779305483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_CelticCivilization
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_CelticCivilizationTitle'
+  Description: '%ConstructibleExtension_Era2_CelticCivilizationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1283842356
+        b: 1265942079
+        c: -1871642990
+        d: -858096058
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7191773024547054450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era4_Spain
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era4_SpainTitle'
+  Description: '%ConstructibleExtension_Era4_SpainDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1430553509
+        b: 1292787791
+        c: -1588822595
+        d: -892667119
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -769853308
+        b: 1149385250
+        c: 1994392235
+        d: 1780949222
+    serializableKey: Picto
+  Color: {r: 0.78039217, g: 0.21960784, b: 0.28627452, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7207717097790802162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_HolyRomanEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_HolyRomanEmpireTitle'
+  Description: '%ConstructibleExtension_Era3_HolyRomanEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 532823208
+        b: 1288271953
+        c: -1597554250
+        d: -500403004
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.7882353, b: 0.90588236, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7260783187983347215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_Phoenicia
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_PhoeniciaTitle'
+  Description: '%ConstructibleExtension_Era1_PhoeniciaDescription'
+  Images:
+  - Value:
+      guid:
+        a: 217506688
+        b: 1108266680
+        c: 1671943587
+        d: 392894196
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.9019608, g: 0.7647059, b: 0.3647059, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7517740646384748594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era1_EgyptianKingdom
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era1_EgyptianKingdomTitle'
+  Description: '%ConstructibleExtension_Era1_EgyptianKingdomDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1420979911
+        b: 1081256208
+        c: 752545419
+        d: -1565474864
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7574076916729323587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_Huns
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_HunsTitle'
+  Description: '%ConstructibleExtension_Era2_HunsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1401475607
+        b: 1302375304
+        c: -2027126086
+        d: 532036454
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &7943228073905652216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era2_Carthage
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era2_CarthageTitle'
+  Description: '%ConstructibleExtension_Era2_CarthageDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2017000507
+        b: 1101662881
+        c: 1279934642
+        d: -663396373
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1780286359
+        b: 1176728212
+        c: 1016234628
+        d: 511107686
+    serializableKey: Picto
+  Color: {r: 0.94509804, g: 0.40784314, b: 0.80784315, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &8352540531750988302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_GhanaEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_GhanaEmpireTitle'
+  Description: '%ConstructibleExtension_Era3_GhanaEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1306678761
+        b: 1210658060
+        c: 1175059639
+        d: -1109310420
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.7882353, b: 0.90588236, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 
+--- !u!114 &9080077190061621209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Era3_AztecEmpire
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Era3_AztecEmpireTitle'
+  Description: '%ConstructibleExtension_Era3_AztecEmpireDescription'
+  Images:
+  - Value:
+      guid:
+        a: 29465295
+        b: 1173265369
+        c: 361749934
+        d: 1630240819
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.7882353, b: 0.90588236, a: 1}
+  Symbol: 
+  SortPriority: 3000
+  ConstructibleTraits: 

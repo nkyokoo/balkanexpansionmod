@@ -1,0 +1,947 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8767083978679631332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalAgreementsOpenBorder
+  m_EditorClassIdentifier: 
+  Title: '%CulturalAgreementsOpenBorderTitle'
+  Description: '%CulturalAgreementsOpenBorderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1083160377
+        b: 1153327502
+        c: -650617962
+        d: 118795797
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8127808073792766907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsNonAggression
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsNonAggressionTitle'
+  Description: '%MilitaryAgreementsNonAggressionDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1147067822
+        b: 1269603911
+        c: -110496841
+        d: 1367667703
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7839799419618908918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -163953271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AgreementCategoryInformation
+  m_EditorClassIdentifier: 
+  Title: '%AgreementCategoryInformationTitle'
+  Description: '%AgreementCategoryInformationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1181646364
+        b: 1255437585
+        c: 261624455
+        d: 1127744661
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7687961445402568995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalAgreementsLiegeBelief
+  m_EditorClassIdentifier: 
+  Title: '%CulturalAgreementsLiegeBeliefTitle'
+  Description: '%CulturalAgreementsLiegeBeliefDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1621605042
+        b: 1335584875
+        c: 811486356
+        d: -1959026182
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -184937719
+        b: 1285614113
+        c: 2064428679
+        d: 41034365
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7341576692145706106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalAgreementsCulturalAgreement
+  m_EditorClassIdentifier: 
+  Title: '%CulturalAgreementsCulturalAgreementTitle'
+  Description: '%CulturalAgreementsCulturalAgreementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 369402067
+        b: 1244027767
+        c: 1522422176
+        d: -730258483
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-7236053852297832675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsFreeTrade
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsFreeTradeTitle'
+  Description: '%EconomicalAgreementsFreeTradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 184536977
+        b: 1111868483
+        c: 1158131846
+        d: 1972568710
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5964667674303468060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsForbidNewTrade
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsNoTradeTitle'
+  Description: '%EconomicalAgreementsNoTradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1788494889
+        b: 1192075817
+        c: -1301777496
+        d: -61954650
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5947890613880052886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -163953271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AgreementCategoryCultural
+  m_EditorClassIdentifier: 
+  Title: '%AgreementCategoryCulturalTitle'
+  Description: '%AgreementCategoryCulturalDescription'
+  Images:
+  - Value:
+      guid:
+        a: 799097766
+        b: 1206983689
+        c: 1744872854
+        d: 1142248923
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4581394573633149318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsSkirmish
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsSkirmishTitle'
+  Description: '%MilitaryAgreementsSkirmishDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1676011373
+        b: 1293532292
+        c: 17711519
+        d: -1587298880
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-3663059259553161209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsResourceSharing
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsResourceSharingTitle'
+  Description: '%EconomicalAgreementsResourceSharingDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1621605042
+        b: 1335584875
+        c: 811486356
+        d: -1959026182
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1675590447
+        b: 1132703306
+        c: 2064139706
+        d: 260852317
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2861617671831318087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsLuxuryTrade
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsLuxuryTradeTitle'
+  Description: '%EconomicalAgreementsLuxuryTradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1916705340
+        b: 1146819543
+        c: 90411402
+        d: -1653629814
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2026751645622127948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsNoSharing
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsNoSharingTitle'
+  Description: '%InformationAgreementsNoSharingDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1639484328
+        b: 1151595908
+        c: -1334434883
+        d: 554358664
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1771759936069384185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalAgreementsClosedBorder
+  m_EditorClassIdentifier: 
+  Title: '%CulturalAgreementsClosedBorderTitle'
+  Description: '%CulturalAgreementsClosedBorderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1426283785
+        b: 1076384799
+        c: 1017523119
+        d: 1531214093
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1576056743678029142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsShareLiege
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsShareLiegeTitle'
+  Description: '%InformationAgreementsShareLiegeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1621605042
+        b: 1335584875
+        c: 811486356
+        d: -1959026182
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticAgreementUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &638872581989946059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsAttack
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsAttackTitle'
+  Description: '%MilitaryAgreementsAttackDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1237561751
+        b: 1237181409
+        c: -512140382
+        d: 1578861056
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1114849954
+        b: 1236577483
+        c: 714385564
+        d: 1031913435
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &800702010053104001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsNuclearAttack
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsNuclearAttackTitle'
+  Description: '%MilitaryAgreementsNuclearAttackDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1237561751
+        b: 1237181409
+        c: -512140382
+        d: 1578861056
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &810434389542575413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalAgreementsEnterCity
+  m_EditorClassIdentifier: 
+  Title: '%CulturalAgreementsEnterCityTitle'
+  Description: '%CulturalAgreementsEnterCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1028217019
+        b: 1223779252
+        c: -1801363813
+        d: -103266463
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1104608494859543419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -163953271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AgreementCategoryMilitary
+  m_EditorClassIdentifier: 
+  Title: '%AgreementCategoryMilitaryTitle'
+  Description: '%AgreementCategoryMilitaryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 331160989
+        b: 1306568918
+        c: 1161786766
+        d: 76380139
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2392453619870511219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsShareCapitalPosition
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsShareCapitalPositionTitle'
+  Description: '%InformationAgreementsShareCapitalPositionDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1064581303
+        b: 1109619269
+        c: 1589151934
+        d: -618810638
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2482991293883204677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalAgreementsNoBorder
+  m_EditorClassIdentifier: 
+  Title: '%CulturalAgreementsNoBorderTitle'
+  Description: '%CulturalAgreementsNoBorderDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1237561751
+        b: 1237181409
+        c: -512140382
+        d: 1578861056
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 800998430
+        b: 1307916865
+        c: 2074621097
+        d: -870243473
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2968280164773006810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsScientificAgreement
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsScientificAgreementTitle'
+  Description: '%InformationAgreementsScientificAgreementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -1073436849
+        b: 1194369386
+        c: -808542300
+        d: 1879178653
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4402900381273687598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsAllowHealingAndUpgrade
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsAllowHealingAndUpgradeTitle'
+  Description: '%MilitaryAgreementsAllowHealingAndUpgradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1832493991
+        b: 1108011408
+        c: -1508506479
+        d: -526345037
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4484234469756901299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsShareMaps
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsShareMapsTitle'
+  Description: '%InformationAgreementsShareMapsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1342451255
+        b: 1133641347
+        c: -1448033653
+        d: 523056529
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4793386150704513715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsDisinformation
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsDisinformationTitle'
+  Description: '%InformationAgreementsDisinformationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1237561751
+        b: 1237181409
+        c: -512140382
+        d: 1578861056
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 0
+        b: 0
+        c: 0
+        d: 0
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4843314789130810825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsAllResourceTrade
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsAllResourceTradeTitle'
+  Description: '%EconomicalAgreementsAllResourceTradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -588617693
+        b: 1166737632
+        c: -514721404
+        d: 295523988
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -690872455
+        b: 1090772982
+        c: -1529659515
+        d: -1361171061
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5399593194068384501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: InformationAgreementsShareVision
+  m_EditorClassIdentifier: 
+  Title: '%InformationAgreementsShareVisionTitle'
+  Description: '%InformationAgreementsShareVisionDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 2004963793
+        b: 1218350083
+        c: 92152216
+        d: 140847254
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6492019314910212236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsTutor
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsTutorTitle'
+  Description: '%MilitaryAgreementsTutorDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1621605042
+        b: 1335584875
+        c: 811486356
+        d: -1959026182
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -517873197
+        b: 1108357203
+        c: 866241427
+        d: 1064525789
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7432048178261555857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsCheapTrade
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsCheapTradeTitle'
+  Description: '%EconomicalAgreementsCheapTradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -969123741
+        b: 1307895794
+        c: 267265707
+        d: 2056281830
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7567551370740604713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryAgreementsJoinBattle
+  m_EditorClassIdentifier: 
+  Title: '%MilitaryAgreementsJoinBattleTitle'
+  Description: '%MilitaryAgreementsJoinBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: 625844329
+        b: 1075578100
+        c: -1981052252
+        d: -1817133900
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: 1428361195
+        b: 1322249074
+        c: 476658349
+        d: 2122715945
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7794883867464218174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -163953271, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AgreementCategoryEconomical
+  m_EditorClassIdentifier: 
+  Title: '%AgreementCategoryEconomicalTitle'
+  Description: '%AgreementCategoryEconomicalDescription'
+  Images:
+  - Value:
+      guid:
+        a: -261872597
+        b: 1298130757
+        c: -308069445
+        d: 2010812320
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8195932502433517566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EconomicalAgreementsDestroyTrade
+  m_EditorClassIdentifier: 
+  Title: '%EconomicalAgreementsDestroyTradeTitle'
+  Description: '%EconomicalAgreementsDestroyTradeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1237561751
+        b: 1237181409
+        c: -512140382
+        d: 1578861056
+    serializableKey: DiplomaticPortraitFrame
+  - Value:
+      guid:
+        a: -955923464
+        b: 1114018021
+        c: -147085695
+        d: -701932197
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

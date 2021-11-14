@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7299993382257847958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DownloadableContentListExpansions
+  m_EditorClassIdentifier: 
+  Title: '%DownloadableContentListExpansionsTitle'
+  Description: '%DownloadableContentListExpansionsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-642969199608832476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Deluxe
+  m_EditorClassIdentifier: 
+  Title: '%DLCDeluxeTitle'
+  Description: '%DLCDeluxeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1710274881
+        b: 1243239164
+        c: 1891273403
+        d: -1503331788
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -2082612692
+        b: 1133425188
+        c: 1137713833
+        d: 1973709236
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-472001000823568274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Pre-purchase
+  m_EditorClassIdentifier: 
+  Title: '%DLCPrepurchaseTitle'
+  Description: '%DLCPrepurchaseDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1387081468
+        b: 1239722004
+        c: -1013382219
+        d: -447664806
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1201424037
+        b: 1201593643
+        c: 1531419318
+        d: -1722449851
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DownloadableContentUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &1276672637328951497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DownloadableContentListAddOns
+  m_EditorClassIdentifier: 
+  Title: '%DownloadableContentListAddOnsTitle'
+  Description: '%DownloadableContentListAddOnsDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3556399983902533879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: GlobalDefault1
+  m_EditorClassIdentifier: 
+  Title: '%DLCHiddenTitle'
+  Description: '%DLCHiddenDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1792573031
+        b: 1188090767
+        c: 342763922
+        d: 305240368
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 2106797195
+        b: 1316604577
+        c: 1789271229
+        d: -955389554
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6044757900294703709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DevTeam
+  m_EditorClassIdentifier: 
+  Title: '%DLCHiddenTitle'
+  Description: '%DLCHiddenDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1684462250
+        b: 1239392705
+        c: 1388599696
+        d: -1060216403
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 2106797195
+        b: 1316604577
+        c: 1789271229
+        d: -955389554
+    serializableKey: Medium
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6718563644691605184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DownloadableContentListUpdates
+  m_EditorClassIdentifier: 
+  Title: '%DownloadableContentListUpdatesTitle'
+  Description: '%DownloadableContentListUpdatesDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

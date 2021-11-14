@@ -1,0 +1,1738 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9005746793777967710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated10
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated10
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &-8829083567749075580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_IsEmbarked
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_IsEmbarked
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_IsEmbarked
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &-8629969148989767541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Demoralized01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Demoralized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Demoralized01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Motivated
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-8463894976826818238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Attentive01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Attentive
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Attentive01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy:
+  - serializableElementName: StatusCategory_Unit_Sick
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-8404908865044583236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated07
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated07
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &-8391495889276904061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated13
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated13
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &-8346356746415705104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_HeavilyDamagedVehicle
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_HeavilyDamagedVehicle
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_HeavilyDamaged
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-7746211964059220422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileUrban
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileUrban
+  Descriptor:
+    serializableElementName: Tag_Status_Unit_TileUrban
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &-6896004391782590593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileRiver
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileRiver
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_TileRiver
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &-6368705704299696736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated05
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated05
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-5884004940321894624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_BattleDebuffPoison
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_BattleDebuffPoison
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_DebuffTargetPoison
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2
+  IgnoreGameSpeed: 1
+--- !u!114 &-5422882812406152062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated08
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated08
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &-5022867992581396755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_SharpEye01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_SharpEye
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_SharpEye01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-4236986300659838749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileNavalTurbulentWaters
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileNavalTurbulentWaters
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_TileNavalTurbulentWaters
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &-4185154650166659540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Invisible
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Invisible
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Invisible
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &-3770108310337946641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileNavalReefs
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileNavalReefs
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_TileNavalReefs
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &-3672405026830437509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_HeavilyDamagedHuman
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_HeavilyDamagedHuman
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_HeavilyDamaged
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-3595934814848957275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-2842515213739336111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_DugIn
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_DugIn
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_DugIn
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy:
+  - serializableElementName: StatusCategory_Unit_BattleDebuffStun
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &-2593994803837883320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_BattleDebuffMove
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_BattleDebuffMove
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_DebuffTargetMove
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2
+  IgnoreGameSpeed: 1
+--- !u!114 &-2567703930806013684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Blessed01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Blessed
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Blessed01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-2460613180979072241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated09
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated09
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &-1679265560895627547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_DamagedHuman
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_DamagedHuman
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_Damaged
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &-1426970012990114388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized03
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized03
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-576850932640743256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-273960804200049922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Attentive03
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Attentive
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Attentive03
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy:
+  - serializableElementName: StatusCategory_Unit_Sick
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-196304316846253391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized07
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized07
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &-74589175228673132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Attentive02
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Attentive
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Attentive02
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy:
+  - serializableElementName: StatusCategory_Unit_Sick
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2110363667, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitStatusDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &24625477632069102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileForest
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileForest
+  Descriptor:
+    serializableElementName: Tag_Status_Unit_TileForest
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &87859018932932990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Caravanserai
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Caravanserai
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 1
+  IgnoreGameSpeed: 1
+--- !u!114 &490508396909617312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_BattleDebuffStun
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_BattleDebuffStun
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_DebuffTargetStun
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2
+  IgnoreGameSpeed: 1
+--- !u!114 &503901126218108494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated11
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated11
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &561957219887249481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized05
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized05
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &646839388276102089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized06
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized06
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &703627526346883830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_MovingByTrain
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_MovingByTrain
+  Descriptor:
+    serializableElementName: Tag_Status_Unit_MovingByTrain
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &939740780439887250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_FirstAid02
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_FirstAid
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_FirstAid02
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &1454074237959568035
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Scared01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Scared
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Scared01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Organized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &1924647889092778073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileFortified
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileFortified
+  Descriptor:
+    serializableElementName: Tag_Status_Unit_TileFortified
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &1959950924524566368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Sick06
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Sick
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Sick06
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &2055442565306911966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Retreated
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_Retreated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Retreated
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2
+  IgnoreGameSpeed: 1
+--- !u!114 &2167734692410127545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileReinforcePoint
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileReinforcePoint
+  Descriptor:
+    serializableElementName: Tag_Status_Unit_TileReinforcePoint
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &2254945010937639129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Defending01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Defending
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Defending01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &2459778157145595658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Poisoned01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Poisoned
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Poisoned01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &3207999898351901278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Occupying
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_Occupying
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Occupying
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 1
+  IgnoreGameSpeed: 1
+--- !u!114 &3595511144168918461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized08
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized08
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &4288489409104409199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileNavalFog
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileNavalFog
+  Descriptor:
+    serializableElementName: Tag_Status_Unit_TileNavalFog
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &4665096809818710433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_StartedAlliedTerritory
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_StartedAlliedTerritory
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_StartedAlliedTerritory
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &5340077158680551343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated06
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated06
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &5461494472352216052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Scared03
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Scared
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Scared03
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Organized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &5558538765389310893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized02
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized02
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &5580842310789700780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Trespassing
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_Trespassing
+  Descriptor:
+    serializableElementName: Effect_Trespassing
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &5600266975140279886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Sick01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Sick
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Sick01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &6163135245659532729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized09
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized09
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &6599263239066118400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized11
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized11
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &6810633638369034360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Inspired
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Inspired
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Inspired
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &7137438625256944564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized04
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized04
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &7349292499283987477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated02
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated02
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &7568557119074990753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Organized10
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Organized
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Organized10
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Sick
+  - serializableElementName: StatusCategory_Unit_Scared
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &7584044911801608835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_FirstAid01
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_FirstAid
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_FirstAid01
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &7675437376844596442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_LostAtSea
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_LostAtSea
+  Descriptor:
+    serializableElementName: Effect_LostAtSea
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &7800370646808877532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_RunningRepairs
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_RunningRepairs
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_RunningRepairs
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &7873447042428152691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileMilitary
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileMilitary
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_TileMilitary
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &8022734531014815468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Patrolling
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Patrolling
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Patrolling
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &8074349359428467907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_TileNavalAlguaes
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_TileNavalAlguaes
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_TileNavalAlguaes
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 2147483647
+  IgnoreGameSpeed: 1
+--- !u!114 &8413178189740395039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Scared02
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Scared
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Scared02
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Organized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &8527853691648344529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_FirstAid03
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_FirstAid
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_FirstAid03
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0
+--- !u!114 &8560869846401874621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated12
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated12
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 5
+  IgnoreGameSpeed: 0
+--- !u!114 &8763698364345095740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_DamagedVehicle
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 1
+  Category:
+    serializableElementName: StatusCategory_Unit_DamagedVehicle
+  Descriptor:
+    serializableElementName: GameEffect_BattleAction_Damaged
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &9028889832397564480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_GoldenAge
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_GoldenAge
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_GoldenAge
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply: []
+  DefaultDuration: -1
+  IgnoreGameSpeed: 0
+--- !u!114 &9066335359277584270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967118104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Status_Unit_Motivated03
+  m_EditorClassIdentifier: 
+  OnlyUsedByCode: 0
+  Category:
+    serializableElementName: StatusCategory_Unit_Motivated
+  Descriptor:
+    serializableElementName: Effect_Status_Unit_Motivated03
+  CostModifier:
+    serializableElementName: 
+  StartingType: Amplitude.Mercury.Simulation.Unit, Amplitude.Mercury.Firstpass
+  InhibitedBy: []
+  CancelOnApply:
+  - serializableElementName: StatusCategory_Unit_Demoralized
+  DefaultDuration: 10
+  IgnoreGameSpeed: 0

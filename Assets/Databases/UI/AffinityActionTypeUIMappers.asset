@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9164555226746233126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeDepositInvestment
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeDepositInvestmentTitle'
+  Description: '%AffinityActionTypeDepositInvestmentDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1048568415
+        b: 1192593344
+        c: 64108953
+        d: -1691218334
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-8990415727738500090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeMoneyMode
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeMoneyModeTitle'
+  Description: '%AffinityActionTypeMoneyModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2114785140
+        b: 1150529331
+        c: 638699393
+        d: -747140420
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4403935545562768255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeArmyStealTerritory
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeArmyStealTerritoryTitle'
+  Description: '%AffinityActionTypeArmyStealTerritoryDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1935801332
+        b: 1248745154
+        c: -2018909506
+        d: -1733519518
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &541519570925089345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeBabyBoom
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeBabyBoomTitle'
+  Description: '%AffinityActionTypeBabyBoomDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1400684419
+        b: 1136946953
+        c: 216775319
+        d: 889414009
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &696612662119552171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeInfluenceBomb
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeInfluenceBombTitle'
+  Description: '%AffinityActionTypeInfluenceBombDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1846942310
+        b: 1101152098
+        c: -752654916
+        d: 1050739975
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1743494595763887742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeRaiseReservistArmy
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeRaiseReservistArmyTitle'
+  Description: '%AffinityActionTypeRaiseReservistArmyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1410424855
+        b: 1247369642
+        c: -2106528853
+        d: -1883383741
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3220572238854178206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeBoostCulturalEconomicGain
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeBoostCulturalEconomicGainTitle'
+  Description: '%AffinityActionTypeBoostCulturalEconomicGainDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1566828368
+        b: 1153830676
+        c: 2107049908
+        d: -1117666158
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7119486778332038789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeScienceMode
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeScienceModeTitle'
+  Description: '%AffinityActionTypeScienceModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1168539512
+        b: 1149282308
+        c: -1010804316
+        d: -807566764
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8065032566455982130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeIndustryMode
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeIndustryModeTitle'
+  Description: '%AffinityActionTypeIndustryModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -758496492
+        b: 1151064797
+        c: -1285134198
+        d: 1430071656
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &8815646393693309005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: AffinityActionTypeStealPopulation
+  m_EditorClassIdentifier: 
+  Title: '%AffinityActionTypeStealPopulationTitle'
+  Description: '%AffinityActionTypeStealPopulationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1707141300
+        b: 1300713143
+        c: 310770098
+        d: 1053046520
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

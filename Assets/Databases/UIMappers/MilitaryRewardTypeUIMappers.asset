@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4873690431257841388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypeInfluence
+  m_EditorClassIdentifier: 
+  Title: '%ResourceCultureTitle'
+  Description: '%ResourceCultureDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1281135031
+        b: 1173288057
+        c: 798940332
+        d: -1301141564
+    serializableKey: Picto
+  Color: {r: 0.64705884, g: 0.33333334, b: 0.9058824, a: 1}
+  Symbol: '[CultureColored]'
+--- !u!114 &-4554417402536425927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypePopulation
+  m_EditorClassIdentifier: 
+  Title: '%ResourcePopulationTitle'
+  Description: '%ResourcePopulationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1206600528
+        b: 1312182820
+        c: -2050519914
+        d: -1436084161
+    serializableKey: Picto
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  Symbol: '[Population]'
+--- !u!114 &-672578466394242742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypeFood
+  m_EditorClassIdentifier: 
+  Title: '%ResourceFoodTitle'
+  Description: '%ResourceFoodDescription'
+  Images:
+  - Value:
+      guid:
+        a: -934906379
+        b: 1258598457
+        c: 1335720347
+        d: 598072120
+    serializableKey: Picto
+  Color: {r: 0.6901961, g: 0.77647066, b: 0.3647059, a: 1}
+  Symbol: '[FoodColored]'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &695205712411891666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypeFame
+  m_EditorClassIdentifier: 
+  Title: '%ResourceFameTitle'
+  Description: '%ResourceFameDescription'
+  Images:
+  - Value:
+      guid:
+        a: 678232807
+        b: 1177925724
+        c: 587563915
+        d: -717991984
+    serializableKey: Picto
+  Color: {r: 0.82745105, g: 0.5372549, b: 0.9607844, a: 1}
+  Symbol: '[FameColored]'
+--- !u!114 &2713998047022795312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypeScience
+  m_EditorClassIdentifier: 
+  Title: '%ResourceScienceTitle'
+  Description: '%ResourceScienceDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1498882830
+        b: 1193919851
+        c: -264294996
+        d: 474351959
+    serializableKey: Picto
+  Color: {r: 0.32156864, g: 0.78823537, b: 0.9058824, a: 1}
+  Symbol: '[ScienceColored]'
+--- !u!114 &3577793690340977895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: MilitaryRewardTypeMoney
+  m_EditorClassIdentifier: 
+  Title: '%ResourceMoneyTitle'
+  Description: '%ResourceMoneyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 385920210
+        b: 1231726544
+        c: -1810738253
+        d: 558251492
+    serializableKey: Picto
+  Color: {r: 0.90196085, g: 0.76470596, b: 0.3647059, a: 1}
+  Symbol: '[MoneyColored]'

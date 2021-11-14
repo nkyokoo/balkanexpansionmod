@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7824829814466505291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1089338440, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleSectionInfrastructures
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleSectionInfrastructuresTitle'
+  Description: '%ConstructibleSectionInfrastructuresDescription'
+  Images:
+  - Value:
+      guid:
+        a: 878555734
+        b: 1162422048
+        c: 439497860
+        d: -245849766
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 30
+  ShownForTheseSettlementStatuses: 04000000
+--- !u!114 &-7335976154590416958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1089338440, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleSectionExtensions
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleSectionExtensionsTitle'
+  Description: '%ConstructibleSectionExtensionsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1902366378
+        b: 1222129103
+        c: -1260519026
+        d: -1039907981
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 20
+  ShownForTheseSettlementStatuses: 02000000030000000400000005000000
+--- !u!114 &-7195034313226164560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1089338440, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleSectionEmpireWide
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleSectionEmpireWideTitle'
+  Description: '%ConstructibleSectionEmpireWideDescription'
+  Images:
+  - Value:
+      guid:
+        a: -399074594
+        b: 1105300206
+        c: -1524706657
+        d: -2092715119
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 10
+  ShownForTheseSettlementStatuses: 04000000
+--- !u!114 &-2855227318411078198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1089338440, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleSectionAll
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleSectionAllTitle'
+  Description: '%ConstructibleSectionAllDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 0
+  ShownForTheseSettlementStatuses: 000000000100000002000000030000000400000005000000
+--- !u!114 &-117860978758523763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1089338440, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleSectionUnits
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleSectionUnitsTitle'
+  Description: '%ConstructibleSectionUnitsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1505483389
+        b: 1103276358
+        c: -53930846
+        d: 817758960
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 40
+  ShownForTheseSettlementStatuses: 02000000030000000400000005000000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ConstructibleSectionUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &6460489462790862419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1089338440, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ConstructibleSectionPublicCeremonies
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleSectionPublicCeremoniesTitle'
+  Description: '%ConstructibleSectionPublicCeremoniesDescription'
+  Images:
+  - Value:
+      guid:
+        a: 415345749
+        b: 1325917497
+        c: -1177566075
+        d: 502754804
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 50
+  ShownForTheseSettlementStatuses: 04000000

@@ -1,0 +1,1534 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8843279236165486205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_CulturalProximity_Kinship
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_CulturalProximity_Kinship'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_CulturalProximity_Kinship'
+  LocalizationTargetInverted: 
+--- !u!114 &-8431737525982316933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_CoastalWater
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_CoastalWater'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_CoastalWater'
+  LocalizationTargetInverted: 
+--- !u!114 &-8364923229900281827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_StoneField
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_StoneField'
+  LocalizationTargetInverted: 
+--- !u!114 &-8266201255229282976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Airfield
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Airfield'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Airfield'
+  LocalizationTargetInverted: 
+--- !u!114 &-8018748191545730991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitAbility_Militia
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitAbility_Militia'
+  LocalizationTargetInverted: 
+--- !u!114 &-7778836604139223416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Lake
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_Lake'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_Lake'
+  LocalizationTargetInverted: 
+--- !u!114 &-7563877639936131147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_HolySite
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_HolySite'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_HolySite'
+  LocalizationTargetInverted: 
+--- !u!114 &-7520176584860456343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_DryGrass
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_DryGrass'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_DryGrass'
+  LocalizationTargetInverted: 
+--- !u!114 &-7439921915188619232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_MajorEmpire_ReligiousLeader
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_MajorEmpire_ReligiousLeader'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_MajorEmpire_ReligiousLeader'
+  LocalizationTargetInverted: 
+--- !u!114 &-7162285234871931299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Airport
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Airport'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Airport'
+  LocalizationTargetInverted: 
+--- !u!114 &-7162245259767096884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Unit_Emblematic
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Unit_Emblematic'
+  LocalizationTargetInverted: 
+--- !u!114 &-7027297634973086527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Prairie
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_Prairie'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_Prairie'
+  LocalizationTargetInverted: 
+--- !u!114 &-6994777182832849630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_RockyForest
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_RockyForest'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_RockyForest'
+  LocalizationTargetInverted: 
+--- !u!114 &-6958262398438813552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_MajorEmpire_Imperialist
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_MajorEmpire_Imperialist'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_MajorEmpire_Imperialist'
+  LocalizationTargetInverted: 
+--- !u!114 &-6947788805801567397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Industry
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Industry'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Industry'
+  LocalizationTargetInverted: 
+--- !u!114 &-6901732641204503266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_PublicOrderStatus_Happy
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_PublicOrderStatus_Happy'
+  LocalizationTargetInverted: 
+--- !u!114 &-6550097190631061129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_CityFlags_Besieged
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_CityFlags_Besieged'
+  LocalizationTargetInverted: '%GameEffect_CityFlags_BesiegedInverted'
+--- !u!114 &-6396869297297079782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Cultural
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Cultural'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Extension_Cultural'
+  LocalizationTargetInverted: 
+--- !u!114 &-6262094366558878181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Infrastructure_Industry_Family05_02
+  m_EditorClassIdentifier: 
+  Localization: '%Infrastructure_Industry_Family05_02Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Infrastructure_Industry_Family05_02Title'
+  LocalizationTargetInverted: 
+--- !u!114 &-6188193062283798708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Money_Yield
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Money'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Money'
+  LocalizationTargetInverted: 
+--- !u!114 &-6181571775218678246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Military
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Military'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Military'
+  LocalizationTargetInverted: 
+--- !u!114 &-6132275379127596690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Status_City_Celebration20
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Status_City_Celebration20'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Status_City_Celebration20'
+  LocalizationTargetInverted: 
+--- !u!114 &-6087658590727768380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Civics_Government06_Choice01
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Civics_Government06_Choice01'
+  LocalizationInverted: '%Not_Effect_Civics_Government06_Choice01'
+  LocalizationTarget: '%Effect_Civics_Government06_Choice01'
+  LocalizationTargetInverted: '%Not_Effect_Civics_Government06_Choice01'
+--- !u!114 &-6001802343054448036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_Animal
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_Animal'
+  LocalizationTargetInverted: '%Not_Effect_UnitPrototype_Animal'
+--- !u!114 &-5762956352324448493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_Exploitation
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_Exploitation'
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_Exploitation'
+  LocalizationTargetInverted: 
+--- !u!114 &-5631992845652428628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Status_City_Unadministered
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Status_City_Unadministered_Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Status_City_Unadministered_Title'
+  LocalizationTargetInverted: 
+--- !u!114 &-5433397278958076876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_Nomad
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_Nomad'
+  LocalizationTargetInverted: 
+--- !u!114 &-5402606413912568292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Urban
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Urban'
+  LocalizationInverted: '%Not_Tag_Extension_Urban'
+  LocalizationTarget: '%Tag_Extension_Urban'
+  LocalizationTargetInverted: '%Not_Tag_Extension_Urban'
+--- !u!114 &-4933328752106276144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Industry_Yield
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Industry'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Industry'
+  LocalizationTargetInverted: 
+--- !u!114 &-4844046568255348943
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_CityFlags_Captured
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_CityFlags_Captured'
+  LocalizationTargetInverted: 
+--- !u!114 &-4264104433742642485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Religious
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Religious'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Extension_Religious'
+  LocalizationTargetInverted: 
+--- !u!114 &-4030673091586276162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitAbility_StrengthFromAlliesAdjacentToUser
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitAbility_StrengthFromAlliesAdjacentToUser'
+  LocalizationTargetInverted: 
+--- !u!114 &-3886105983856855762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_CityFlags_Capital
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_CityFlags_Capital'
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_CityFlags_Capital'
+  LocalizationTargetInverted: '%GameEffect_CityFlags_CapitalInverted'
+--- !u!114 &-3610884264494739680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_Gunner
+  m_EditorClassIdentifier: 
+  Localization: '%UnitClass_GunnerTitle'
+  LocalizationInverted: 
+  LocalizationTarget: '%UnitClass_GunnerTitle'
+  LocalizationTargetInverted: 
+--- !u!114 &-3176520534011043051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Base
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Base'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Extension_Base'
+  LocalizationTargetInverted: 
+--- !u!114 &-3045981975736713000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Infrastructure_Industry_Family05_03
+  m_EditorClassIdentifier: 
+  Localization: '%Infrastructure_Industry_Family05_03Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Infrastructure_Industry_Family05_03Title'
+  LocalizationTargetInverted: 
+--- !u!114 &-3009304966513454452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Diocese_StateReligion
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Diocese_StateReligion'
+  LocalizationInverted: '%Not_Tag_Diocese_StateReligion'
+  LocalizationTarget: '%Tag_Diocese_StateReligion'
+  LocalizationTargetInverted: '%Not_Tag_Diocese_StateReligion'
+--- !u!114 &-2983476454778703213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Money
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Money'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Money'
+  LocalizationTargetInverted: 
+--- !u!114 &-2902964143961977093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Forest
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_Forest'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_Forest'
+  LocalizationTargetInverted: 
+--- !u!114 &-2270902767690745446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_NavalTransport
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_UnitPrototype_NavalTransport'
+  LocalizationInverted: '%Not_Effect_UnitPrototype_NavalTransport'
+  LocalizationTarget: '%Effect_UnitPrototype_NavalTransport'
+  LocalizationTargetInverted: '%Not_Effect_UnitPrototype_NavalTransport'
+--- !u!114 &-1823699030675901490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Sterile
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_Sterile'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_Sterile'
+  LocalizationTargetInverted: 
+--- !u!114 &-1406603967687509329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Status_City_Crisis_1
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Status_City_Crisis_1Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Status_City_Crisis_1Title'
+  LocalizationTargetInverted: 
+--- !u!114 &-940176753756706990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Infrastructure_Industry_Family05_01
+  m_EditorClassIdentifier: 
+  Localization: '%Infrastructure_Industry_Family05_01Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Infrastructure_Industry_Family05_01Title'
+  LocalizationTargetInverted: 
+--- !u!114 &-908116300130085831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_AirUnit
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_UnitPrototype_AirUnit'
+  LocalizationInverted: '%Not_Effect_UnitPrototype_AirUnit'
+  LocalizationTarget: '%Effect_UnitPrototype_AirUnit'
+  LocalizationTargetInverted: '%Not_Effect_UnitPrototype_AirUnit'
+--- !u!114 &-274757944746781657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Civics_Government07_Choice01
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Civics_Government07_Choice01'
+  LocalizationInverted: '%Not_Effect_Civics_Government07_Choice01'
+  LocalizationTarget: '%Effect_Civics_Government07_Choice01'
+  LocalizationTargetInverted: '%Not_Effect_Civics_Government07_Choice01'
+--- !u!114 &-184655775262002919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Harbour
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Harbour'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Harbour'
+  LocalizationTargetInverted: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -286750100, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: ValidationMapperCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &15522952958225359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Settlement_FoundedByMinorFaction
+  m_EditorClassIdentifier: 
+  Localization: '%Civics_Army02_Choice02Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Civics_Army02_Choice02Title'
+  LocalizationTargetInverted: 
+--- !u!114 &48764276321329172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_DiplomaticState_War
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_DiplomaticState_War'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_DiplomaticState_War'
+  LocalizationTargetInverted: 
+--- !u!114 &110202313312826446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Woodland
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_Woodland'
+  LocalizationTargetInverted: 
+--- !u!114 &196062004025844279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Exploitation_Strategic
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Exploitation_Strategic'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Exploitation_Strategic'
+  LocalizationTargetInverted: 
+--- !u!114 &200532711328091436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_TrainStation
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_TrainStation'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_TrainStation'
+  LocalizationTargetInverted: 
+--- !u!114 &257512238183545783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Science_Yield
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Science'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Science'
+  LocalizationTargetInverted: 
+--- !u!114 &275714730480845115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Status_Unit_StartedAlliedTerritory
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Status_Unit_StartedAlliedTerritory_Title'
+  LocalizationInverted: '%Not_Effect_Status_Unit_StartedAlliedTerritory_Title'
+  LocalizationTarget: '%Effect_Status_Unit_StartedAlliedTerritory_Title'
+  LocalizationTargetInverted: '%Not_Effect_Status_Unit_StartedAlliedTerritory_Title'
+--- !u!114 &335058984093245501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Civics_DemocracticRepublic
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Civics_DemocracticRepublic'
+  LocalizationInverted: '%Not_Tag_Civics_DemocracticRepublic'
+  LocalizationTarget: '%Tag_Civics_DemocracticRepublic'
+  LocalizationTargetInverted: '%Not_Tag_Civics_DemocracticRepublic'
+--- !u!114 &597344757715315594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Food
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Food'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Food'
+  LocalizationTargetInverted: 
+--- !u!114 &880391171367224638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_NavalUnit
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_UnitPrototype_NavalUnit'
+  LocalizationInverted: '%Not_Effect_UnitPrototype_NavalUnit'
+  LocalizationTarget: '%Effect_UnitPrototype_NavalUnit'
+  LocalizationTargetInverted: '%Not_Effect_UnitPrototype_NavalUnit'
+--- !u!114 &931788675131800054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Science
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Science'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Science'
+  LocalizationTargetInverted: 
+--- !u!114 &970399890568343711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Civics_Government06_Choice02
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Civics_Government06_Choice02'
+  LocalizationInverted: '%Not_Effect_Civics_Government06_Choice02'
+  LocalizationTarget: '%Effect_Civics_Government06_Choice02'
+  LocalizationTargetInverted: '%Not_Effect_Civics_Government06_Choice02'
+--- !u!114 &1018018271009499826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_CityCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_CityCenter'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_CityCenter'
+  LocalizationTargetInverted: 
+--- !u!114 &1151198361339549211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_DiplomaticState_VassalToLiege
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_DiplomaticState_VassalToLiege'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_DiplomaticState_VassalToLiege'
+  LocalizationTargetInverted: 
+--- !u!114 &1272628968857978311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_CityFlags_ScienceMode
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_CityFlags_ScienceMode'
+  LocalizationTargetInverted: 
+--- !u!114 &1362767926720298949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Resource_BeingTraded
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Resource_BeingSold'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Resource_BeingSold'
+  LocalizationTargetInverted: 
+--- !u!114 &1430164581064552679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_ArmyFlag_Rented
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_ArmyFlag_Rented'
+  LocalizationInverted: '%Not_GameEffect_ArmyFlag_Rented'
+  LocalizationTarget: '%GameEffect_ArmyFlag_Rented'
+  LocalizationTargetInverted: '%Not_GameEffect_ArmyFlag_Rented'
+--- !u!114 &1709605929120926771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_City
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_City'
+  LocalizationInverted: '%Not_GameEffect_City'
+  LocalizationTarget: '%GameEffect_City'
+  LocalizationTargetInverted: '%Not_GameEffect_City'
+--- !u!114 &1716008069344574125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_CampCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_CampCenter'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Extension_CampCenter'
+  LocalizationTargetInverted: 
+--- !u!114 &1817248576883455506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_NuclearMissile
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_NuclearMissile'
+  LocalizationTargetInverted: 
+--- !u!114 &2400465938886895884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_Mountain
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_Mountain'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_Mountain'
+  LocalizationTargetInverted: 
+--- !u!114 &2872068580514974384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_SiegeWeapon
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_SiegeWeapon'
+  LocalizationTargetInverted: 
+--- !u!114 &3464665529226915691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_CulturalProximity_Distrust
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_CulturalProximity_Distrust'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_CulturalProximity_Distrust'
+  LocalizationTargetInverted: 
+--- !u!114 &3707764346311091389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_Missile
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_Missile'
+  LocalizationTargetInverted: 
+--- !u!114 &4148091535435629499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_VillageCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_VillageCenter'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_VillageCenter'
+  LocalizationTargetInverted: 
+--- !u!114 &4278222396276961470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_MajorEmpire_EventCivicsGovernment01_Justice01
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_MajorEmpire_EventCivicsGovernment01_Justice01'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_MajorEmpire_EventCivicsGovernment01_Justice01'
+  LocalizationTargetInverted: 
+--- !u!114 &4304857031542745180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Exploitation_Luxury
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Exploitation_Luxury'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Exploitation_Luxury'
+  LocalizationTargetInverted: 
+--- !u!114 &4584267486447681306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_Extension_Emblematic
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_Extension_Emblematic'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_Extension_Emblematic'
+  LocalizationTargetInverted: 
+--- !u!114 &4614015523840951758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_LandUnit_Era1_Common_Levies
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%LandUnit_Era1_Common_LeviesTitle'
+  LocalizationTargetInverted: 
+--- !u!114 &4673186805251849209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_FieldArtillery
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_FieldArtillery'
+  LocalizationTargetInverted: 
+--- !u!114 &4688301557243331789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_DiplomaticState_Alliance
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_DiplomaticState_Alliance'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_DiplomaticState_Alliance'
+  LocalizationTargetInverted: 
+--- !u!114 &5535396499419098992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Infrastructure_Industry_Family05_04
+  m_EditorClassIdentifier: 
+  Localization: '%Infrastructure_Industry_Family05_04Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%Infrastructure_Industry_Family05_04Title'
+  LocalizationTargetInverted: 
+--- !u!114 &5787583779390501224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Civics_Government07_Choice02
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Civics_Government07_Choice02'
+  LocalizationInverted: '%Not_Effect_Civics_Government07_Choice02'
+  LocalizationTarget: '%Effect_Civics_Government07_Choice02'
+  LocalizationTargetInverted: '%Not_Effect_Civics_Government07_Choice02'
+--- !u!114 &6007903080776506461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_MountedNomad
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_MountedNomad'
+  LocalizationTargetInverted: 
+--- !u!114 &6052197240992633521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extractor_ResourceDeposit01
+  m_EditorClassIdentifier: 
+  Localization: '%POI_ResourceDeposit01Title'
+  LocalizationInverted: 
+  LocalizationTarget: '%POI_ResourceDeposit01Title'
+  LocalizationTargetInverted: 
+--- !u!114 &6338257254213004465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_Food_Yield
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_Food'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_Food'
+  LocalizationTargetInverted: 
+--- !u!114 &6373953921445308210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Tag_DiplomaticState_Peace
+  m_EditorClassIdentifier: 
+  Localization: '%Tag_DiplomaticState_Peace'
+  LocalizationInverted: 
+  LocalizationTarget: '%Tag_DiplomaticState_Peace'
+  LocalizationTargetInverted: 
+--- !u!114 &6490437337299860632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Exploitation_RockyField
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Exploitation_RockyField'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Exploitation_RockyField'
+  LocalizationTargetInverted: 
+--- !u!114 &6505978189006738847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_Melee
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_Melee'
+  LocalizationTargetInverted: 
+--- !u!114 &6580191950176742281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_PublicOrder
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_PublicOrder'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_PublicOrder'
+  LocalizationTargetInverted: 
+--- !u!114 &6796121035494985699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitAbility_SpeedFromHarbor
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitAbility_SpeedFromHarbor'
+  LocalizationTargetInverted: 
+--- !u!114 &6841075867713816176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_PublicOrderStatus_Neutral
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_PublicOrderStatus_Neutral'
+  LocalizationTargetInverted: 
+--- !u!114 &7279932062041605100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_UnitPrototype_Cavalry
+  m_EditorClassIdentifier: 
+  Localization: 
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_UnitPrototype_Cavalry'
+  LocalizationTargetInverted: 
+--- !u!114 &7419165490734874584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_Status_Settlement_Victorious
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_Status_Settlement_Victorious'
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_Status_Settlement_Victorious'
+  LocalizationTargetInverted: 
+--- !u!114 &7560089576197564753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_EmpireBonus_EmpireStability_VeryStable
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_EmpireBonus_EmpireStability_VeryStable'
+  LocalizationInverted: '%Not_Effect_EmpireBonus_EmpireStability_VeryStable'
+  LocalizationTarget: '%Effect_EmpireBonus_EmpireStability_VeryStable'
+  LocalizationTargetInverted: '%Not_Effect_EmpireBonus_EmpireStability_VeryStable'
+--- !u!114 &8306628646151858843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_Camp
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_Camp'
+  LocalizationInverted: '%Not_GameEffect_Camp'
+  LocalizationTarget: '%GameEffect_Camp'
+  LocalizationTargetInverted: '%Not_GameEffect_Camp'
+--- !u!114 &8714359482950045129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: GameEffect_Exploitation_River
+  m_EditorClassIdentifier: 
+  Localization: '%GameEffect_Exploitation_River'
+  LocalizationInverted: 
+  LocalizationTarget: '%GameEffect_Exploitation_River'
+  LocalizationTargetInverted: 
+--- !u!114 &8846734666043786034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_ArtificialWonder_Default
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_ArtificialWonder_Default'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_ArtificialWonder_Default'
+  LocalizationTargetInverted: 
+--- !u!114 &8935318211892109460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 771724855, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: Effect_Extension_Base_AdministrativeCenter
+  m_EditorClassIdentifier: 
+  Localization: '%Effect_Extension_Base_AdministrativeCenter'
+  LocalizationInverted: 
+  LocalizationTarget: '%Effect_Extension_Base_AdministrativeCenter'
+  LocalizationTargetInverted: 

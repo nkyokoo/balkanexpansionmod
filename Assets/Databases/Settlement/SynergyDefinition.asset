@@ -1,0 +1,782 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9163627728189678625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_Family01_Synergy01
+--- !u!114 &-9096907504729461281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_SynergyLuxury01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Money_SynergyLuxury01
+--- !u!114 &-8905857306532892054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_SynergyLuxury02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Money_SynergyLuxury02
+--- !u!114 &-8406503902507747371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_Synergy03
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_Family01_Synergy03
+--- !u!114 &-7582472560228488054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family02_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Science_Family02_Synergy01
+--- !u!114 &-7154026611688555506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_SynergyRockyField01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_SynergyRockyField01
+--- !u!114 &-6471798324418697342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_SynergyRiver02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_SynergyRiver02
+--- !u!114 &-6193058251242540895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_Synergy02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_Family01_Synergy02
+--- !u!114 &-5764097012431385036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family02_Synergy02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Science_Family02_Synergy02
+--- !u!114 &-5586603878477672795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyMoney01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyMoney01
+--- !u!114 &-5359417434484139440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_SynergyDryGrass02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_SynergyDryGrass02
+--- !u!114 &-4617234890463340480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_SynergyMoney01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Money_SynergyMoney01
+--- !u!114 &-3879664432196925769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family01_Synergy02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_Family01_Synergy02
+--- !u!114 &-3843131535400805091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family03_Synergy03
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_PublicOrder
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_PublicOrder_Family03_Synergy03
+--- !u!114 &-3460548870958897617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_SynergyPrairie02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_SynergyPrairie02
+--- !u!114 &-3310639522592697251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_SynergyScience02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Science_SynergyScience02
+--- !u!114 &-3309570045332367463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyFood02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyFood02
+--- !u!114 &-2895638529310916139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family03_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_PublicOrder
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_PublicOrder_Family03_Synergy01
+--- !u!114 &-2550196576436207422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_SynergyRiver01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_SynergyRiver01
+--- !u!114 &-2195676584012887468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Affinity_Food_SynergyIncrease
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Affinity_Food_BaseFoodSynergyIncrease
+--- !u!114 &-1794992851290509878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyFood03
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyFood03
+--- !u!114 &-1385839042489214068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_SynergyPrairie01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_SynergyPrairie01
+--- !u!114 &-1284602874716227494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_Synergy04
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_Family01_Synergy04
+--- !u!114 &-736590054042446899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family06_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_PublicOrder_Family06_Synergy01
+--- !u!114 &-661915790639026092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyFood01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyFood01
+--- !u!114 &-380116501574568487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Affinity_Money_SynergyIncrease
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Affinity_Money_BaseMoneySynergyIncrease
+--- !u!114 &-200801844422644102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_SynergyRockyField02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_SynergyRockyField02
+--- !u!114 &-9990232785785576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyMoney02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyMoney02
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -318024364, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SynergyDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &574926600017202127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family02_Synergy02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Money_Family02_Synergy02
+--- !u!114 &773302701352192707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_SynergyRiver02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_SynergyRiver02
+--- !u!114 &1372887672268626377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family02_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Money_Family02_Synergy01
+--- !u!114 &2390320964691681360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family04_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Exploitation
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_Family04_Synergy01
+--- !u!114 &2506918414095590285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyMilitary01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyMilitary01
+--- !u!114 &2686109149086688767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family03_Synergy02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_PublicOrder
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_PublicOrder_Family03_Synergy02
+--- !u!114 &2941594287355788449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_SynergyForest02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_SynergyForest02
+--- !u!114 &4536811676927791574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family02_Synergy03
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Science_Family02_Synergy03
+--- !u!114 &4557040265470365247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_SynergyRiver01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_SynergyRiver01
+--- !u!114 &4880959319563126824
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyUrban02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyUrban02
+--- !u!114 &5698957984358941846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyMoney03
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyMoney03
+--- !u!114 &5871985504125017304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_SynergyScience01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Science_SynergyScience01
+--- !u!114 &5925812709658227408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Order_SynergyUrban01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Order
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Order_SynergyUrban01
+--- !u!114 &6820909692709335484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family06_Synergy02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_PublicOrder
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_PublicOrder_Family06_Synergy02
+--- !u!114 &7084084529321191130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_SynergyMoney02
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Money
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Money_SynergyMoney02
+--- !u!114 &7111997310568653808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_SynergyForest01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Industry_SynergyForest01
+--- !u!114 &7670876833288277886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family01_Synergy01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_Family01_Synergy01
+--- !u!114 &7847739184377654430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Affinity_Industry_SynergyIncrease
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Industry
+  DescriptorReferences:
+  - serializableElementName: Effect_Affinity_Industry_BaseIndustrySynergyIncrease
+--- !u!114 &8219517255512805428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_SynergyDryGrass01
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Food
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Food_SynergyDryGrass01
+--- !u!114 &9005825140961838495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 136068557, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_SynergyScience03
+  m_EditorClassIdentifier: 
+  DistrictReferences:
+  - serializableElementName: Extension_Base_Science
+  DescriptorReferences:
+  - serializableElementName: Effect_Infrastructure_Science_SynergyScience03

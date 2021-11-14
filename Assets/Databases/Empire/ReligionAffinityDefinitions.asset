@@ -1,0 +1,365 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7816825570380599289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName05
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 5
+  Hidden: 0
+  LocalizedName: '%ReligionName05'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name05
+  CanReligionBeRenamed: 1
+--- !u!114 &-7650108357917451935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionNameAnimism
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 9
+  Hidden: 1
+  LocalizedName: '%ReligionNameAnimism'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Animism
+  CanReligionBeRenamed: 0
+--- !u!114 &-7115148127346965355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName07
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 7
+  Hidden: 0
+  LocalizedName: '%ReligionName07'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name07
+  CanReligionBeRenamed: 1
+--- !u!114 &-4714264448203393404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionNameSpiritualBeliefs
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 13
+  Hidden: 1
+  LocalizedName: '%ReligionNameSpiritualBeliefs'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_SpiritualBeliefs
+  CanReligionBeRenamed: 0
+--- !u!114 &-1572824692253671295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName02
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 2
+  Hidden: 0
+  LocalizedName: '%ReligionName02'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name02
+  CanReligionBeRenamed: 1
+--- !u!114 &-1282568456968965949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName04
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 4
+  Hidden: 0
+  LocalizedName: '%ReligionName04'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name04
+  CanReligionBeRenamed: 1
+--- !u!114 &-1256351695795979712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionNameShamanism
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 12
+  Hidden: 1
+  LocalizedName: '%ReligionNameShamanism'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Shamanism
+  CanReligionBeRenamed: 1
+--- !u!114 &-281669979970367526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionNamePolytheism
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 11
+  Hidden: 1
+  LocalizedName: '%ReligionNamePolytheism'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Polytheism
+  CanReligionBeRenamed: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1901391228, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionAffinityDefinitions
+  m_EditorClassIdentifier: 
+--- !u!114 &1676708918084504912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName03
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 3
+  Hidden: 0
+  LocalizedName: '%ReligionName03'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name03
+  CanReligionBeRenamed: 1
+--- !u!114 &1835669532048609900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionNameAtheism
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 10
+  Hidden: 1
+  LocalizedName: '%ReligionNameAtheism'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Atheism
+  CanReligionBeRenamed: 0
+--- !u!114 &5254732576358604930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName08
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 8
+  Hidden: 0
+  LocalizedName: '%ReligionName08'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name08
+  CanReligionBeRenamed: 1
+--- !u!114 &6794632936285320563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName06
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 6
+  Hidden: 0
+  LocalizedName: '%ReligionName06'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name06
+  CanReligionBeRenamed: 1
+--- !u!114 &7595247891268632879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -137368890, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: ReligionName01
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 1
+  Hidden: 0
+  LocalizedName: '%ReligionName01'
+  DescriptorReference:
+    serializableElementName: Tag_Religion_Name01
+  CanReligionBeRenamed: 1

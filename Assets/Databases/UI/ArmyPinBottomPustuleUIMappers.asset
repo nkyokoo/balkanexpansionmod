@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8521658095144682028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyPinBottomPustuleEmbarking
+  m_EditorClassIdentifier: 
+  Title: '%ArmyPinBottomPustuleEmbarkingTitle'
+  Description: '%ArmyPinBottomPustuleEmbarkingDescription'
+  Images:
+  - Value:
+      guid:
+        a: 28006218
+        b: 1189286888
+        c: 1361471905
+        d: -2066245586
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: 
+--- !u!114 &-2689070991609156397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyPinBottomPustuleLockedByBattle
+  m_EditorClassIdentifier: 
+  Title: '%ArmyPinBottomPustuleLockedByBattleTitle'
+  Description: '%ArmyPinBottomPustuleLockedByBattleDescription'
+  Images:
+  - Value:
+      guid:
+        a: -453818518
+        b: 1163846513
+        c: 1734441105
+        d: -954643713
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: 
+--- !u!114 &-996067369067660790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyPinBottomPustuleLockedByArmy
+  m_EditorClassIdentifier: 
+  Title: '%ArmyPinBottomPustuleLockedByArmyTitle'
+  Description: '%ArmyPinBottomPustuleLockedByArmyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 463305988
+        b: 1141795172
+        c: -1717693037
+        d: -1986297121
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyPinBottomPustuleUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &6305742735186259420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyPinBottomPustuleIsPartOfASiege
+  m_EditorClassIdentifier: 
+  Title: '%ArmyPinBottomPustuleIsPartOfASiegeTitle'
+  Description: '%ArmyPinBottomPustuleIsPartOfASiegeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1441716814
+        b: 1143968499
+        c: 1682983318
+        d: 1623299800
+    serializableKey: Picto
+  Color: {r: 0.9607843, g: 0.92156863, b: 0.88235295, a: 1}
+  Symbol: 

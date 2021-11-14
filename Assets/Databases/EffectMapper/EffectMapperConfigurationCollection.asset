@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 477495583, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: EffectMapperConfigurationCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &3920462024288483725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 487221497, guid: b758277dfa0af2343b0f3b4eb4af4924, type: 3}
+  m_Name: EffectMapperConfiguration_Default
+  m_EditorClassIdentifier: 
+  ActionLocalization: '%CostModifierAction'
+  ConstructibleAllConstructiblesLocalization: '%ConstructibleCostModifierAll'
+  ConstructibleConstructibleTypeLocalization: '%CostModifierGeneric'
+  ConstructibleConstructibleCategoryLocalization: '%CostModifierGeneric'
+  ConstructibleConstructibleFamilyLocalization: '%CostModifierGeneric'
+  ConstructibleConstructibleWithDescriptorLocalization: '%CostModifierGeneric'
+  ConstructibleConstructibleNameLocalization: '%CostModifierGeneric'
+  ConstructibleUnitClassLocalization: '%CostModifierGeneric'
+  TradeBuyAllResourcesLocalization: '%CostModifierTradeBuyAllResources'
+  TradeBuyResourceDefinitionTypeLocalization: '%CostModifierTradeBuyGeneric'
+  TradeBuyResourceDefinitionLocalization: '%CostModifierTradeBuyGeneric'
+  TradeSellAllResourcesLocalization: '%TradeCostModifierSellAllResources'
+  TradeSellResourceDefinitionTypeLocalization: '%CostModifierTradeSellGeneric'
+  TradeSellResourceDefinitionLocalization: '%CostModifierTradeSellGeneric'
+  ResearchAllTechnologiesLocalization: '%CostModifierResearchAllTechnologies'
+  ResearchByTechnologyLocalization: '%CostModifierResearchByTechnology'
+  ResearchByEraLocalization: '%CostModifierResearchByEra'
+  CostTypeLocalizations:
+  - CostType: 0
+    Localization: '%CostTypeProduction'
+  - CostType: 1
+    Localization: '%CostTypeMoney'
+  - CostType: 2
+    Localization: '%CostTypePopulation'
+  - CostType: 3
+    Localization: '%CostTypeBuyout'
+  - CostType: 4
+    Localization: '%CostTypeResearch'
+  SimpleEffect: '%SimpleEffect'
+  FormulaEffect: '%FormulaEffect'
+  ConditionalEffect: '%ConditionalEffect'
+  ConditionalFormulaEffect: '%ConditionalFormulaEffect'
+  TargetEffect: '%TargetEffect'
+  TargetFormulaEffect: '%TargetFormulaEffect'
+  TargetConditionalEffect: '%TargetConditionalEffect'
+  TargetMultipleConditionalEffect: '%TargetMultipleConditionalEffect'
+  TargetFormulaConditionalEffect: '%TargetFormulaConditionalEffect'
+  SynergyEffect: '%SynergyEffect'
+  SimpleIntermediateEffect: '%TargetEffect'
+  IntermediateTargetEffect: '%TargetConditionalEffect'
+  TargetPath: '%Target'
+  ConditionPath: '%Condition'
+  ConditionTargetPath: '%ConditionTarget'
+  SynergyPath: '%Synergy'
+  BonusFIMSResource: '%BonusFIMSResource'
+  BonusFIMSResourceIntermediateCondition: '%BonusFIMSResourceCondition'
+  AdditionalEffectKeys:
+  - Flags: 35
+    Key: '%SynergyEffectNoTarget'
+  - Flags: 32
+    Key: '%SynergyNoTarget'
+  - Flags: 535
+    Key: '%SynergyBonusFimsResource'
+  DistrictPlacementFree: 
+  NeighbourDistrictAnyNeighbour: '%DistrictPlacementNeighbourDistrictsAny'
+  NeighbourDistrictAllNeighbour: '%DistrictPlacementNeighbourDistrictsAll'
+  NeighbourDistrictNoneNeighbour: '%DistrictPlacementNeighbourDistrictsNone'
+  OverADistrictAny: '%DistrictPlacementOverADistrictAny'
+  OverADistrictAll: '%DistrictPlacementOverADistrictAll'
+  OverADistrictNone: '%DistrictPlacementOverADistrictNone'
+  OverADistrictAnyOrEmpty: '%DistrictPlacementOverADistrictAnyOrEmpty'
+  OverADistrictAllOrEmpty: '%DistrictPlacementOverADistrictAllOrEmpty'
+  OverADistrictNoneOrEmpty: '%DistrictPlacementOverADistrictNoneOrEmpty'
+  PointOfInterestAuthorized: '%DistrictPlacementPointOfInterestAuthorized'
+  PointOfInterestForbidden: '%DistrictPlacementPointOfInterestForbidden'
+  PointOfInterestNoPOI: '%DistrictPlacementPointOfInterestNoPOI'
+  PointOfInterestAnyResourceDeposit: '%DistrictPlacementPointOfInterestAnyResourceDeposit'
+  PointOfInterestAnyStrategicDeposit: '%DistrictPlacementPointOfInterestAnyStrategicDeposit'
+  PointOfInterestAnyLuxuryDeposit: '%DistrictPlacementPointOfInterestAnyLuxuryDeposit'
+  PointOfInterestNoResourceDeposit: '%DistrictPlacementPointOfInterestNoResourceDeposit'
+  PointOfInterestNoStrategicDeposit: '%DistrictPlacementPointOfInterestNoStrategicDeposit'
+  PointOfInterestNoLuxuryDeposit: '%DistrictPlacementPointOfInterestNoLuxuryDeposit'
+  RiverHasToBePresent: '%DistrictPlacementPointOfInterestOnRiver'
+  RiverHasToBeNotPresent: '%DistrictPlacementPointOfInterestNotOnRiver'
+  NeighbourRiverHasToBePresent: '%DistrictPlacementPointOfInterestNeighbourRiver'
+  NeighbourRiverHasToBeNotPresent: '%DistrictPlacementPointOfInterestNotNeighbourRiver'
+  TerrainAuthorized: '%DistrictPlacementTerrainAuthorized'
+  TerrainForbidden: '%DistrictPlacementTerrainForbidden'
+  NeighbourTerrainAuthorized: '%DistrictPlacementNeighbourTerrainAuthorized'
+  NeighbourTerrainForbidden: '%DistrictPlacementNeighbourTerrainForbidden'
+  OverACliff: '%DistrictPlacementOverACliff'
+  UnderACliff: '%DistrictPlacementUnderACliff'
+  CanBePlacedOnMountain: '%DistrictPlacementCanBeOnMountain'
+  MustBePlacedOnMountain: '%DistrictPlacementMustBeOnMountain'
+  DiplomaticStates: '%DistrictPlacementDiplomaticStates'
+  UnicityOnePerSettlement: '%DistrictPlacementOncePerSettlement'
+  UnicityOnePerEmpire: '%DistrictPlacementOncePerEmpire'
+  UnicityOnePerWorld: '%DistrictPlacementOncePerWorld'
+  UnicityOnePerTerritory: '%DistrictPlacementOncePerTerritory'
+  CannotBeRemovedFromTile: '%DistrictPlacementCannotBeRemoved'
+  UnitSpawnPoint: '%DistrictUnitSpawnPoint'
+  ZoneOfControl: '%DistrictZoneOfControl'
+  ProtectsFromRansack: '%DistrictProtectsFromRansack'
+  FriendlyUnitOnTopStatus: '%DistrictFriendlyUnitOnTopStatus'
+  ExtractResourceAnyResource: '%DistrictExtractResourceAnyResource'
+  ExtractResourceAnyStrategic: '%DistrictExtractResourceAnyStrategic'
+  ExtractResourceAnyLuxury: '%DistrictExtractResourceAnyLuxury'
+  ExtractResourceAuthorized: '%DistrictExtractResourceAuthorized'
+  AllowShipping: '%DistrictAllowShipping'
+  ProvideAirTrade: '%DistrictProvideAirTrade'
+  ProvidesRails: '%DistrictProvidesRails'
+  ForceRiverOnTerrain: '%DistrictForceRiverOnTerrain'
+  IsFortified: '%DistrictIsFortified'
+  ArtificialResourceDeposit: '%DistrictArtificialResourceDeposit'
+  IsSacrificial: '%DistrictIsSacrificial'
+  IsWonderHolySite: '%DistrictIsWonderHolySite'
+  CountAsRegularQuarter: '%DistrictCountAsQuarter'
+  AllEnumerations:
+  - '%Enumeration1'
+  - '%EnumerationAll2'
+  AnyEnumerations:
+  - '%Enumeration1'
+  - '%EnumerationAny2'
+  - '%EnumerationAny3'
+  - '%EnumerationAny4'
+  - '%EnumerationAny5'
+  - '%EnumerationAny6'
+  - '%EnumerationAny7'
+  - '%EnumerationAny8'
+  - '%EnumerationAny9'
+  - '%EnumerationAny10'
+  - '%EnumerationAny11'
+  - '%EnumerationAny12'
+  - '%EnumerationAny13'
+  - '%EnumerationAny14'
+  - '%EnumerationAny15'
+  - '%EnumerationAny16'
+  - '%EnumerationAny17'
+  - '%EnumerationAny18'
+  - '%EnumerationAny19'
+  - '%EnumerationAny20'
+  - '%EnumerationAny21'
+  - '%EnumerationAny22'
+  - '%EnumerationAny23'
+  - '%EnumerationAny24'
+  - '%EnumerationAny25'
+  - '%EnumerationAny26'
+  - '%EnumerationAny27'
+  - '%EnumerationAny28'
+  NoneEnumerations:
+  - '%Enumeration1'
+  - '%EnumerationNone2'

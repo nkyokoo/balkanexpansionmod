@@ -1,0 +1,425 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6168666129294132221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_11
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_11Title'
+  Description: '%TutorialVideo_11Description'
+  Images:
+  - Value:
+      guid:
+        a: 1565086350
+        b: 1332260639
+        c: -759656308
+        d: 486882032
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 11
+  VideoPath: Tutorials_11_Siege.webm
+  Tags:
+  - '%TutorialVideo_Tag_WarTitle'
+  - '%TutorialVideo_Tag_SiegeTitle'
+  Hidden: 0
+--- !u!114 &-4611175124589511029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_06
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_06Title'
+  Description: '%TutorialVideo_06Description'
+  Images:
+  - Value:
+      guid:
+        a: 676765772
+        b: 1320689654
+        c: 1593389240
+        d: 1833162464
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 6
+  VideoPath: Tutorials_06_Cultures.webm
+  Tags:
+  - '%TutorialVideo_Tag_CultureTitle'
+  Hidden: 0
+--- !u!114 &-4510491074343505143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_09
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_09Title'
+  Description: '%TutorialVideo_09Description'
+  Images:
+  - Value:
+      guid:
+        a: -1966689012
+        b: 1248791247
+        c: 2019282576
+        d: -377757658
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 9
+  VideoPath: Tutorials_09_Battle1.webm
+  Tags:
+  - '%TutorialVideo_Tag_WarTitle'
+  - '%TutorialVideo_Tag_BattleTitle'
+  Hidden: 0
+--- !u!114 &-3366492133683214513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_02
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_02Title'
+  Description: '%TutorialVideo_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1323979633
+        b: 1271460970
+        c: 94035075
+        d: -568545524
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 2
+  VideoPath: Tutorials_02_Cities1.webm
+  Tags:
+  - '%TutorialVideo_Tag_EconomyTitle'
+  - '%TutorialVideo_Tag_CityManagementTitle'
+  Hidden: 0
+--- !u!114 &-2705140686045855540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_14
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_14Title'
+  Description: '%TutorialVideo_14Description'
+  Images:
+  - Value:
+      guid:
+        a: 611214174
+        b: 1134273002
+        c: -638256226
+        d: 472842271
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 14
+  VideoPath: Tutorials_14_Religion.webm
+  Tags:
+  - '%TutorialVideo_Tag_ReligionTitle'
+  Hidden: 0
+--- !u!114 &-2540072461090883803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_10
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_10Title'
+  Description: '%TutorialVideo_10Description'
+  Images:
+  - Value:
+      guid:
+        a: -1377667893
+        b: 1197001624
+        c: -2099234893
+        d: -1180456065
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 10
+  VideoPath: Tutorials_10_Battle2.webm
+  Tags:
+  - '%TutorialVideo_Tag_WarTitle'
+  - '%TutorialVideo_Tag_BattleTitle'
+  Hidden: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: TutorialVideoUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &2467728377211248756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_05
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_05Title'
+  Description: '%TutorialVideo_05Description'
+  Images:
+  - Value:
+      guid:
+        a: -1570656468
+        b: 1249244279
+        c: -461357633
+        d: 1591397523
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5
+  VideoPath: Tutorials_05_Fame.webm
+  Tags:
+  - '%TutorialVideo_Tag_FameTitle'
+  Hidden: 0
+--- !u!114 &5776297839406021066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_13
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_13Title'
+  Description: '%TutorialVideo_13Description'
+  Images:
+  - Value:
+      guid:
+        a: 1519353523
+        b: 1232768300
+        c: 1321690013
+        d: -438452340
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 13
+  VideoPath: Tutorials_13_Civics.webm
+  Tags:
+  - '%TutorialVideo_Tag_CivicsTitle'
+  Hidden: 1
+--- !u!114 &5898597367843168436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_08
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_08Title'
+  Description: '%TutorialVideo_08Description'
+  Images:
+  - Value:
+      guid:
+        a: 179868677
+        b: 1305101329
+        c: -1781608790
+        d: -417592995
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 8
+  VideoPath: Tutorials_08_Diplomacy2.webm
+  Tags:
+  - '%TutorialVideo_Tag_DiplomacyTitle'
+  Hidden: 0
+--- !u!114 &6124442925011314934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_03
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_03Title'
+  Description: '%TutorialVideo_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -998963941
+        b: 1293688782
+        c: 470809008
+        d: -717751358
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3
+  VideoPath: Tutorials_03_Cities2.webm
+  Tags:
+  - '%TutorialVideo_Tag_EconomyTitle'
+  - '%TutorialVideo_Tag_CityManagementTitle'
+  Hidden: 0
+--- !u!114 &6165979302239728507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_01
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_01Title'
+  Description: '%TutorialVideo_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 636893235
+        b: 1289007113
+        c: 1755728047
+        d: -455019081
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 1
+  VideoPath: Tutorials_01_TheBasics.webm
+  Tags:
+  - '%TutorialVideo_Tag_BeginnerTitle'
+  Hidden: 0
+--- !u!114 &6874452203589298637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_12
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_12Title'
+  Description: '%TutorialVideo_12Description'
+  Images:
+  - Value:
+      guid:
+        a: 1378768893
+        b: 1175630730
+        c: 1514059671
+        d: 1692812187
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 12
+  VideoPath: Tutorials_12_NarrativeEvents.webm
+  Tags:
+  - '%TutorialVideo_Tag_EventsTitle'
+  Hidden: 0
+--- !u!114 &7172602268240768110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_04
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_04Title'
+  Description: '%TutorialVideo_04Description'
+  Images:
+  - Value:
+      guid:
+        a: 256723056
+        b: 1239795286
+        c: -1969978218
+        d: -752091855
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4
+  VideoPath: Tutorials_04_Research.webm
+  Tags:
+  - '%TutorialVideo_Tag_ResearchTitle'
+  Hidden: 0
+--- !u!114 &7309038303764694003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1346565090, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TutorialVideo_07
+  m_EditorClassIdentifier: 
+  Title: '%TutorialVideo_07Title'
+  Description: '%TutorialVideo_07Description'
+  Images:
+  - Value:
+      guid:
+        a: 145980802
+        b: 1338384987
+        c: 1116874656
+        d: 1085464673
+    serializableKey: TutorialVideoThumbnail
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 7
+  VideoPath: Tutorials_07_Diplomacy1.webm
+  Tags:
+  - '%TutorialVideo_Tag_DiplomacyTitle'
+  Hidden: 0

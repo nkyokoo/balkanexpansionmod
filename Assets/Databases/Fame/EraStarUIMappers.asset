@@ -1,0 +1,534 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8252373812436953351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Cultural
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_CulturalTitle'
+  Description: '%Fame_EraStar_CulturalDescription'
+  Images:
+  - Value:
+      guid:
+        a: -597893464
+        b: 1171594427
+        c: -949098362
+        d: 1325265572
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -312554220
+        b: 1124515565
+        c: 1099121813
+        d: -2047845801
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: -1706742183
+        b: 1188802161
+        c: -316829763
+        d: -931856700
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: 1345411792
+        b: 1291515059
+        c: 976259759
+        d: -43805693
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 1839582936
+        b: 1237114574
+        c: 1944137132
+        d: -1499792063
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[culturecolored]'
+--- !u!114 &-7270964893569030773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Builder
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_BuilderTitle'
+  Description: '%Fame_EraStar_BuilderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2033895994
+        b: 1320372366
+        c: -403112518
+        d: -1053394458
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -911628321
+        b: 1187522527
+        c: 336141209
+        d: -294974520
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: -2073378071
+        b: 1212800549
+        c: 552341388
+        d: -386754221
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: -1162021489
+        b: 1258478164
+        c: -516984445
+        d: 11117262
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: -1051096883
+        b: 1256935353
+        c: 37980818
+        d: -1508154099
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[EraStarBuilderScore]'
+--- !u!114 &-6265424101479836492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Prehistoric_Military
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_Prehistoric_MilitaryTitle'
+  Description: '%Fame_EraStar_Prehistoric_MilitaryDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1169242442
+        b: 1209062463
+        c: -1645776512
+        d: 264030084
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1845728250
+        b: 1116061605
+        c: -1480743009
+        d: 2100946219
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: -177268331
+        b: 1316554370
+        c: -1206051961
+        d: 1740384773
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: 881875382
+        b: 1290000582
+        c: -1052284785
+        d: 310534072
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 2007864318
+        b: 1287161525
+        c: 1254807433
+        d: -89679816
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[UnitClass_Animal]'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: EraStarUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &182094708658037757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Expansionist
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_ExpansionistTitle'
+  Description: '%Fame_EraStar_ExpansionistDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1879200810
+        b: 1186699224
+        c: -374070365
+        d: -418271236
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 617524335
+        b: 1102562157
+        c: 837626496
+        d: -1611932758
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: 1513299289
+        b: 1075888846
+        c: -119017296
+        d: 1515823790
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: 285738156
+        b: 1245484010
+        c: -1453303405
+        d: 1389643922
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 243769031
+        b: 1327423380
+        c: -923786570
+        d: 32012256
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[EraStarExpansionistScore]'
+--- !u!114 &1044645302722415043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Merchant
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_MerchantTitle'
+  Description: '%Fame_EraStar_MerchantDescription'
+  Images:
+  - Value:
+      guid:
+        a: -254004662
+        b: 1310503729
+        c: -1088797008
+        d: -619748981
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: 1696372501
+        b: 1297114725
+        c: 2083634312
+        d: 862423956
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: -1660396952
+        b: 1160459998
+        c: -1518812263
+        d: 343311959
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: -227949413
+        b: 1210205817
+        c: -470417754
+        d: 2063309014
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 1527581677
+        b: 1093473011
+        c: 1679663256
+        d: -1657219670
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[moneycolored]'
+--- !u!114 &2640000710760155583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Scientist
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_ScientistTitle'
+  Description: '%Fame_EraStar_ScientistDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1420430724
+        b: 1169018718
+        c: 1054681510
+        d: 1578348708
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -513352655
+        b: 1261422310
+        c: 785852072
+        d: -2050996421
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: 52803089
+        b: 1319841565
+        c: 2145082533
+        d: -1915569997
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: -980450754
+        b: 1198186607
+        c: 1982674828
+        d: 1330154229
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 1539476479
+        b: 1299865437
+        c: -1459039341
+        d: 1742006249
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[EraStarScientistScore]'
+--- !u!114 &4221620914114042689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Prehistoric_Knowledge
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_Prehistoric_KnowledgeTitle'
+  Description: '%Fame_EraStar_Prehistoric_KnowledgeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1638374237
+        b: 1125184621
+        c: -1055432832
+        d: -1258380066
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1473196401
+        b: 1319208138
+        c: -508004675
+        d: -882113629
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: 271832862
+        b: 1195760945
+        c: -1163398523
+        d: -63775129
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: 76125130
+        b: 1137136307
+        c: 1093620105
+        d: 567896966
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 1046239920
+        b: 1215803590
+        c: -1782843262
+        d: 129197459
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[scienceColored]'
+--- !u!114 &8003966255746369435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Prehistoric_Growth
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_Prehistoric_GrowthTitle'
+  Description: '%Fame_EraStar_Prehistoric_GrowthDescription'
+  Images:
+  - Value:
+      guid:
+        a: 532928873
+        b: 1235579082
+        c: -528217931
+        d: 960236893
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1126669961
+        b: 1193517178
+        c: 225009802
+        d: 811054064
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: 798680158
+        b: 1333441683
+        c: 850019258
+        d: 384771041
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: 999885139
+        b: 1301207096
+        c: -1040868677
+        d: -876764350
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 2003016315
+        b: 1307953100
+        c: -698540911
+        d: 882690390
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[MilitaryUnit]'
+--- !u!114 &8072881185905067244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Warmonger
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_WarmongerTitle'
+  Description: '%Fame_EraStar_WarmongerDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1326606471
+        b: 1097059092
+        c: -382192474
+        d: -1926772590
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -1038391488
+        b: 1127714446
+        c: 2062546105
+        d: 1360183762
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: -1239697418
+        b: 1172644349
+        c: -1198515267
+        d: 1804715837
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: -221583489
+        b: 1113136897
+        c: -145685356
+        d: 411920399
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: 199180124
+        b: 1248501213
+        c: 1822425993
+        d: -1441570247
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[EraStarWarmongerScore]'
+--- !u!114 &8789580274844557631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: Fame_EraStar_Farmer
+  m_EditorClassIdentifier: 
+  Title: '%Fame_EraStar_FarmerTitle'
+  Description: '%Fame_EraStar_FarmerDescription'
+  Images:
+  - Value:
+      guid:
+        a: 423993647
+        b: 1086394007
+        c: -1495252350
+        d: -1949046371
+    serializableKey: Picto
+  - Value:
+      guid:
+        a: -2083464522
+        b: 1336320876
+        c: 8564369
+        d: -956967727
+    serializableKey: Level0
+  - Value:
+      guid:
+        a: -1966813816
+        b: 1106475333
+        c: 2142256057
+        d: -1279634682
+    serializableKey: Level1
+  - Value:
+      guid:
+        a: 1754162371
+        b: 1271346942
+        c: 655938453
+        d: 1818308996
+    serializableKey: Level2
+  - Value:
+      guid:
+        a: -1612536153
+        b: 1236829113
+        c: -109141090
+        d: -38986597
+    serializableKey: Level3
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: '[EraStarFarmerScore]'

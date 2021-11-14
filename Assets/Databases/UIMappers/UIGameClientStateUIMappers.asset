@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5780872463660872026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStateDownloading
+  m_EditorClassIdentifier: 
+  Title: '%UIGameClientStateDownloadingTitle'
+  Description: '%UIGameClientStateDownloadingDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1819225814
+        b: 1245227643
+        c: 61035942
+        d: -815861840
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-5066962050143007262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStatePlay
+  m_EditorClassIdentifier: 
+  Title: '%UIGameClientStatePlayTitle'
+  Description: '%UIGameClientStatePlayDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1504199336
+        b: 1175764223
+        c: -1991453029
+        d: 1658704387
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4097338571654563474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStateReady
+  m_EditorClassIdentifier: 
+  Title: '%UIGameClientStateReadyTitle'
+  Description: '%UIGameClientStateReadyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 82177986
+        b: 1202406166
+        c: -1801613637
+        d: 626482863
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-77870606432645276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStateDisconnected
+  m_EditorClassIdentifier: 
+  Title: '%UIGameClientStateDisconnectedTitle'
+  Description: '%UIGameClientStateDisconnectedDescription'
+  Images:
+  - Value:
+      guid:
+        a: -559234832
+        b: 1209982030
+        c: 1872979854
+        d: 1616547927
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStateUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &7728807074193330573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStateLaunching
+  m_EditorClassIdentifier: 
+  Title: '%UIGameClientStateLaunchingTitle'
+  Description: '%UIGameClientStateLaunchingDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1807286546
+        b: 1101483983
+        c: 1832570301
+        d: 275458753
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7802614798704935650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: UIGameClientStateAuthentication
+  m_EditorClassIdentifier: 
+  Title: '%UIGameClientStateAuthenticationTitle'
+  Description: '%UIGameClientStateAuthenticationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1435432886
+        b: 1094407372
+        c: 1236657819
+        d: -1562280509
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

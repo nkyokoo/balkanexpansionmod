@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4915750482028713792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -763106559, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Landmark_Lake
+  m_EditorClassIdentifier: 
+  LandmarkType: 0
+  TerrainTypeReference:
+    serializableElementName: TerrainType_Lake
+  MinSize: 10
+  DescritorReferences:
+  - serializableElementName: Effect_Landmark
+--- !u!114 &-1346398598802537802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -763106559, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Landmark_Forest
+  m_EditorClassIdentifier: 
+  LandmarkType: 0
+  TerrainTypeReference:
+    serializableElementName: TerrainType_Forest
+  MinSize: 10
+  DescritorReferences:
+  - serializableElementName: Effect_Landmark
+--- !u!114 &-1335972976518233833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -763106559, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Landmark_Mountain
+  m_EditorClassIdentifier: 
+  LandmarkType: 2
+  TerrainTypeReference:
+    serializableElementName: 
+  MinSize: 8
+  DescritorReferences:
+  - serializableElementName: Effect_Landmark
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1006826003, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: LandmarkDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &2300784632801016807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -763106559, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Landmark_River
+  m_EditorClassIdentifier: 
+  LandmarkType: 1
+  TerrainTypeReference:
+    serializableElementName: 
+  MinSize: 8
+  DescritorReferences:
+  - serializableElementName: Effect_Landmark
+--- !u!114 &7168618793573080022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -763106559, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Landmark_Desert
+  m_EditorClassIdentifier: 
+  LandmarkType: 0
+  TerrainTypeReference:
+    serializableElementName: TerrainType_Sterile
+  MinSize: 10
+  DescritorReferences:
+  - serializableElementName: Effect_Landmark

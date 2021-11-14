@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5847275722242641347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Blond02
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 1, g: 0.7843138, b: 0.33333334, a: 1}
+  SecondColor: {r: 0.8584906, g: 0.6737627, b: 0.28751338, a: 0}
+--- !u!114 &-4334515308811387396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Grey02
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 0.7843138, g: 0.7843138, b: 0.7843138, a: 1}
+  SecondColor: {r: 0.6792453, g: 0.6792453, b: 0.6792453, a: 1}
+--- !u!114 &-2097700531894466967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Black
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 0, g: 0, b: 0, a: 1}
+  SecondColor: {r: 0, g: 0, b: 0, a: 1}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1994144312, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CivilizationPawnHairColor
+  m_EditorClassIdentifier: 
+--- !u!114 &231909570447283672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Brown02
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 0.33962262, g: 0.15819685, b: 0.09772159, a: 1}
+  SecondColor: {r: 0.5660378, g: 0.34769613, b: 0.17888929, a: 0}
+--- !u!114 &3318709571706543003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Red
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 1, g: 0.3921569, b: 0.16470589, a: 1}
+  SecondColor: {r: 0.76470596, g: 0.31764707, b: 0.18431373, a: 1}
+--- !u!114 &5315324181672565595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Grey01
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 0.8980393, g: 0.8980393, b: 0.8980393, a: 1}
+  SecondColor: {r: 0.7830189, g: 0.7793254, b: 0.7793254, a: 1}
+--- !u!114 &6709045764703716118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Brown01
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 0.5471698, g: 0.24500966, b: 0.16260235, a: 1}
+  SecondColor: {r: 0.5943396, g: 0.3437412, b: 0.27754536, a: 0}
+--- !u!114 &6958408753317659719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Grey03
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 0.41960788, g: 0.41960788, b: 0.41960788, a: 1}
+  SecondColor: {r: 0.3207547, g: 0.3207547, b: 0.3207547, a: 1}
+--- !u!114 &9017666182303524214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2145023789, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AvatarColor_Haircut_Blond01
+  m_EditorClassIdentifier: 
+  FirstColor: {r: 1, g: 0.7490196, b: 0.22352943, a: 1}
+  SecondColor: {r: 0.8207547, g: 0.6192811, b: 0.19744569, a: 0}

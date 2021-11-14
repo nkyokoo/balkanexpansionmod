@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-860236372228886282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/HexagonSculpting'
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Mercury.Data.Presentation.HexagonSculptingDefinitionReference
+  RequestType: 0
+  Dimension: 2
+  FirstCriteria: 2
+  SecondCriteria: 13
+  LevelBuildSelector:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -535344577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AssetReferenceRepositoryDatabaseDefinitionCollection03
+  m_EditorClassIdentifier: 
+--- !u!114 &1676614661121032170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/PointOfInterest/HexagonSculpting'
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Mercury.Data.Presentation.HexagonSculptingDefinitionReference
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 13
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10
+--- !u!114 &6514805648429675811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/PointOfInterest/HexagonSculpting'
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Mercury.Data.Presentation.HexagonSculptingDefinitionReference
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 5
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10
+--- !u!114 &7714385681350503900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/PointOfInterest/LevelBuild'
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 13
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: -1177889824
+    b: 1340380916
+    c: -1189448272
+    d: 1867246339
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10
+--- !u!114 &8429091242578896869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/ArtificialWonder/HexagonSculpting'
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Mercury.Data.Presentation.HexagonSculptingDefinitionReference
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 15
+  SecondCriteria: 15
+  LevelBuildSelector:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10

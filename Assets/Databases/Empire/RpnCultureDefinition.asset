@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8024204312458916645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -433072232, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: CulturalOsmosis_Threshold
+  m_EditorClassIdentifier: 
+  RpnOperationStack: 0a000000080000000a00000005000000020000000a0000000800000002000000000000000a00000000000000
+  ConstantStack:
+  - RawValue: 2000
+  - RawValue: 1500
+  - RawValue: 2000
+  - RawValue: 7000
+  Note: 
+  PropertyLocalNameStack:
+  - NumberOfCulturalOsmosisEvents
+  - NumberOfCulturalOsmosisEvents
+  VariableNameStack: []
+  DefinedVariables: []
+  targetTypeName: Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass
+  sourceTypeName: 
+--- !u!114 &-6209718389834428183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -433072232, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: CulturalOsmosis_DiscardBoost
+  m_EditorClassIdentifier: 
+  RpnOperationStack: 0a0000000a0000000900000009000000010000000000000002000000
+  ConstantStack:
+  - RawValue: 3000
+  - RawValue: 5000
+  Note: Science boost given if the player doesn't buy the tech
+  PropertyLocalNameStack:
+  - ScienceNet
+  - ScienceModeBonus
+  VariableNameStack: []
+  DefinedVariables: []
+  targetTypeName: Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass
+  sourceTypeName: Amplitude.Mercury.Simulation.Settlement, Amplitude.Mercury.Firstpass
+--- !u!114 &-1654305080771085305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -433072232, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: CulturalOsmosis_PerTurn
+  m_EditorClassIdentifier: 
+  RpnOperationStack: 0a000000080000000800000001000000020000000800000002000000
+  ConstantStack:
+  - RawValue: 500
+  Note: 
+  PropertyLocalNameStack:
+  - ScienceNet
+  - ScienceModeBonus
+  - ForeignCulturalInfluenceRatio
+  VariableNameStack: []
+  DefinedVariables: []
+  targetTypeName: Amplitude.Mercury.Simulation.Settlement, Amplitude.Mercury.Firstpass
+  sourceTypeName: Amplitude.Mercury.Simulation.MajorEmpire, Amplitude.Mercury.Firstpass
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 633835022, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: RpnCultureDefinition
+  m_EditorClassIdentifier: 

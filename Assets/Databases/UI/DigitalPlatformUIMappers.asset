@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9027269973328544377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DigitalPlatformStadia
+  m_EditorClassIdentifier: 
+  Title: '%DigitalPlatformStadiaTitle'
+  Description: '%DigitalPlatformStadiaDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1730951354
+        b: 1224639018
+        c: -1828376937
+        d: 1397974505
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2986748985575142105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DigitalPlatformEGS
+  m_EditorClassIdentifier: 
+  Title: '%DigitalPlatformEGSTitle'
+  Description: '%DigitalPlatformEGSDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1932882341
+        b: 1111822476
+        c: 998373258
+        d: 1157082580
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DigitalPlatformUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &4519374917205306957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DigitalPlatformSteam
+  m_EditorClassIdentifier: 
+  Title: '%DigitalPlatformSteamTitle'
+  Description: '%DigitalPlatformSteamDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1740208215
+        b: 1325644010
+        c: 245616291
+        d: 421274486
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &9044806230606740681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DigitalPlatformXGP
+  m_EditorClassIdentifier: 
+  Title: '%DigitalPlatformXGPTitle'
+  Description: '%DigitalPlatformXGPDescription'
+  Images:
+  - Value:
+      guid:
+        a: -871862368
+        b: 1151057861
+        c: 2009115279
+        d: 1994727225
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

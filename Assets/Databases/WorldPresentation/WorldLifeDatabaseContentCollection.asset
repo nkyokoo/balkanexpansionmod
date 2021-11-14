@@ -1,0 +1,914 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5610343382712511451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WorldLife_Religion2ReligiousPeople
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: WorldLife_Religion2ReligiousPeople
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Extension_HolySite
+    Value:
+      a: 1347382275
+      b: 1130174467
+      c: -25017983
+      d: 677505094
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Buddhism
+    Value:
+      a: -6861029
+      b: 1323544138
+      c: -704914247
+      d: -1935974844
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Christianism
+    Value:
+      a: -921636640
+      b: 1194001977
+      c: 1866036873
+      d: 1010252059
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Hinduism
+    Value:
+      a: 2559082
+      b: 1166564785
+      c: -1706622301
+      d: 1358025345
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Islam
+    Value:
+      a: -1227532277
+      b: 1132462512
+      c: -1073241686
+      d: -1303854119
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Judaism
+    Value:
+      a: 1067698448
+      b: 1294370940
+      c: 1912215987
+      d: -43773535
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Polytheism
+    Value:
+      a: 1347382275
+      b: 1130174467
+      c: -25017983
+      d: 677505094
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Shamanism
+    Value:
+      a: -703087944
+      b: 1314242060
+      c: -174685810
+      d: 320612929
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Shintoism
+    Value:
+      a: -1040936297
+      b: 1214558841
+      c: 796812195
+      d: -1380839911
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Taoism
+    Value:
+      a: 656365182
+      b: 1295471037
+      c: 1689841547
+      d: 1822396659
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Extension_HolySite_Zoroastrism
+    Value:
+      a: 625726619
+      b: 1275810689
+      c: 1015489441
+      d: 525528298
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-5163459782805465262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WorldLife_Era2Military
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: WorldLife_Era2Military
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Era0
+    Value:
+      a: 700837318
+      b: 1313274538
+      c: 42698882
+      d: -447302045
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era1
+    Value:
+      a: -1960158371
+      b: 1087244824
+      c: 1262343614
+      d: 1625345385
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era2
+    Value:
+      a: -1960158371
+      b: 1087244824
+      c: 1262343614
+      d: 1625345385
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era3
+    Value:
+      a: -1960158371
+      b: 1087244824
+      c: 1262343614
+      d: 1625345385
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era4
+    Value:
+      a: -1009861143
+      b: 1312570909
+      c: -15340622
+      d: -343908427
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era5
+    Value:
+      a: 1355995326
+      b: 1255069989
+      c: -652676443
+      d: -1037514597
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era6
+    Value:
+      a: 1355995326
+      b: 1255069989
+      c: -652676443
+      d: -1037514597
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-4392749154184371802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WorldLife_ConstructibleVisualAffinity2PeopleCategory
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: WorldLife_ConstructibleVisualAffinity2PeopleCategory
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: ActionVisualAffinity_CampRelocationCenter
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_CleanRuin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_SettlementEvolution
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_ArtificialWonder
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airfield
+    Value:
+      a: -726793087
+      b: 1198003963
+      c: 568253838
+      d: 214671946
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airport
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_CityCenter
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Food
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Harbour
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Industry
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_LuxuryExtractor
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Military
+    Value:
+      a: -726793087
+      b: 1198003963
+      c: 568253838
+      d: 214671946
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Money
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_NaturalReserve
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Science
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_StrategicExtractor
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_TrainStation
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_VillageCenter
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Camp_CampCenter
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Construction
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Emblematic
+    Value:
+      a: -2134844511
+      b: 1166339733
+      c: 1819909518
+      d: -78859338
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Exploitation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_HolySite
+    Value:
+      a: 989219174
+      b: 1189938178
+      c: 1965608078
+      d: 1173594908
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_MissileSilo
+    Value:
+      a: -726793087
+      b: 1198003963
+      c: 568253838
+      d: 214671946
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_PublicOrder
+    Value:
+      a: 989219174
+      b: 1189938178
+      c: 1965608078
+      d: 1173594908
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Ruin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_WondrousExtractor
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_NuclearTest
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SatelliteLaunch
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SpaceLaunch
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-4108984733246006013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WorldLife_Era2People
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: WorldLife_Era2People
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: Era0
+    Value:
+      a: 1449011266
+      b: 1204051021
+      c: -421562974
+      d: -981496173
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era1
+    Value:
+      a: 472018835
+      b: 1323769235
+      c: -606305643
+      d: -673752212
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era2
+    Value:
+      a: 472018835
+      b: 1323769235
+      c: -606305643
+      d: -673752212
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era3
+    Value:
+      a: 472018835
+      b: 1323769235
+      c: -606305643
+      d: -673752212
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era4
+    Value:
+      a: 1751611073
+      b: 1302926251
+      c: -507866689
+      d: -1639506398
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era5
+    Value:
+      a: 1751611073
+      b: 1302926251
+      c: -507866689
+      d: -1639506398
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: Era6
+    Value:
+      a: 1751611073
+      b: 1302926251
+      c: -507866689
+      d: -1639506398
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &-1239772574960333637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1922296249, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WorldLife_District2VehicleCategory
+  m_EditorClassIdentifier: 
+  database:
+    serializableElementName: WorldLife_District2VehicleCategory
+  contentType: 3
+  commonCriteriaName: 
+  value:
+    Name: 
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  values:
+  - Name: ActionVisualAffinity_CampRelocationCenter
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_CleanRuin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: ActionVisualAffinity_SettlementEvolution
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_ArtificialWonder
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airfield
+    Value:
+      a: -617959078
+      b: 1285044239
+      c: 683529135
+      d: -1882010562
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Airport
+    Value:
+      a: -617959078
+      b: 1285044239
+      c: 683529135
+      d: -1882010562
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_CityCenter
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Food
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Harbour
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Industry
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_LuxuryExtractor
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Military
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Money
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_NaturalReserve
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_Science
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_StrategicExtractor
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_TrainStation
+    Value:
+      a: -1539629099
+      b: 1187452315
+      c: 77880721
+      d: -699486100
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Base_VillageCenter
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Camp_CampCenter
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Construction
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Emblematic
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Exploitation
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_HolySite
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_MissileSilo
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_PublicOrder
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_Ruin
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: DistrictVisualAffinity_WondrousExtractor
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_NuclearTest
+    Value:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SatelliteLaunch
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+  - Name: NationalProject_SpaceLaunch
+    Value:
+      a: 32539024
+      b: 1315241359
+      c: -171742555
+      d: -1808939309
+    NameColor: {r: 0, g: 0, b: 0, a: 0}
+    Comment: 
+    NameLocked: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299993223, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: WorldLifeDatabaseContentCollection
+  m_EditorClassIdentifier: 

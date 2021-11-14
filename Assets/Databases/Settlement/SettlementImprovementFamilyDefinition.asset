@@ -1,0 +1,630 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9136138861135631416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Science_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-8773556854399628550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-8051939271872672479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-5817318204061419673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Food_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-5008618396189778394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Science_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-4855049499860444002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family08
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-4724942785294067930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family04
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-4397924003104424502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_Family05
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-4308578095266866828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_Family03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-4143371412974142622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family05
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-3797003142937268232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-3444406373637981105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family00
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-3260070111049392198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family06
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-2630151052686416730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family04
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-2431391039341920540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Harbour_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-2085384359107557474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-2042982110005976969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_Family04
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-1344992010456446831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &-1258857234574919425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Harbour_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 250386103, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementImprovementFamilyDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &462464889648974454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Food_Family00
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &535607593998272505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &1441966768746089837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &2523710427271097522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Influence_Family00
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &2641674342381574328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Food_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &2651035160979442853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Science_Family04
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &2697129242270421318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &2819467770827077155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family06
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &3125861660800770847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family06
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &3585086196289407758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family05B
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &4421029456363219949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_Family02
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &4430705016149961532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Science_Family03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &5077571764690676188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family07
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &5372285101103483012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family01
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &5503986002854481340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family06B
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &6086501851004383619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family04
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &6543734647970939791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Food_Family03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &6834068598397271513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family03
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &7483652796020445380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_PublicOrder_Family05C
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &7613297995028973191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_Family06
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &8136949899168766559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family00
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &8386138719926531920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Money_Family05
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &8397766026610606888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Food_Family04
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &8518354663916635258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Industry_Family05
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 
+--- !u!114 &8720373863199556944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1516956188, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: InfrastructureFamily_Military_DefaultFortification
+  m_EditorClassIdentifier: 
+  IsObsolete: 0
+  SerializableNextFamilyName: 

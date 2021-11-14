@@ -1,0 +1,1650 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9155336695581839989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource15
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury15Title'
+  Description: '%ConstructibleExtension_WondrousLuxury15Description'
+  Images:
+  - Value:
+      guid:
+        a: 934085030
+        b: 1253696910
+        c: 1052025744
+        d: 47136147
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-8932675919979593200
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Harbour
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_HarbourTitle'
+  Description: '%ConstructibleExtension_HarbourDescription'
+  Images:
+  - Value:
+      guid:
+        a: -297863982
+        b: 1199412832
+        c: 929849262
+        d: 268091089
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4007
+  ConstructibleTraits: 
+--- !u!114 &-8917254437770416716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource26
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury26Title'
+  Description: '%ConstructibleExtension_WondrousLuxury26Description'
+  Images:
+  - Value:
+      guid:
+        a: -1299049134
+        b: 1170792560
+        c: -1104857166
+        d: -1004120685
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-8640266060070846232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_NaturalReserve
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Base_NaturalReserveTitle'
+  Description: '%ConstructibleExtension_Base_NaturalReserveDescription'
+  Images:
+  - Value:
+      guid:
+        a: 509215876
+        b: 1331986380
+        c: 473550514
+        d: 1983643838
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4019
+  ConstructibleTraits: 
+--- !u!114 &-8355582777646928940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource25
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury25Title'
+  Description: '%ConstructibleExtension_WondrousLuxury25Description'
+  Images:
+  - Value:
+      guid:
+        a: 1877797866
+        b: 1191486118
+        c: -878549104
+        d: -1466752573
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-8225124803739769704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_AdministrativeCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_AdministrativeCenterTitle'
+  Description: '%ConstructibleExtension_AdministrativeCenterDescription'
+  Images:
+  - Value:
+      guid:
+        a: -698960032
+        b: 1215121812
+        c: -201047617
+        d: 443312270
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-8220369830792425534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource17
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury17Title'
+  Description: '%ConstructibleExtension_WondrousLuxury17Description'
+  Images:
+  - Value:
+      guid:
+        a: -1107915863
+        b: 1289508433
+        c: 1719492002
+        d: 93920183
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-7811333293620713354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_PublicOrder
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionPublicOrderTitle'
+  Description: '%ConstructibleExtensionPublicOrderDescription'
+  Images:
+  - Value:
+      guid:
+        a: -593288886
+        b: 1166696039
+        c: -1542423423
+        d: -324371810
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4005
+  ConstructibleTraits: 
+--- !u!114 &-7753818283913791236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_CityCenterAdvanced00
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CityCenterAdvanced00Title'
+  Description: '%ConstructibleEvolution_CityCenterAdvanced00Description'
+  Images:
+  - Value:
+      guid:
+        a: 1124590566
+        b: 1288764991
+        c: 1553090188
+        d: -839198626
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3901
+  ConstructibleTraits: 
+--- !u!114 &-7372161157607434400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic08
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic08Title'
+  Description: '%ConstructibleExtractorStrategic08Description'
+  Images:
+  - Value:
+      guid:
+        a: 1875779771
+        b: 1261621771
+        c: 111778945
+        d: -807034081
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &-7354408010745610316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic06
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic06Title'
+  Description: '%ConstructibleExtractorStrategic06Description'
+  Images:
+  - Value:
+      guid:
+        a: 1992065631
+        b: 1180495962
+        c: 1633565317
+        d: 671340737
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &-6906574116036618849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Prototype_Emblematic
+  m_EditorClassIdentifier: 
+  Title: '%Extension_Prototype_EmblematicTitle'
+  Description: '%Extension_Prototype_EmblematicDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-6855115559648544748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_CityCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_CityCenterTitle'
+  Description: '%ConstructibleExtension_CityCenterDescription'
+  Images:
+  - Value:
+      guid:
+        a: -698960032
+        b: 1215121812
+        c: -201047617
+        d: 443312270
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4900
+  ConstructibleTraits: 
+--- !u!114 &-6601710703123762359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource31
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury31Title'
+  Description: '%ConstructibleExtension_WondrousLuxury31Description'
+  Images:
+  - Value:
+      guid:
+        a: -1320949656
+        b: 1210730069
+        c: 694144898
+        d: -1290326374
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-6135085528293146505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_CityCenterAdvanced02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CityCenterAdvanced02Title'
+  Description: '%ConstructibleEvolution_CityCenterAdvanced02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1724272496
+        b: 1253389364
+        c: 1868010164
+        d: -43029058
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3903
+  ConstructibleTraits: 
+--- !u!114 &-6036514677228986383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_Capital
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CityTitle'
+  Description: '%ConstructibleEvolution_CityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2034774017
+        b: 1132472866
+        c: 1077963697
+        d: 10341163
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3900
+  ConstructibleTraits: 
+--- !u!114 &-5810857277786988585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic02Title'
+  Description: '%ConstructibleExtractorStrategic02Description'
+  Images:
+  - Value:
+      guid:
+        a: 595180132
+        b: 1107973892
+        c: -915735424
+        d: 262846215
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &-5575455436703374978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Prototype_Base
+  m_EditorClassIdentifier: 
+  Title: '%Extension_Prototype_BaseTitle'
+  Description: '%Extension_Prototype_BaseDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-5322807446781012373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource12
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury12Title'
+  Description: '%ConstructibleExtension_WondrousLuxury12Description'
+  Images:
+  - Value:
+      guid:
+        a: 1977173280
+        b: 1310413941
+        c: 1980935319
+        d: -496977519
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-4831094271489097524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic01Title'
+  Description: '%ConstructibleExtractorStrategic01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1816083452
+        b: 1246797301
+        c: 2113115273
+        d: -341858741
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &-4790621384346508601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_CampCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CampTitle'
+  Description: '%ConstructibleEvolution_CampDescription'
+  Images:
+  - Value:
+      guid:
+        a: 554549032
+        b: 1114883694
+        c: -1905225025
+        d: -1039771405
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-4776766480497558453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Camp_CampCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_CampTitle'
+  Description: '%ConstructibleExtension_CampDescription'
+  Images:
+  - Value:
+      guid:
+        a: -978284358
+        b: 1220497781
+        c: 2071080126
+        d: 1252442914
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1874255628
+        b: 1201424087
+        c: -686221897
+        d: -81444828
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4900
+  ConstructibleTraits: 
+--- !u!114 &-4727276730845323446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource28
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury28Title'
+  Description: '%ConstructibleExtension_WondrousLuxury28Description'
+  Images:
+  - Value:
+      guid:
+        a: 1598233174
+        b: 1151910288
+        c: 619184274
+        d: 1590872717
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-4566355676282803229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Camp_BeforeCamp
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Camp_BeforeCampTitle'
+  Description: '%ConstructibleExtension_Camp_BeforeCampDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-4465141755927591756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Reforestation
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionReforestationTitle'
+  Description: '%ConstructibleExtensionReforestationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1697136050
+        b: 1112640974
+        c: 2022141611
+        d: 2035057462
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4018
+  ConstructibleTraits: 
+--- !u!114 &-3769350672348652986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Science
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionScienceTitle'
+  Description: '%ConstructibleExtensionScienceDescription'
+  Images:
+  - Value:
+      guid:
+        a: -76399713
+        b: 1103167051
+        c: 2049566397
+        d: 640020770
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4004
+  ConstructibleTraits: 
+--- !u!114 &-3700550394031461397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource24
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury24Title'
+  Description: '%ConstructibleExtension_WondrousLuxury24Description'
+  Images:
+  - Value:
+      guid:
+        a: 1732601163
+        b: 1221214075
+        c: -193903170
+        d: 24572002
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-3595971909105468369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource14
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury14Title'
+  Description: '%ConstructibleExtension_WondrousLuxury14Description'
+  Images:
+  - Value:
+      guid:
+        a: 1440022379
+        b: 1299239889
+        c: -724480634
+        d: -2100455079
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-3330570556403102091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource18
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury18Title'
+  Description: '%ConstructibleExtension_WondrousLuxury18Description'
+  Images:
+  - Value:
+      guid:
+        a: 73503041
+        b: 1219515825
+        c: 342803336
+        d: 1539305465
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-3182391515896861751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource22
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury22Title'
+  Description: '%ConstructibleExtension_WondrousLuxury22Description'
+  Images:
+  - Value:
+      guid:
+        a: 145656452
+        b: 1114822014
+        c: 814813374
+        d: -1125481156
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-2595021653851605698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource11
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury11Title'
+  Description: '%ConstructibleExtension_WondrousLuxury11Description'
+  Images:
+  - Value:
+      guid:
+        a: 1970690814
+        b: 1151499822
+        c: -1211744100
+        d: -1115364939
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &-1563923747152838877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Camp_Extractor
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorTitle'
+  Description: '%ConstructibleExtractorDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1256051926
+        b: 1118509950
+        c: -363386231
+        d: -1919072917
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-1409497693065701704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Camp_Harbour
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_HarbourTitle'
+  Description: '%ConstructibleExtension_HarbourDescription'
+  Images:
+  - Value:
+      guid:
+        a: -297863982
+        b: 1199412832
+        c: 929849262
+        d: 268091089
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &-141853884771296801
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Template
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousTemplateTitle'
+  Description: '%ConstructibleExtension_WondrousTemplateDescription'
+  Images:
+  - Value:
+      guid:
+        a: 445599481
+        b: 1308323101
+        c: 802186385
+        d: -1894032653
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ConstructibleCommonExtensionUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &38198100258736747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic04
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic04Title'
+  Description: '%ConstructibleExtractorStrategic04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1261165122
+        b: 1139099836
+        c: -885420641
+        d: 764054010
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &152433432015695000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Military
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionMilitaryTitle'
+  Description: '%ConstructibleExtensionMilitaryDescription'
+  Images:
+  - Value:
+      guid:
+        a: -131609476
+        b: 1288208065
+        c: -80889665
+        d: -1027998215
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4006
+  ConstructibleTraits: 
+--- !u!114 &163246067448990819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Exploitation
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_ExploitationTitle'
+  Description: '%ConstructibleExtension_ExploitationDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &448207504674155020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource21
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury21Title'
+  Description: '%ConstructibleExtension_WondrousLuxury21Description'
+  Images:
+  - Value:
+      guid:
+        a: 903810863
+        b: 1212330313
+        c: 132351148
+        d: 1392534656
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &1241546876096497480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_CityCenterAdvanced01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CityCenterAdvanced01Title'
+  Description: '%ConstructibleEvolution_CityCenterAdvanced01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1196606533
+        b: 1199541080
+        c: 1095450773
+        d: -92285612
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3902
+  ConstructibleTraits: 
+--- !u!114 &1483563194941304700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Ruin
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_RuinTitle'
+  Description: '%ConstructibleExtension_RuinDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &1693052696637629721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Luxury
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorTitle'
+  Description: '%ConstructibleExtractorDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1218955093
+        b: 1275138464
+        c: 1910061757
+        d: -928285144
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4009
+  ConstructibleTraits: 
+--- !u!114 &1750900412218630532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic05
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic05Title'
+  Description: '%ConstructibleExtractorStrategic05Description'
+  Images:
+  - Value:
+      guid:
+        a: -527852335
+        b: 1273320004
+        c: 1353834923
+        d: -1358487817
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &2363934541327258383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_VillageCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_VillageCenterTitle'
+  Description: '%ConstructibleExtension_VillageCenterDescription'
+  Images:
+  - Value:
+      guid:
+        a: 862409571
+        b: 1103483951
+        c: 50511252
+        d: 951718594
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4008
+  ConstructibleTraits: 
+--- !u!114 &2652292831527316859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource30
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury30Title'
+  Description: '%ConstructibleExtension_WondrousLuxury30Description'
+  Images:
+  - Value:
+      guid:
+        a: 764207602
+        b: 1205394812
+        c: -370553185
+        d: -1866415275
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &3025118920479863882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Money
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionMoneyTitle'
+  Description: '%ConstructibleExtensionMoneyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1585601456
+        b: 1266184533
+        c: 802259849
+        d: 690956551
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4003
+  ConstructibleTraits: 
+--- !u!114 &3088145984997337704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource29
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury29Title'
+  Description: '%ConstructibleExtension_WondrousLuxury29Description'
+  Images:
+  - Value:
+      guid:
+        a: -756549120
+        b: 1103406994
+        c: 102270380
+        d: 2098577331
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &3597515115834597100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_TrainStation
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Base_TrainStationTitle'
+  Description: '%ConstructibleExtension_Base_TrainStationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1263968095
+        b: 1259862461
+        c: 1525695876
+        d: 572610822
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4021
+  ConstructibleTraits: 
+--- !u!114 &3812451262228709444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Extractor
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorTitle'
+  Description: '%ConstructibleExtractorDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1256051926
+        b: 1118509950
+        c: -363386231
+        d: -1919072917
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &4725168793511300852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource27
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury27Title'
+  Description: '%ConstructibleExtension_WondrousLuxury27Description'
+  Images:
+  - Value:
+      guid:
+        a: 2100468445
+        b: 1301191413
+        c: -1971968635
+        d: 1765217192
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &4914117549979163518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource13
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury13Title'
+  Description: '%ConstructibleExtension_WondrousLuxury13Description'
+  Images:
+  - Value:
+      guid:
+        a: 750062007
+        b: 1324999320
+        c: -804859976
+        d: 1527931723
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &4924425452904019613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_HarbourCamp
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_HarbourCampTitle'
+  Description: '%ConstructibleExtension_HarbourCampDescription'
+  Images:
+  - Value:
+      guid:
+        a: -297863982
+        b: 1199412832
+        c: 929849262
+        d: 268091089
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4007
+  ConstructibleTraits: 
+--- !u!114 &5124483026526835096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource23
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury23Title'
+  Description: '%ConstructibleExtension_WondrousLuxury23Description'
+  Images:
+  - Value:
+      guid:
+        a: 2068997098
+        b: 1248269551
+        c: -527828324
+        d: -1566028574
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &5519023894943190141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_CampRelocationCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CampRelocationTitle'
+  Description: '%ConstructibleEvolution_CampRelocationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 554549032
+        b: 1114883694
+        c: -1905225025
+        d: -1039771405
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4999
+  ConstructibleTraits: 
+--- !u!114 &5988914327060834222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Food
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionFoodTitle'
+  Description: '%ConstructibleExtensionFoodDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1526686290
+        b: 1214841954
+        c: -1332540280
+        d: 285005933
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4001
+  ConstructibleTraits: 
+--- !u!114 &6051031343860870573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Airfield
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Base_AirfieldTitle'
+  Description: '%ConstructibleExtension_Base_AirfieldDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1745915465
+        b: 1315132164
+        c: 1318246552
+        d: -2103644382
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4022
+  ConstructibleTraits: 
+--- !u!114 &6519748741959212081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Airport
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Base_AirportTitle'
+  Description: '%ConstructibleExtension_Base_AirportDescription'
+  Images:
+  - Value:
+      guid:
+        a: -444067228
+        b: 1225523538
+        c: 198890655
+        d: -51495915
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4023
+  ConstructibleTraits: 
+--- !u!114 &7393143600410436953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic07
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic07Title'
+  Description: '%ConstructibleExtractorStrategic07Description'
+  Images:
+  - Value:
+      guid:
+        a: 343822399
+        b: 1114462305
+        c: 1820239800
+        d: -1491108120
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &7417440024390914772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Strategic03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtractorStrategic03Title'
+  Description: '%ConstructibleExtractorStrategic03Description'
+  Images:
+  - Value:
+      guid:
+        a: 397121429
+        b: 1152625075
+        c: 1265778828
+        d: -190925974
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4010
+  ConstructibleTraits: 
+--- !u!114 &7477935936580075214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_MissileSilo
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_Base_MissileSiloTitle'
+  Description: '%ConstructibleExtension_Base_MissileSiloDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1492360356
+        b: 1131045870
+        c: 250361242
+        d: -781040416
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4024
+  ConstructibleTraits: 
+--- !u!114 &7539090678137970231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Instantiate_Extension_Camp_CityCenter
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleEvolution_CityTitle'
+  Description: '%ConstructibleEvolution_CityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2034774017
+        b: 1132472866
+        c: 1077963697
+        d: 10341163
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 3900
+  ConstructibleTraits: 
+--- !u!114 &8043023952184106202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource20
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury20Title'
+  Description: '%ConstructibleExtension_WondrousLuxury20Description'
+  Images:
+  - Value:
+      guid:
+        a: 297114481
+        b: 1302735341
+        c: 334872229
+        d: -1549589864
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &8302128740019826941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource19
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury19Title'
+  Description: '%ConstructibleExtension_WondrousLuxury19Description'
+  Images:
+  - Value:
+      guid:
+        a: 594516322
+        b: 1083517236
+        c: 161064119
+        d: 366859795
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 
+--- !u!114 &8788015141782614053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Base_Industry
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtensionIndustryTitle'
+  Description: '%ConstructibleExtensionIndustryDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1222756334
+        b: 1332419262
+        c: 402832269
+        d: -1758678524
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4002
+  ConstructibleTraits: 
+--- !u!114 &9220209764859469057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Extension_Wondrous_Resource16
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleExtension_WondrousLuxury16Title'
+  Description: '%ConstructibleExtension_WondrousLuxury16Description'
+  Images:
+  - Value:
+      guid:
+        a: -1506252155
+        b: 1130169121
+        c: 23483547
+        d: 2136253907
+    serializableKey: Small
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 4020
+  ConstructibleTraits: 

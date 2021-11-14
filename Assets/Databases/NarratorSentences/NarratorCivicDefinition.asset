@@ -1,0 +1,974 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8880626617891146327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Culture04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Culture04
+  Choices:
+  - guid:
+      a: -806395940
+      b: 1245479774
+      c: -1526399854
+      d: 547931119
+  - guid:
+      a: 1787448901
+      b: 1220760936
+      c: 1775062927
+      d: -2023962803
+--- !u!114 &-8660242667588006709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government01
+  Choices:
+  - guid:
+      a: 1690191994
+      b: 1326597497
+      c: -1892541018
+      d: -2018481578
+  - guid:
+      a: 1253626131
+      b: 1274410326
+      c: 1944916651
+      d: 583310455
+--- !u!114 &-8632836447452084873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Society02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Society02
+  Choices:
+  - guid:
+      a: 88306620
+      b: 1242545995
+      c: 1114155925
+      d: 894716359
+  - guid:
+      a: 1438066422
+      b: 1095248338
+      c: 251118507
+      d: -2141227121
+--- !u!114 &-8347427284883525448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Justice06
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Justice06
+  Choices:
+  - guid:
+      a: 2111721645
+      b: 1168459257
+      c: 695425976
+      d: -1032569507
+  - guid:
+      a: 816537408
+      b: 1092864806
+      c: -316460896
+      d: -220404760
+--- !u!114 &-7276998863903598165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Culture03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Culture03
+  Choices:
+  - guid:
+      a: -1816636868
+      b: 1304994686
+      c: -1677301628
+      d: 579864078
+  - guid:
+      a: -1577322681
+      b: 1270651616
+      c: 514096319
+      d: 1543609231
+--- !u!114 &-7266907081580983261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government07
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government07
+  Choices:
+  - guid:
+      a: 1506215705
+      b: 1307535628
+      c: 195333263
+      d: 863230770
+  - guid:
+      a: -327373635
+      b: 1181220549
+      c: 37443513
+      d: 1019725401
+--- !u!114 &-5493149103524796243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy06
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy06
+  Choices:
+  - guid:
+      a: -1092923702
+      b: 1112000161
+      c: 514323084
+      d: 899795619
+  - guid:
+      a: -670152650
+      b: 1333609429
+      c: -363411021
+      d: 724522801
+--- !u!114 &-5365467190609835108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Society01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Society01
+  Choices:
+  - guid:
+      a: 1768152561
+      b: 1141850960
+      c: -1112398953
+      d: -905767498
+  - guid:
+      a: -1028961681
+      b: 1168599602
+      c: 776016814
+      d: 2040431975
+--- !u!114 &-4058787332771236899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Justice04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Justice04
+  Choices:
+  - guid:
+      a: 621858568
+      b: 1334926203
+      c: 457984392
+      d: -1987476276
+  - guid:
+      a: -51832627
+      b: 1157325805
+      c: 659528577
+      d: 816030745
+--- !u!114 &-3726825699252152472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Culture02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Culture02
+  Choices:
+  - guid:
+      a: -1863528157
+      b: 1285505727
+      c: -1712228682
+      d: 62794886
+  - guid:
+      a: 965645276
+      b: 1268139888
+      c: -1333168198
+      d: -1086098182
+--- !u!114 &-3599692560444112548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Religion01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Religion01
+  Choices:
+  - guid:
+      a: 1326904755
+      b: 1307523899
+      c: -82146913
+      d: -1121530799
+  - guid:
+      a: 2060017230
+      b: 1148136895
+      c: -1725304155
+      d: -82484562
+--- !u!114 &-2888094681098718203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Culture05
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Culture05
+  Choices:
+  - guid:
+      a: -1551968250
+      b: 1329995749
+      c: 1252193413
+      d: -419478965
+  - guid:
+      a: 1434091659
+      b: 1274840139
+      c: 599491249
+      d: 1697826202
+--- !u!114 &-2341783733608332290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy01
+  Choices:
+  - guid:
+      a: -228931785
+      b: 1324072694
+      c: -119781469
+      d: -839132610
+  - guid:
+      a: 1498445935
+      b: 1134585428
+      c: 1420944566
+      d: 1546257569
+--- !u!114 &-1752387593802479720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Army04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Army04
+  Choices:
+  - guid:
+      a: 1450132262
+      b: 1335149071
+      c: -1898085207
+      d: 1094798834
+  - guid:
+      a: -996380882
+      b: 1190550978
+      c: -1804773199
+      d: -608703401
+--- !u!114 &-1348668037428151289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy02
+  Choices:
+  - guid:
+      a: -886885792
+      b: 1147136854
+      c: 1522081704
+      d: 1006484093
+  - guid:
+      a: -936513225
+      b: 1136351170
+      c: 412298903
+      d: -605879955
+--- !u!114 &-488366095716218540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Society04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Society04
+  Choices:
+  - guid:
+      a: 1546939146
+      b: 1176325779
+      c: -1758744947
+      d: -1306722380
+  - guid:
+      a: -1450752846
+      b: 1311702130
+      c: -670989898
+      d: -1023210796
+--- !u!114 &-356368741402025637
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Army05
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Army05
+  Choices:
+  - guid:
+      a: 856446183
+      b: 1281961350
+      c: -2088263290
+      d: -2084778097
+  - guid:
+      a: 1536674070
+      b: 1182346273
+      c: 1761645721
+      d: 1409219485
+--- !u!114 &-230814478709861573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Army03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Army03
+  Choices:
+  - guid:
+      a: 38127788
+      b: 1100686943
+      c: -1362808431
+      d: -1616788045
+  - guid:
+      a: 546104652
+      b: 1264932286
+      c: -1390964835
+      d: -928420459
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1772741417, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &92883275400395645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Religion04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Religion04
+  Choices:
+  - guid:
+      a: 828005547
+      b: 1304122131
+      c: -222402133
+      d: -1292296244
+  - guid:
+      a: -1543869684
+      b: 1245140680
+      c: 201917348
+      d: -997592479
+--- !u!114 &200972392031860522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy07
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy07
+  Choices:
+  - guid:
+      a: 821677535
+      b: 1231153448
+      c: -1185308288
+      d: 520036517
+  - guid:
+      a: 1493689643
+      b: 1186882649
+      c: 1368741038
+      d: -1239843038
+--- !u!114 &227440901700750478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Justice05
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Justice05
+  Choices:
+  - guid:
+      a: -1272992318
+      b: 1097724169
+      c: 634071990
+      d: 1595162597
+  - guid:
+      a: -191201024
+      b: 1143754854
+      c: -2121069645
+      d: 905864712
+--- !u!114 &2301770744618392523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy04
+  Choices:
+  - guid:
+      a: -480039201
+      b: 1254991441
+      c: 764587426
+      d: 2030300027
+  - guid:
+      a: 53678181
+      b: 1262489284
+      c: 272747432
+      d: -1053982063
+--- !u!114 &2470755122876022474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy03
+  Choices:
+  - guid:
+      a: -902268052
+      b: 1199211005
+      c: 1113216389
+      d: 1514966508
+  - guid:
+      a: 2039451827
+      b: 1203413959
+      c: -1766648917
+      d: -196315871
+--- !u!114 &2764948739921010045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Religion06
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Religion06
+  Choices:
+  - guid:
+      a: 1670460714
+      b: 1306591726
+      c: 1887050174
+      d: 1141771640
+  - guid:
+      a: -1007779675
+      b: 1273108853
+      c: -1684008831
+      d: -707269970
+--- !u!114 &4049681181721736668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Justice02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Justice02
+  Choices:
+  - guid:
+      a: -1064675488
+      b: 1253224888
+      c: -921194877
+      d: -2083324318
+  - guid:
+      a: -2142500740
+      b: 1078605500
+      c: 1369267851
+      d: -908752538
+--- !u!114 &4182193149687902341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Army02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Army02
+  Choices:
+  - guid:
+      a: 204377838
+      b: 1288628225
+      c: 1503343793
+      d: -1431351715
+  - guid:
+      a: -1974226396
+      b: 1306997146
+      c: 597831063
+      d: -256779767
+--- !u!114 &4257081212817095978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government02
+  Choices:
+  - guid:
+      a: 431036624
+      b: 1181529818
+      c: -371335242
+      d: 58925899
+  - guid:
+      a: -430249200
+      b: 1073743250
+      c: 1211358382
+      d: -568232343
+--- !u!114 &5309700915655198047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government06
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government06
+  Choices:
+  - guid:
+      a: -1727281188
+      b: 1107560091
+      c: -1445152066
+      d: -823186832
+  - guid:
+      a: -1014058375
+      b: 1093521571
+      c: -1812415327
+      d: 1658041504
+--- !u!114 &5347056829572967821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government04
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government04
+  Choices:
+  - guid:
+      a: -1720383402
+      b: 1192881371
+      c: 1518815635
+      d: 1771826566
+  - guid:
+      a: 295796792
+      b: 1335927702
+      c: 1292623295
+      d: 1759529689
+--- !u!114 &5739400129795182089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Justice03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Justice03
+  Choices:
+  - guid:
+      a: -397966463
+      b: 1264789037
+      c: 38828947
+      d: 73931918
+  - guid:
+      a: 1673582682
+      b: 1089262012
+      c: 243043775
+      d: -1415834487
+--- !u!114 &5979070265007074020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Culture01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Culture01
+  Choices:
+  - guid:
+      a: 602616620
+      b: 1244950448
+      c: -511833697
+      d: 327551625
+  - guid:
+      a: 418806001
+      b: 1117720797
+      c: 244600495
+      d: -1544677583
+--- !u!114 &6540052298726755899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Religion05
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Religion05
+  Choices:
+  - guid:
+      a: 1475609059
+      b: 1198250271
+      c: -581925703
+      d: -805254553
+  - guid:
+      a: 1060124528
+      b: 1220468778
+      c: 1345782700
+      d: -1699882745
+--- !u!114 &6819331024844572419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Justice01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Justice01
+  Choices:
+  - guid:
+      a: 1640896384
+      b: 1332531299
+      c: 815856816
+      d: 1611427172
+  - guid:
+      a: -670291628
+      b: 1104175392
+      c: -1176436593
+      d: -1599300097
+--- !u!114 &6888500696996257621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government03
+  Choices:
+  - guid:
+      a: -1439583511
+      b: 1329277403
+      c: -1941880932
+      d: -440408108
+  - guid:
+      a: 1670281494
+      b: 1122002375
+      c: -1461522532
+      d: -1379544431
+--- !u!114 &6986172512192288312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Army01
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Army01
+  Choices:
+  - guid:
+      a: -41347411
+      b: 1286965056
+      c: 1585273274
+      d: 154936808
+  - guid:
+      a: 1279528685
+      b: 1285415960
+      c: -397176152
+      d: 563545113
+--- !u!114 &7136337712754773923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Economy05
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Economy05
+  Choices:
+  - guid:
+      a: -1986336810
+      b: 1142838320
+      c: 1441473665
+      d: -823641575
+  - guid:
+      a: 884579738
+      b: 1281510915
+      c: -242464120
+      d: -1543992619
+--- !u!114 &8459024135566970251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Religion02
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Religion02
+  Choices:
+  - guid:
+      a: -1560161657
+      b: 1112418434
+      c: -1454771563
+      d: 521281136
+  - guid:
+      a: 1317627802
+      b: 1197312893
+      c: -563221828
+      d: -1850602270
+--- !u!114 &8478499328744124679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Religion03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Religion03
+  Choices:
+  - guid:
+      a: 694796312
+      b: 1285179363
+      c: -2011771225
+      d: -1807154879
+  - guid:
+      a: 1776956286
+      b: 1191320458
+      c: -1927063920
+      d: -1769673954
+--- !u!114 &8703649652595184126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Government05
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Government05
+  Choices:
+  - guid:
+      a: -1526818887
+      b: 1115294005
+      c: -1171539265
+      d: -1938642076
+  - guid:
+      a: 1941423881
+      b: 1260006192
+      c: 1840441258
+      d: 1558810780
+--- !u!114 &8975332196790402022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1101157438, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorCivicDefinition_Civics_Society03
+  m_EditorClassIdentifier: 
+  CivicName: Civics_Society03
+  Choices:
+  - guid:
+      a: -549572382
+      b: 1304124386
+      c: -426790755
+      d: -301261078
+  - guid:
+      a: -1871950357
+      b: 1232823689
+      c: -903457644
+      d: 1357616709

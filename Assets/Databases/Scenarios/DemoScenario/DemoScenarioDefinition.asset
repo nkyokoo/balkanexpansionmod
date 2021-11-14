@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1821263129, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DemoScenarioDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &7464130439631509797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 61609388, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DemoScenario
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: EndConditions
+      Entry: 7
+      Data: 0|Amplitude.Mercury.Data.Simulation.EndGameCondition[], Amplitude.Mercury.Data
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 1|Amplitude.Mercury.Data.Simulation.EndGameCondition_EraLimit, Amplitude.Mercury.Data
+    - Name: ActivateNotification
+      Entry: 5
+      Data: true
+    - Name: EndingEraReference
+      Entry: 7
+      Data: Amplitude.Framework.DatatableElementReference, Amplitude.Framework
+    - Name: serializableElementName
+      Entry: 1
+      Data: Era3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: OptionalEmpireIndexes
+      Entry: 6
+      Data: 
+    - Name: NumberOfNecessaryEraStars
+      Entry: 3
+      Data: 0
+    - Name: OptionalTurnBeforeTrigger
+      Entry: 3
+      Data: 0
+    - Name: Trigger
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Amplitude.Mercury.Data.Simulation.EndGameCondition_TurnLimit, Amplitude.Mercury.Data
+    - Name: ActivateNotification
+      Entry: 5
+      Data: true
+    - Name: TurnLimit
+      Entry: 3
+      Data: 100
+    - Name: FirstNotificationDelay
+      Entry: 3
+      Data: 25
+    - Name: SecondNotificationDelay
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  MajorEmpires:
+  - UniqueIdentifier: Player
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: AI_1
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: AI_2
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  - UniqueIdentifier: AI_3
+    FactionDefinition:
+      serializableElementName: Civilization_Era0_DefaultTribe
+    AllowEliminationCountdown: 1
+    ForceEliminationIfNoSettlement: 0
+    ForceEliminationIfNoArmy: 0
+  TerrainGuid:
+    a: 30120816
+    b: 1239215130
+    c: 1299690170
+    d: 441748686
+  GameSize: Small
+  GameSpeed:
+    serializableElementName: GameSpeed_Normal
+  StartingTurn: 1
+  IntroVideoRestriction: 0
+  OverrideIntroVideoWith: 
+  EraSettings:
+    EnableEraTransition: 1
+    EndingEraReference:
+      serializableElementName: Era3
+  FactionSettings:
+    FactionListMode: 1
+    SerializedFactionNames:
+    - Civilization_Era1_HittiteEmpire
+    - Civilization_Era1_Phoenicia
+    - Civilization_Era1_OlmecCivilization
+    - Civilization_Era2_Carthage
+    - Civilization_Era2_Huns
+    - Civilization_Era2_Persia
+    EnableFactionUpgrade: 1
+    EnableAffinities: 1
+  ActionSettings:
+    ListMode: 1
+    ActionTypes: 
+  ConstructibleSettings:
+    EnableArtificialWonders: 1
+    ListMode: 1
+    SerializedConstructibleNames: []
+  BattleSettings:
+    RetreatAvailabilityFlags: 15
+    SurrenderSiegeAvailabilityFlags: 15
+  DiplomacySettings:
+    EnableDiplomaticGrievances: 1
+    EnableDiplomacyActions: 1
+    DiplomaticActionListMode: 1
+    DiplomaticActions: 
+    DiplomaticAbilityListMode: 1
+    DiplomaticAbilities: 0
+  TechnologySettings:
+    EnableTechnology: 1
+    ListMode: 1
+    SerializedTechnologiesNames: []
+  CivicsSettings:
+    EnableCivics: 1
+    CategoryListMode: 1
+    SerializedCategoryNames: []
+    CivicsListMode: 1
+    SerializedCivicsNames: []
+  NarrativeEventSettings:
+    EnableNarrativeEvents: 1
+    CategoryListMode: 1
+    SerializedCategoryNames: []
+    NarrativeEventListMode: 1
+    SerializedNarrativeEventNames: []
+  IdeologySettings:
+    EnableIdeologicalAxes: 1
+  CultureSettings:
+    EnableCulturePropagation: 1
+  ReligionSettings:
+    EnableReligionPropagation: 1
+    EnableReligionCreation: 1
+    EnableReformation: 1
+  MinorFactionSettings:
+    EnablePeacefulAnimalSpawn: 1
+    EnableViolentAnimalSpawn: 1
+    EnablePeacefulHumanSpawn: 1
+    EnableViolentHumanSpawn: 1
+    EnableCrisisSpawn: 1
+  CuriositySettings:
+    EnableCuriositySpawn: 1
+    ListMode: 1
+    SerializedCuriosityNames: []
+  EraStarSettings:
+    EnableEraStars: 1
+    EraStarsListMode: 1
+    SerializedEraStarNames: []
+    OverrideMaxLevel: 0
+    MaxLevel: 0
+    OverrideFameGain: 0
+    FameGain:
+      RawValue: 0
+    EraStarOverrides: []
+    EnableEraStarCatchup: 1
+  WorldDeedSettings:
+    EnableWorldDeeds: 1
+    WorldDeedsListMode: 1
+    SerializedWorldDeedNames: []
+  NaturalWonderSettings:
+    EnableExplorationNotification: 1
+  TutorialSettings:
+    EnableTutorial: 1
+    TutorialListMode: 1
+    SerializedTutorialNames: []
+  PreventToContinuePlaying: 0
+  OverwriteDefaultEndGameCondition: 1
+  EditionOrdersGuid:
+    a: -1601020812
+    b: 1112744862
+    c: 982891706
+    d: 389378712
+  SaveName: HumankindDemo
+  ActivateNarrator: 1

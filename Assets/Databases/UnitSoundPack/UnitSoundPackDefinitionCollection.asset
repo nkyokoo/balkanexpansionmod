@@ -1,0 +1,734 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6523311016624431834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Common_MonoplaneFighters
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: -27842052
+      b: 1314340947
+      c: 1258083204
+      d: 2085648088
+  PatrolLandingEventReference:
+    guid:
+      a: 686744675
+      b: 1127692558
+      c: -1116862302
+      d: 1272734751
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 709994184
+      b: 1195842485
+      c: -681125708
+      d: 1866403018
+  AttackerTakeOffEventReference:
+    guid:
+      a: -1510269403
+      b: 1329942531
+      c: -563871044
+      d: 1343912906
+  AttackerLandingEventReference:
+    guid:
+      a: -1143373050
+      b: 1129706607
+      c: -1724650324
+      d: -1375839574
+  ExtractionEventReference:
+    guid:
+      a: -1554869147
+      b: 1111351843
+      c: 764496806
+      d: -370640276
+  DiveEventReference:
+    guid:
+      a: -862385049
+      b: 1232251422
+      c: 1796797859
+      d: 1979769355
+  ApparitionEventReference:
+    guid:
+      a: 964461111
+      b: 1205799263
+      c: 27345307
+      d: -745852778
+  FallEventReference:
+    guid:
+      a: 1189322503
+      b: 1298885645
+      c: 1236019898
+      d: 1062636745
+  DestructionEventReference:
+    guid:
+      a: 954488162
+      b: 1301768896
+      c: -1637332830
+      d: -1175243383
+--- !u!114 &-2361158960383395749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Common_MultiRoleFighters
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 1710287180
+      b: 1180671973
+      c: 679218331
+      d: 1635486527
+  PatrolLandingEventReference:
+    guid:
+      a: 349519549
+      b: 1085715204
+      c: -1916075891
+      d: 949643843
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 952825100
+      b: 1083991541
+      c: -577998198
+      d: -1305098309
+  AttackerTakeOffEventReference:
+    guid:
+      a: -1607672680
+      b: 1332143408
+      c: -529605977
+      d: 933570088
+  AttackerLandingEventReference:
+    guid:
+      a: 420060675
+      b: 1150306313
+      c: -1352709441
+      d: -1320265843
+  ExtractionEventReference:
+    guid:
+      a: 1229248536
+      b: 1169450985
+      c: 1856734106
+      d: -1821396338
+  DiveEventReference:
+    guid:
+      a: -1278090520
+      b: 1294808305
+      c: 78569368
+      d: -156488774
+  ApparitionEventReference:
+    guid:
+      a: -775338304
+      b: 1244703729
+      c: 1994312358
+      d: -1586481334
+  FallEventReference:
+    guid:
+      a: -754564847
+      b: 1277550328
+      c: -60607083
+      d: -1643373404
+  DestructionEventReference:
+    guid:
+      a: 724256500
+      b: 1266757582
+      c: 1233875895
+      d: 1209954518
+--- !u!114 &-2167712996119926479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Common_NuclearWarheads
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  AttackerTakeOffEventReference:
+    guid:
+      a: 135786763
+      b: 1092037176
+      c: -49089376
+      d: 965496521
+  AttackerLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ExtractionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  DiveEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ApparitionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  FallEventReference:
+    guid:
+      a: 1555376082
+      b: 1273399248
+      c: -1641288547
+      d: 495511854
+  DestructionEventReference:
+    guid:
+      a: -1438823844
+      b: 1137726366
+      c: -1279459430
+      d: 56040201
+--- !u!114 &-1004240270141085677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_USA_Lightnings
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 1710287180
+      b: 1180671973
+      c: 679218331
+      d: 1635486527
+  PatrolLandingEventReference:
+    guid:
+      a: 349519549
+      b: 1085715204
+      c: -1916075891
+      d: 949643843
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 952825100
+      b: 1083991541
+      c: -577998198
+      d: -1305098309
+  AttackerTakeOffEventReference:
+    guid:
+      a: -1607672680
+      b: 1332143408
+      c: -529605977
+      d: 933570088
+  AttackerLandingEventReference:
+    guid:
+      a: 420060675
+      b: 1150306313
+      c: -1352709441
+      d: -1320265843
+  ExtractionEventReference:
+    guid:
+      a: 1229248536
+      b: 1169450985
+      c: 1856734106
+      d: -1821396338
+  DiveEventReference:
+    guid:
+      a: -1278090520
+      b: 1294808305
+      c: 78569368
+      d: -156488774
+  ApparitionEventReference:
+    guid:
+      a: -775338304
+      b: 1244703729
+      c: 1994312358
+      d: -1586481334
+  FallEventReference:
+    guid:
+      a: -754564847
+      b: 1277550328
+      c: -60607083
+      d: -1643373404
+  DestructionEventReference:
+    guid:
+      a: 724256500
+      b: 1266757582
+      c: 1233875895
+      d: 1209954518
+--- !u!114 &-812631897794686702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era5_Common_Biplanes
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: -27842052
+      b: 1314340947
+      c: 1258083204
+      d: 2085648088
+  PatrolLandingEventReference:
+    guid:
+      a: 686744675
+      b: 1127692558
+      c: -1116862302
+      d: 1272734751
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 709994184
+      b: 1195842485
+      c: -681125708
+      d: 1866403018
+  AttackerTakeOffEventReference:
+    guid:
+      a: -1510269403
+      b: 1329942531
+      c: -563871044
+      d: 1343912906
+  AttackerLandingEventReference:
+    guid:
+      a: -1143373050
+      b: 1129706607
+      c: -1724650324
+      d: -1375839574
+  ExtractionEventReference:
+    guid:
+      a: -1554869147
+      b: 1111351843
+      c: 764496806
+      d: -370640276
+  DiveEventReference:
+    guid:
+      a: -862385049
+      b: 1232251422
+      c: 1796797859
+      d: 1979769355
+  ApparitionEventReference:
+    guid:
+      a: 964461111
+      b: 1205799263
+      c: 27345307
+      d: -745852778
+  FallEventReference:
+    guid:
+      a: 1189322503
+      b: 1298885645
+      c: 1236019898
+      d: 1062636745
+  DestructionEventReference:
+    guid:
+      a: 954488162
+      b: 1301768896
+      c: -1637332830
+      d: -1175243383
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 207296400, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitSoundPackDefinitionCollection
+  m_EditorClassIdentifier: 
+--- !u!114 &1118113753152369876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Common_CruiseMissiles
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  AttackerTakeOffEventReference:
+    guid:
+      a: 257927513
+      b: 1256712000
+      c: 236365489
+      d: 1954670529
+  AttackerLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ExtractionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  DiveEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ApparitionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  FallEventReference:
+    guid:
+      a: 1635550668
+      b: 1159556812
+      c: -1687675481
+      d: 2132177073
+  DestructionEventReference:
+    guid:
+      a: 54613705
+      b: 1131399810
+      c: 1596117677
+      d: -1885073609
+--- !u!114 &1383776706935485457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Common_ThermonuclearWarheads
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  AttackerTakeOffEventReference:
+    guid:
+      a: 135786763
+      b: 1092037176
+      c: -49089376
+      d: 965496521
+  AttackerLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ExtractionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  DiveEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ApparitionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  FallEventReference:
+    guid:
+      a: 1555376082
+      b: 1273399248
+      c: -1641288547
+      d: 495511854
+  DestructionEventReference:
+    guid:
+      a: -1438823844
+      b: 1137726366
+      c: -1279459430
+      d: 56040201
+--- !u!114 &3976040675040252899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Turkey_StealthyOperativeMissiles
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  AttackerTakeOffEventReference:
+    guid:
+      a: 257927513
+      b: 1256712000
+      c: 236365489
+      d: 1954670529
+  AttackerLandingEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ExtractionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  DiveEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  ApparitionEventReference:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  FallEventReference:
+    guid:
+      a: 1635550668
+      b: 1159556812
+      c: -1687675481
+      d: 2132177073
+  DestructionEventReference:
+    guid:
+      a: 54613705
+      b: 1131399810
+      c: 1596117677
+      d: -1885073609
+--- !u!114 &6500159596857288418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Common_StrategicBombers
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: 1253461477
+      b: 1095353316
+      c: -1904987761
+      d: 162131350
+  PatrolLandingEventReference:
+    guid:
+      a: -2012712118
+      b: 1076829827
+      c: 853250432
+      d: -1580859228
+  PatrolEnterLoopEventReference:
+    guid:
+      a: -1243877100
+      b: 1246746108
+      c: 1070001084
+      d: 1607626112
+  AttackerTakeOffEventReference:
+    guid:
+      a: 1253461477
+      b: 1095353316
+      c: -1904987761
+      d: 162131350
+  AttackerLandingEventReference:
+    guid:
+      a: -2012712118
+      b: 1076829827
+      c: 853250432
+      d: -1580859228
+  ExtractionEventReference:
+    guid:
+      a: -1539692326
+      b: 1294373726
+      c: 748790456
+      d: 1649294256
+  DiveEventReference:
+    guid:
+      a: -761691583
+      b: 1293346172
+      c: 1209930405
+      d: 32763485
+  ApparitionEventReference:
+    guid:
+      a: -1435238687
+      b: 1168120479
+      c: 2086364856
+      d: -1433883564
+  FallEventReference:
+    guid:
+      a: -1935624919
+      b: 1078009904
+      c: 1996358589
+      d: 1174875202
+  DestructionEventReference:
+    guid:
+      a: 1549292793
+      b: 1294912707
+      c: -722210899
+      d: -899187866
+--- !u!114 &8173031533742214038
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -509357776, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AirUnit_Era6_Japan_Reisens
+  m_EditorClassIdentifier: 
+  PatrolTakeOffEventReference:
+    guid:
+      a: -27842052
+      b: 1314340947
+      c: 1258083204
+      d: 2085648088
+  PatrolLandingEventReference:
+    guid:
+      a: 686744675
+      b: 1127692558
+      c: -1116862302
+      d: 1272734751
+  PatrolEnterLoopEventReference:
+    guid:
+      a: 709994184
+      b: 1195842485
+      c: -681125708
+      d: 1866403018
+  AttackerTakeOffEventReference:
+    guid:
+      a: -1510269403
+      b: 1329942531
+      c: -563871044
+      d: 1343912906
+  AttackerLandingEventReference:
+    guid:
+      a: -1143373050
+      b: 1129706607
+      c: -1724650324
+      d: -1375839574
+  ExtractionEventReference:
+    guid:
+      a: -1554869147
+      b: 1111351843
+      c: 764496806
+      d: -370640276
+  DiveEventReference:
+    guid:
+      a: -862385049
+      b: 1232251422
+      c: 1796797859
+      d: 1979769355
+  ApparitionEventReference:
+    guid:
+      a: 964461111
+      b: 1205799263
+      c: 27345307
+      d: -745852778
+  FallEventReference:
+    guid:
+      a: 1189322503
+      b: 1298885645
+      c: 1236019898
+      d: 1062636745
+  DestructionEventReference:
+    guid:
+      a: 954488162
+      b: 1301768896
+      c: -1637332830
+      d: -1175243383

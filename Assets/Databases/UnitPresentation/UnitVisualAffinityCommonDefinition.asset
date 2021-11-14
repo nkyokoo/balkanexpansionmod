@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9151897492633145765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era1_Temperate
+  m_EditorClassIdentifier: 
+--- !u!114 &-8524725358932816830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era5_Asian
+  m_EditorClassIdentifier: 
+--- !u!114 &-7085646297714767435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era2_Asian
+  m_EditorClassIdentifier: 
+--- !u!114 &-6620063337229588476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era3_Asian
+  m_EditorClassIdentifier: 
+--- !u!114 &-3438976051354229067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era1_Cold
+  m_EditorClassIdentifier: 
+--- !u!114 &-2648658395526258474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era4_Asian
+  m_EditorClassIdentifier: 
+--- !u!114 &-2398467265592555260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era3_American
+  m_EditorClassIdentifier: 
+--- !u!114 &-2310604288229169680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era3_GrecoRoman
+  m_EditorClassIdentifier: 
+--- !u!114 &-2066630099709290380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era1_Hot
+  m_EditorClassIdentifier: 
+--- !u!114 &-1018581134839098140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era6_Sand
+  m_EditorClassIdentifier: 
+--- !u!114 &-297195425954670684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era3_Northern
+  m_EditorClassIdentifier: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -753684916, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinityCommonDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &1400144871055784051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era2_Mediterranean
+  m_EditorClassIdentifier: 
+--- !u!114 &1741089429784056647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era2_Mesoamerican
+  m_EditorClassIdentifier: 
+--- !u!114 &3599197617991260645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era6_Forest
+  m_EditorClassIdentifier: 
+--- !u!114 &4117179576401698982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era0_Northern
+  m_EditorClassIdentifier: 
+--- !u!114 &4864180065851725463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era5_Eastern
+  m_EditorClassIdentifier: 
+--- !u!114 &5310491158422871509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era4_Eastern
+  m_EditorClassIdentifier: 
+--- !u!114 &5465683874592908456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era0_Temperate
+  m_EditorClassIdentifier: 
+--- !u!114 &6005159321537790531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era0_DefaultTribe
+  m_EditorClassIdentifier: 
+--- !u!114 &6222867914847165328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era5_European
+  m_EditorClassIdentifier: 
+--- !u!114 &6271542408397183896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era2_European
+  m_EditorClassIdentifier: 
+--- !u!114 &6507335857514563037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era0_Southern
+  m_EditorClassIdentifier: 
+--- !u!114 &7128614064967799221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era4_European
+  m_EditorClassIdentifier: 
+--- !u!114 &7411876755496800290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era3_Mediterranean
+  m_EditorClassIdentifier: 
+--- !u!114 &8737445685442822608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1803883462, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: UnitVisualAffinity_Common_Era6_Snow
+  m_EditorClassIdentifier: 

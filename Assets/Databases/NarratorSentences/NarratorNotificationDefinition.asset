@@ -1,0 +1,1064 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9181211800887208486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationCompetitiveDeedWonByYou
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 2
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: 1709115282
+        b: 1075320442
+        c: -1931042132
+        d: 378129812
+    Name: Fame_CompetitiveDeed_NationalProjectCompleted
+  - AudioEventHandleReference:
+      guid:
+        a: 1494811750
+        b: 1303738511
+        c: -1682462833
+        d: -1312505874
+    Name: Fame_CompetitiveDeed_ResearchTechnology_Writing
+  - AudioEventHandleReference:
+      guid:
+        a: 2141783027
+        b: 1098498361
+        c: 1886177677
+        d: 2113087866
+    Name: Fame_CompetitiveDeed_ResearchTechnology_Printing
+  - AudioEventHandleReference:
+      guid:
+        a: 1339959192
+        b: 1282529801
+        c: 1273288609
+        d: -2018194553
+    Name: Fame_CompetitiveDeed_HolySiteBuilt
+  - AudioEventHandleReference:
+      guid:
+        a: -740314361
+        b: 1104074202
+        c: 445571515
+        d: -1248553462
+    Name: Fame_CompetitiveDeed_BuildRailtrail
+  - AudioEventHandleReference:
+      guid:
+        a: -766321723
+        b: 1233253437
+        c: 107612863
+        d: 2128302229
+    Name: Fame_CompetitiveDeed_UninhabitedContinentTreaded
+  - AudioEventHandleReference:
+      guid:
+        a: 1235187316
+        b: 1084401938
+        c: 2029445532
+        d: 1482874215
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1309248698
+        b: 1273095668
+        c: 1284701371
+        d: -1732043334
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1135100717
+        b: 1301213937
+        c: -1158968439
+        d: -1432956156
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1884686705
+        b: 1180665894
+        c: -2128081222
+        d: -1079679334
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -990299781
+        b: 1090720929
+        c: -1664108917
+        d: -142408436
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 861864796
+        b: 1107139181
+        c: 1245755838
+        d: 2086548225
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 907166017
+        b: 1174803712
+        c: 844590506
+        d: -860352936
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 173582766
+        b: 1268604299
+        c: -970564477
+        d: -961900347
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -701589989
+        b: 1281013081
+        c: -1333995864
+        d: -128061772
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1084603785
+        b: 1138862924
+        c: 2048713348
+        d: -1319455173
+    Name: Fame_CompetitiveDeed_ResearchTechnology_ResearchInstitute
+  - AudioEventHandleReference:
+      guid:
+        a: -520575247
+        b: 1215335571
+        c: -239308147
+        d: 1161187970
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 530646733
+        b: 1222125383
+        c: 522085524
+        d: 1898326715
+    Name: Fame_CompetitiveDeed_ContinentCulturallyDominated
+  - AudioEventHandleReference:
+      guid:
+        a: -1006625475
+        b: 1322377034
+        c: 310964368
+        d: -144019800
+    Name: Fame_CompetitiveDeed_NuclearUnitCreated
+  - AudioEventHandleReference:
+      guid:
+        a: -1913453526
+        b: 1252224262
+        c: 1707952831
+        d: 258125626
+    Name: Fame_CompetitiveDeed_RepeatableCompleted_ScienceExperiment
+  - AudioEventHandleReference:
+      guid:
+        a: 1745760114
+        b: 1235965008
+        c: -566261332
+        d: -64916949
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1237943009
+        b: 1216020221
+        c: 1259715213
+        d: -627733540
+    Name: Fame_CompetitiveDeed_ContinentMapped
+  - AudioEventHandleReference:
+      guid:
+        a: 1246742309
+        b: 1147084123
+        c: -1800700258
+        d: 2116742243
+    Name: Fame_CompetitiveDeed_WorldCircumnavigated
+  - AudioEventHandleReference:
+      guid:
+        a: 315483070
+        b: 1174895698
+        c: 406320561
+        d: 1565120925
+    Name: Fame_CompetitiveDeed_WorldMapped
+  - AudioEventHandleReference:
+      guid:
+        a: 1694782930
+        b: 1253595035
+        c: 1758807728
+        d: 1440391967
+    Name: Fame_CompetitiveDeed_AllResourcesAccessed
+  - AudioEventHandleReference:
+      guid:
+        a: -300640862
+        b: 1084638139
+        c: -500092277
+        d: -267791452
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1042655415
+        b: 1222060570
+        c: 791498936
+        d: 728214304
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1109102583
+        b: 1103948709
+        c: 1430261434
+        d: -1352946799
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1791653637
+        b: 1096591038
+        c: 6579105
+        d: 739278107
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 7498426
+        b: 1276724756
+        c: -1512233598
+        d: -644236338
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1712591581
+        b: 1105647507
+        c: 1609290132
+        d: 709142669
+    Name: Fame_CompetitiveDeed_ContinentConquered
+  - AudioEventHandleReference:
+      guid:
+        a: -727609168
+        b: 1308183864
+        c: -583180128
+        d: -1225490492
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 469561507
+        b: 1301141359
+        c: -827080055
+        d: 487985159
+    Name: 
+--- !u!114 &-7149074799159169342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionRansacked
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 9
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: -2072977131
+        b: 1145374660
+        c: -605929031
+        d: -485202445
+    Name: 
+--- !u!114 &-6873087482486115097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionFirstStarvation
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 8
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: 1835566842
+        b: 1205320421
+        c: -418003524
+        d: -985968582
+    Name: 
+--- !u!114 &-3786163797569146990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionNaturalWonderDiscovered
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 1
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: -1527217217
+        b: 1263372338
+        c: -1356917858
+        d: -45618431
+    Name: NaturalWonder_LakeBaikal
+  - AudioEventHandleReference:
+      guid:
+        a: 1927982161
+        b: 1299622859
+        c: 157361586
+        d: -1433209523
+    Name: NaturalWonder_DanakilDesert
+  - AudioEventHandleReference:
+      guid:
+        a: -1230465519
+        b: 1320123440
+        c: -2010637406
+        d: 560186811
+    Name: NaturalWonder_GreatBlueHole
+  - AudioEventHandleReference:
+      guid:
+        a: -1937264275
+        b: 1241198428
+        c: 809567930
+        d: 31870133
+    Name: NaturalWonder_MountMulu
+  - AudioEventHandleReference:
+      guid:
+        a: -1180882542
+        b: 1211118730
+        c: -608539473
+        d: 686559504
+    Name: NaturalWonder_MountEverest
+  - AudioEventHandleReference:
+      guid:
+        a: 938684859
+        b: 1119739383
+        c: -2079171698
+        d: -587427872
+    Name: NaturalWonder_MountRoraima
+  - AudioEventHandleReference:
+      guid:
+        a: 1744499395
+        b: 1121476292
+        c: 301829803
+        d: 823121824
+    Name: NaturalWonder_PeritoMorenoGlacier
+  - AudioEventHandleReference:
+      guid:
+        a: -1505733355
+        b: 1101489360
+        c: 1162581140
+        d: -1117295269
+    Name: NaturalWonder_LakeHillier
+  - AudioEventHandleReference:
+      guid:
+        a: 1202373097
+        b: 1130902884
+        c: -1235327298
+        d: 1753689800
+    Name: NaturalWonder_MountVesuvius
+  - AudioEventHandleReference:
+      guid:
+        a: 203125803
+        b: 1270543474
+        c: 2140015289
+        d: 1342693674
+    Name: NaturalWonder_GreatBarrierReef
+  - AudioEventHandleReference:
+      guid:
+        a: 656666442
+        b: 1335414031
+        c: 1122189730
+        d: 792867422
+    Name: NaturalWonder_HalongBay
+  - AudioEventHandleReference:
+      guid:
+        a: 1908943210
+        b: 1336186280
+        c: 1423889065
+        d: 619235422
+    Name: NaturalWonder_KawahIjen
+  - AudioEventHandleReference:
+      guid:
+        a: 1268772164
+        b: 1136343097
+        c: 1488449180
+        d: -1405080766
+    Name: NaturalWonder_Vinicunca
+  - AudioEventHandleReference:
+      guid:
+        a: 1172158092
+        b: 1082959564
+        c: -1528825188
+        d: 563811376
+    Name: NaturalWonder_Yellowstone
+  - AudioEventHandleReference:
+      guid:
+        a: 1558519369
+        b: 1097445440
+        c: 239170976
+        d: 1705987694
+    Name: 
+--- !u!114 &-3058684603370824955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionFirstNuclearDetection
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 7
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: 2001426316
+        b: 1126227204
+        c: 1005442950
+        d: 136952835
+    Name: 
+--- !u!114 &-1058799785272051586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionReligionChange
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 5
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: -1502127313
+        b: 1224089056
+        c: -1324898122
+        d: 144991498
+    Name: ReligionNamedPolytheism
+  - AudioEventHandleReference:
+      guid:
+        a: -421428687
+        b: 1238899570
+        c: -934522964
+        d: -2083313659
+    Name: ReligionNamedShamanism
+  - AudioEventHandleReference:
+      guid:
+        a: -41608986
+        b: 1095137494
+        c: 736662671
+        d: 351889102
+    Name: ReligionNamed01
+  - AudioEventHandleReference:
+      guid:
+        a: -1622223682
+        b: 1097026627
+        c: 1659467660
+        d: -1509011869
+    Name: ReligionNamed02
+  - AudioEventHandleReference:
+      guid:
+        a: -2141266191
+        b: 1166386060
+        c: 1058448301
+        d: -418529177
+    Name: ReligionNamed03
+  - AudioEventHandleReference:
+      guid:
+        a: -357341536
+        b: 1092911028
+        c: -1830251591
+        d: -1322471029
+    Name: ReligionNamed04
+  - AudioEventHandleReference:
+      guid:
+        a: 2135328943
+        b: 1321677744
+        c: -1644274529
+        d: 1002980625
+    Name: ReligionNamed05
+  - AudioEventHandleReference:
+      guid:
+        a: 321441292
+        b: 1143600358
+        c: 101727678
+        d: 871207464
+    Name: ReligionNamed06
+  - AudioEventHandleReference:
+      guid:
+        a: -163114579
+        b: 1255558126
+        c: -2129729884
+        d: -1120108708
+    Name: ReligionNamed07
+  - AudioEventHandleReference:
+      guid:
+        a: -842614355
+        b: 1319794393
+        c: -1092184184
+        d: 839154169
+    Name: ReligionNamed08
+  - AudioEventHandleReference:
+      guid:
+        a: -1414964891
+        b: 1079428943
+        c: 411654047
+        d: -234541501
+    Name: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1291085151, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &26669256712135815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionArtificialWonderBuiltByYou
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 6
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: -1664866542
+        b: 1171387625
+        c: -86920007
+        d: 218983564
+    Name: Extension_ArtificialWonder_Era1_HangingGardensOfBabylon
+  - AudioEventHandleReference:
+      guid:
+        a: -1727641282
+        b: 1289906948
+        c: -2092784194
+        d: 40374709
+    Name: Extension_ArtificialWonder_Era1_PyramidOfGiza
+  - AudioEventHandleReference:
+      guid:
+        a: -834543413
+        b: 1121349617
+        c: -1255511162
+        d: 884607459
+    Name: Extension_ArtificialWonder_Era1_Stonehenge
+  - AudioEventHandleReference:
+      guid:
+        a: -748220301
+        b: 1100738986
+        c: -2009386872
+        d: -182204443
+    Name: Extension_ArtificialWonder_Era1_TempleOfArtemis
+  - AudioEventHandleReference:
+      guid:
+        a: 2047664194
+        b: 1234077005
+        c: -956616001
+        d: -1850179043
+    Name: Extension_ArtificialWonder_Era2_ColossusOfRhodes
+  - AudioEventHandleReference:
+      guid:
+        a: -411116906
+        b: 1121246325
+        c: 2030307218
+        d: -433650852
+    Name: Extension_ArtificialWonder_Era2_LighthouseOfAlexandria
+  - AudioEventHandleReference:
+      guid:
+        a: -354217007
+        b: 1304238071
+        c: 294730116
+        d: -621047091
+    Name: Extension_ArtificialWonder_Era2_MausoleumAtHalicarnassus
+  - AudioEventHandleReference:
+      guid:
+        a: 270275257
+        b: 1211250601
+        c: -165059919
+        d: 2135805673
+    Name: Extension_ArtificialWonder_Era2_StatueOfZeus
+  - AudioEventHandleReference:
+      guid:
+        a: -726508276
+        b: 1273066002
+        c: 1016672905
+        d: -27141121
+    Name: Extension_ArtificialWonder_Era3_AngkorWat
+  - AudioEventHandleReference:
+      guid:
+        a: 457696102
+        b: 1309372492
+        c: 549706376
+        d: 972543972
+    Name: Extension_ArtificialWonder_Era3_ForbiddenCity
+  - AudioEventHandleReference:
+      guid:
+        a: 1798610506
+        b: 1317400128
+        c: -1643156302
+        d: 1541186014
+    Name: Extension_ArtificialWonder_Era3_NotreDameDeParis
+  - AudioEventHandleReference:
+      guid:
+        a: -905001056
+        b: 1286242057
+        c: -514373998
+        d: 444222320
+    Name: Extension_ArtificialWonder_Era3_TodaiJi
+  - AudioEventHandleReference:
+      guid:
+        a: 1758440080
+        b: 1269148458
+        c: 1761424821
+        d: 2070489137
+    Name: Extension_ArtificialWonder_Era4_MachuPicchu
+  - AudioEventHandleReference:
+      guid:
+        a: 707249167
+        b: 1318877545
+        c: 1552987530
+        d: 925547589
+    Name: Extension_ArtificialWonder_Era4_SaintBasilsCathedral
+  - AudioEventHandleReference:
+      guid:
+        a: -1561705695
+        b: 1113280439
+        c: 114192783
+        d: 1532795687
+    Name: Extension_ArtificialWonder_Era4_TajMahal
+  - AudioEventHandleReference:
+      guid:
+        a: 228869962
+        b: 1220758762
+        c: -1083244375
+        d: -1159747653
+    Name: Extension_ArtificialWonder_Era4_TopkapiPalace
+  - AudioEventHandleReference:
+      guid:
+        a: -1737087395
+        b: 1092350823
+        c: 673423004
+        d: 122979429
+    Name: Extension_ArtificialWonder_Era5_BigBen
+  - AudioEventHandleReference:
+      guid:
+        a: -1718966851
+        b: 1153560439
+        c: 1857813163
+        d: -2042100352
+    Name: Extension_ArtificialWonder_Era5_EiffelTower
+  - AudioEventHandleReference:
+      guid:
+        a: 1442409476
+        b: 1310811866
+        c: -742025072
+        d: -208566506
+    Name: Extension_ArtificialWonder_Era5_StatueOfLiberty
+  - AudioEventHandleReference:
+      guid:
+        a: -1656902638
+        b: 1282129061
+        c: -37752656
+        d: -288508333
+    Name: Extension_ArtificialWonder_Era6_ChristTheRedeemer
+  - AudioEventHandleReference:
+      guid:
+        a: -394533193
+        b: 1098377194
+        c: -132256334
+        d: -651879736
+    Name: Extension_ArtificialWonder_Era6_EmpireStateBuilding
+  - AudioEventHandleReference:
+      guid:
+        a: 1657894831
+        b: 1324103834
+        c: 1509126565
+        d: 1961602209
+    Name: Extension_ArtificialWonder_Era6_SydneyOperaHouse
+  - AudioEventHandleReference:
+      guid:
+        a: -1844884194
+        b: 1139776484
+        c: 2000490640
+        d: -1770689808
+    Name: 
+--- !u!114 &1470072193179047469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionRevolutionHappening
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 4
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: -1542241492
+        b: 1261768122
+        c: 232327858
+        d: -1067524378
+    Name: 
+--- !u!114 &4055722370801237739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionTechUnlocked
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 0
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: 663154305
+        b: 1302927909
+        c: 2079451799
+        d: 1819430601
+    Name: Technology_Era2_11
+  - AudioEventHandleReference:
+      guid:
+        a: -1586879297
+        b: 1092374109
+        c: -2099391050
+        d: 1583873734
+    Name: Technology_Era3_04
+  - AudioEventHandleReference:
+      guid:
+        a: 290597617
+        b: 1280832093
+        c: 856655502
+        d: -1570425442
+    Name: Technology_Era6_04
+--- !u!114 &4353256836416322711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionCompetitiveDeedLocked
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 3
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: -244333883
+        b: 1340455603
+        c: 562939291
+        d: -79474319
+    Name: Fame_CompetitiveDeed_NationalProjectCompleted
+  - AudioEventHandleReference:
+      guid:
+        a: -1750858022
+        b: 1292586807
+        c: 1135233410
+        d: 1864048445
+    Name: Fame_CompetitiveDeed_ResearchTechnology_Writing
+  - AudioEventHandleReference:
+      guid:
+        a: 619686990
+        b: 1335063370
+        c: -1110181233
+        d: -144583487
+    Name: Fame_CompetitiveDeed_ResearchTechnology_Printing
+  - AudioEventHandleReference:
+      guid:
+        a: -850009291
+        b: 1211241889
+        c: 727724460
+        d: -1588720044
+    Name: Fame_CompetitiveDeed_HolySiteBuilt
+  - AudioEventHandleReference:
+      guid:
+        a: -1508871031
+        b: 1267044483
+        c: -893858661
+        d: -160396690
+    Name: Fame_CompetitiveDeed_BuildRailtrail
+  - AudioEventHandleReference:
+      guid:
+        a: -1093764221
+        b: 1137621023
+        c: 1682229386
+        d: -1721709765
+    Name: Fame_CompetitiveDeed_UninhabitedContinentTreaded
+  - AudioEventHandleReference:
+      guid:
+        a: -407296740
+        b: 1126721784
+        c: 1493980343
+        d: -100826916
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1816963639
+        b: 1090886281
+        c: 1257942659
+        d: 866629566
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1015576106
+        b: 1195046554
+        c: 1802621338
+        d: -1552749539
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -799331912
+        b: 1324236723
+        c: -119369852
+        d: 1945638646
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1261030181
+        b: 1151714879
+        c: -43572035
+        d: -741511916
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -642972563
+        b: 1278012217
+        c: 420701110
+        d: -1267888805
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1798952941
+        b: 1291829925
+        c: 1756843175
+        d: -1274084634
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1715409921
+        b: 1185775978
+        c: -1740478787
+        d: -1393084030
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1366468756
+        b: 1122355848
+        c: 1027514515
+        d: 1287135141
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -891883978
+        b: 1161685820
+        c: 119168153
+        d: 957155319
+    Name: Fame_CompetitiveDeed_ResearchTechnology_ResearchInstitute
+  - AudioEventHandleReference:
+      guid:
+        a: -795963484
+        b: 1211978407
+        c: -456281707
+        d: -1146281734
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1402393540
+        b: 1130960655
+        c: -366101872
+        d: -346260474
+    Name: Fame_CompetitiveDeed_ContinentCulturallyDominated
+  - AudioEventHandleReference:
+      guid:
+        a: 815708057
+        b: 1300217180
+        c: 137159350
+        d: 1447063432
+    Name: Fame_CompetitiveDeed_NuclearUnitCreated
+  - AudioEventHandleReference:
+      guid:
+        a: 1134800420
+        b: 1267435184
+        c: -2097675610
+        d: -1148215213
+    Name: Fame_CompetitiveDeed_RepeatableCompleted_ScienceExperiment
+  - AudioEventHandleReference:
+      guid:
+        a: -1354578054
+        b: 1136188786
+        c: -1536481896
+        d: -1025335349
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 1271913875
+        b: 1110216459
+        c: 928662951
+        d: -1836713771
+    Name: Fame_CompetitiveDeed_ContinentMapped
+  - AudioEventHandleReference:
+      guid:
+        a: 2140721314
+        b: 1200164716
+        c: -1399390803
+        d: -1502359384
+    Name: Fame_CompetitiveDeed_WorldCircumnavigated
+  - AudioEventHandleReference:
+      guid:
+        a: 889238058
+        b: 1188947495
+        c: 1091739529
+        d: -1197986840
+    Name: Fame_CompetitiveDeed_WorldMapped
+  - AudioEventHandleReference:
+      guid:
+        a: -811911279
+        b: 1091873746
+        c: 487981202
+        d: 1309483759
+    Name: Fame_CompetitiveDeed_AllResourcesAccessed
+  - AudioEventHandleReference:
+      guid:
+        a: -2016204608
+        b: 1314626721
+        c: -978007889
+        d: -32896567
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: 294141343
+        b: 1096840045
+        c: 966689939
+        d: 935928770
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -296455645
+        b: 1324795934
+        c: -335471446
+        d: -413077417
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1823868449
+        b: 1298280512
+        c: 433737126
+        d: -532235311
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -410711866
+        b: 1271026817
+        c: -1665653074
+        d: -1227544022
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1545891520
+        b: 1152099663
+        c: -786726476
+        d: -1212385575
+    Name: Fame_CompetitiveDeed_ContinentConquered
+  - AudioEventHandleReference:
+      guid:
+        a: -1669610590
+        b: 1233930110
+        c: 1795995047
+        d: -387507649
+    Name: 
+  - AudioEventHandleReference:
+      guid:
+        a: -1175578956
+        b: 1290339382
+        c: 1911734431
+        d: -60898000
+    Name: 
+--- !u!114 &6058910722367558727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -305733939, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NarratorNotificationDefinitionTechMovieUnlocked
+  m_EditorClassIdentifier: 
+  NarratorEntryType: 10
+  Entries:
+  - AudioEventHandleReference:
+      guid:
+        a: 1704594151
+        b: 1333161273
+        c: 1153372089
+        d: -1332290501
+    Name: Technology_Era1_10
+  - AudioEventHandleReference:
+      guid:
+        a: -1875658161
+        b: 1319202262
+        c: 1572739214
+        d: 510799010
+    Name: Technology_Era2_01
+  - AudioEventHandleReference:
+      guid:
+        a: -1292392142
+        b: 1137805902
+        c: -1199103326
+        d: 510904422
+    Name: Technology_Era3_05
+  - AudioEventHandleReference:
+      guid:
+        a: 395931714
+        b: 1214178765
+        c: 726738365
+        d: 242559165
+    Name: Technology_Era4_05
+  - AudioEventHandleReference:
+      guid:
+        a: 150385047
+        b: 1276965216
+        c: -469932647
+        d: 197585973
+    Name: Technology_Era5_10
+  - AudioEventHandleReference:
+      guid:
+        a: 1312992946
+        b: 1181322616
+        c: -1612748415
+        d: -485175434
+    Name: Technology_Era6_22

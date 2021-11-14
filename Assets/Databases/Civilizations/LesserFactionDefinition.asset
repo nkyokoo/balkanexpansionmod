@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 255596104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: LesserFactionDefinition
+  m_EditorClassIdentifier: 
+--- !u!114 &939805730012292369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: LesserFaction
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Key: 112
+  Hidden: 0
+  DLCPrerequisite:
+    DownloadableContent: 0
+  EraReference:
+    serializableElementName: 
+  FactionType: 3
+  IsExclusive: 1
+  IsHidden: 1
+  IsUpgradable: 1
+  GameplayOrientation: 0
+  LegacyTraitReferences: []
+  TraitReferences: []
+  FactionAffinityReference:
+    serializableElementName: 
+  BuildingVisualAffinities: []
+  UnitVisualAffinities: []
+  FactionConstructibleVisualVariation: 0
+  AvatarCostumeVisualAffinity:
+    serializableElementName: AvatarCostumeAffinity_CostumeNotProducedYet
+  SkinColorReferences: []
+  HairColorReferences: []
+  LocalizedSettlementNames: []
+  LocalizedArmyNames:
+  - '%LesserFaction_GenericRoaming_ArmyName'
+  LocalizedSquadronNames: []
+  LocalizedMilitiaNames: []
+  LocalizedSiegeEngineNames: []
+  LandmarkNameAffinityReferences: []
+  MinorFactionArmyPatternReferences: []
+  MinorFactionMilitiaReference:
+    serializableElementName: 
+  MinorFactionNavalTransportReference:
+    serializableElementName: 
+  MinorFactionSiegeWeaponReferences:
+    serializableElementName: 

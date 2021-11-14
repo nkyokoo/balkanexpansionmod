@@ -1,0 +1,536 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9014729504415601546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeRaiseReservistArmy
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeRaiseReservistArmyTitle'
+  Description: '%SettlementActionTypeRaiseReservistArmyDescription'
+  Images:
+  - Value:
+      guid:
+        a: -520458433
+        b: 1130237289
+        c: 79440553
+        d: -488927207
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &-8788758963633272541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeAcquireTerritory
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeAcquireTerritoryTitle'
+  Description: '%SettlementActionTypeAcquireTerritoryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 615810185
+        b: 1192964587
+        c: -937230166
+        d: 877519437
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &-5175442242252123546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeAssimilateMinorFaction
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeAssimilateMinorFactionTitle'
+  Description: '%SettlementActionTypeAssimilateMinorFactionDescription'
+  Images:
+  - Value:
+      guid:
+        a: -227375937
+        b: 1318918900
+        c: 1615281553
+        d: 1587536775
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &-4225704654939871314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeEvolveOutpostToCity
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeEvolveOutpostToCityTitle'
+  Description: '%SettlementActionTypeEvolveOutpostToCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -550981136
+        b: 1221418814
+        c: 2043132294
+        d: 1706036945
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &-3602152788297681816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeAssignAdministrator
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeAssignAdministratorTitle'
+  Description: '%SettlementActionTypeAssignAdministratorDescription'
+  Images:
+  - Value:
+      guid:
+        a: -728757629
+        b: 1076658454
+        c: -1300128115
+        d: 1865648641
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: '%SettlementScreenAssignAdministratorTitle'
+--- !u!114 &-2124027741905849988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeRenameSettlement
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeRenameSettlementTitle'
+  Description: '%SettlementActionTypeRenameSettlementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 803734946
+        b: 1295398724
+        c: -1527145314
+        d: 1521982460
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &-657713610863212017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeScienceMode
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeScienceModeTitle'
+  Description: '%SettlementActionTypeScienceModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2054771315
+        b: 1209986160
+        c: 1487826840
+        d: 472501429
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: SettlementActionTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &289475683238316062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeBanishPopulation
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeBanishPopulationTitle'
+  Description: '%SettlementActionTypeBanishPopulationDescription'
+  Images:
+  - Value:
+      guid:
+        a: -870390262
+        b: 1336194044
+        c: 639034796
+        d: -2117539032
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &311599060187671464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeChangeCapital
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeChangeCapitalTitle'
+  Description: '%SettlementActionTypeChangeCapitalDescription'
+  Images:
+  - Value:
+      guid:
+        a: -526862427
+        b: 1336255804
+        c: 1973246091
+        d: 263785637
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &350203972495385673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeLiberateSettlement
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeLiberateSettlementTitle'
+  Description: '%SettlementActionTypeLiberateSettlementDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: '%SettlementActionTypeLiberateSettlementShortTitle'
+--- !u!114 &728367096699529039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeUnassignAdministrator
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeUnassignAdministratorTitle'
+  Description: '%SettlementActionTypeUnassignAdministratorDescription'
+  Images:
+  - Value:
+      guid:
+        a: -434360236
+        b: 1226550122
+        c: -1234532418
+        d: 1471849920
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: '%SettlementScreenUnassignAdministratorTitle'
+--- !u!114 &1559487747409043461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeSacrificePopulation
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeSacrificePopulationTitle'
+  Description: '%SettlementActionTypeSacrificePopulationDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1676471591
+        b: 1113583382
+        c: 1375215804
+        d: -1274334530
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &1589234529132763535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeIndustryMode
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeIndustryModeTitle'
+  Description: '%SettlementActionTypeIndustryModeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &1607372000943183800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeMoneyMode
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeMoneyModeTitle'
+  Description: '%SettlementActionTypeMoneyModeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -763813860
+        b: 1288927134
+        c: 1297705096
+        d: 575041343
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &1648105522175068005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeAbsorbCity
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeAbsorbCityTitle'
+  Description: '%SettlementActionTypeAbsorbCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1519453336
+        b: 1220779528
+        c: 1983462586
+        d: -1683794815
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: '%SettlementActionTypeAbsorbCityShortTitle'
+--- !u!114 &2408961096967311804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypePatronizeMinorFactionWithMoney
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypePatronizeMinorFactionWithMoneyTitle'
+  Description: '%SettlementActionTypePatronizeMinorFactionWithMoneyDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &2739209238366319841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeProcession
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeProcessionTitle'
+  Description: '%SettlementActionTypeProcessionDescription'
+  Images:
+  - Value:
+      guid:
+        a: 104533183
+        b: 1141553887
+        c: 1520978348
+        d: -1211539235
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &4451322627646895987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeAttachTerritory
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeAttachTerritoryTitle'
+  Description: '%SettlementActionTypeAttachTerritoryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 400268230
+        b: 1151849977
+        c: 1219613061
+        d: 847738121
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: '%SettlementActionTypeAttachTerritoryShortTitle'
+--- !u!114 &5298411275235604286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypePatronizeMinorFaction
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypePatronizeMinorFactionTitle'
+  Description: '%SettlementActionTypePatronizeMinorFactionDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1923466703
+        b: 1177684781
+        c: -918505307
+        d: 1446436575
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &5668882982449575929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeInquisition
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeInquisitionTitle'
+  Description: '%SettlementActionTypeInquisitionDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1322597928
+        b: 1197151621
+        c: 1277942953
+        d: -1330967660
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &6304558748185084683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypePatronizeMinorFactionWithInfluence
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypePatronizeMinorFactionWithInfluenceTitle'
+  Description: '%SettlementActionTypePatronizeMinorFactionWithInfluenceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: 
+--- !u!114 &7966004505192324895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -250549053, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SettlementActionTypeDetachTerritory
+  m_EditorClassIdentifier: 
+  Title: '%SettlementActionTypeDetachTerritoryTitle'
+  Description: '%SettlementActionTypeDetachTerritoryDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1883903407
+        b: 1279799853
+        c: 792977592
+        d: -1938077061
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  ShortTitle: '%SettlementActionTypeDetachTerritoryShortTitle'

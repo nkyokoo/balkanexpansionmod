@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9086024335712375872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2099657076, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SiegeStatesSortie
+  m_EditorClassIdentifier: 
+  Title: '%SiegeStatesSortieTitle'
+  Description: '%SiegeStatesSortieDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  AttackerRoleTitle: '%BattleGroupRoleTypeDefenderTitle'
+  DefenderRoleTitle: '%BattleGroupRoleTypeAttackerTitle'
+--- !u!114 &-4599996440004855027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2099657076, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SiegeStatesAssault
+  m_EditorClassIdentifier: 
+  Title: '%SiegeStatesAssaultTitle'
+  Description: '%SiegeStatesAssaultDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  AttackerRoleTitle: '%BattleGroupRoleTypeAttackerTitle'
+  DefenderRoleTitle: '%BattleGroupRoleTypeDefenderTitle'
+--- !u!114 &-2843881848155678220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2099657076, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SiegeStatesWaitTurn
+  m_EditorClassIdentifier: 
+  Title: '%SiegeStatesWaitTurnTitle'
+  Description: '%SiegeStatesWaitTurnDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  AttackerRoleTitle: '%BattleGroupRoleTypeAttackerTitle'
+  DefenderRoleTitle: '%BattleGroupRoleTypeDefenderTitle'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: SiegeStatesUIMappers
+  m_EditorClassIdentifier: 

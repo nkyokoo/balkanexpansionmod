@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8998038405689253915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -263574918, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TradeRoadStatusSuspended
+  m_EditorClassIdentifier: 
+  Title: '%TradeRoadStatusSuspendedTitle'
+  Description: 
+  Images: []
+  Color: {r: 0.7529412, g: 0.28627452, b: 0.28627452, a: 1}
+  Symbol: 
+  TradeRoadAssociatedDistrictName: 
+--- !u!114 &-7156585448707260958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -263574918, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TradeRoadPathTypesAerial
+  m_EditorClassIdentifier: 
+  Title: '%TradeRoadPathTypesAerialTitle'
+  Description: '%TradeRoadPathTypesAerialDescription'
+  Images:
+  - Value:
+      guid:
+        a: 2067178117
+        b: 1264204581
+        c: -637021782
+        d: 359044345
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  TradeRoadAssociatedDistrictName: '%ConstructibleExtension_Base_AirportTitle'
+--- !u!114 &-4437214767264622812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -263574918, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TradeRoadStatusActive
+  m_EditorClassIdentifier: 
+  Title: '%DiplomaticTradePanelExtractorPurchasedTitle'
+  Description: 
+  Images: []
+  Color: {r: 0.6039216, g: 0.85490197, b: 0.30980393, a: 1}
+  Symbol: 
+  TradeRoadAssociatedDistrictName: 
+--- !u!114 &-4015103912001053791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -263574918, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TradeRoadPathTypesNaval
+  m_EditorClassIdentifier: 
+  Title: '%TradeRoadPathTypesNavalTitle'
+  Description: '%TradeRoadPathTypesNavalDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1462223516
+        b: 1240753867
+        c: 1474772361
+        d: 1847473238
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  TradeRoadAssociatedDistrictName: '%ConstructibleExtension_HarbourTitle'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: TradeUIMapper
+  m_EditorClassIdentifier: 
+--- !u!114 &7508979340044229701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -263574918, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TradeRoadStatusDestroyed
+  m_EditorClassIdentifier: 
+  Title: '%TradeRoadStatusDestroyedTitle'
+  Description: 
+  Images: []
+  Color: {r: 0.7529412, g: 0.28627452, b: 0.28627452, a: 1}
+  Symbol: 
+  TradeRoadAssociatedDistrictName: 
+--- !u!114 &8823562772655845901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -263574918, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TradeRoadPathTypesLand
+  m_EditorClassIdentifier: 
+  Title: '%TradeRoadPathTypesLandTitle'
+  Description: '%TradeRoadPathTypesLandDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1020071232
+        b: 1334550322
+        c: 111242685
+        d: 1013797500
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  TradeRoadAssociatedDistrictName: '%RoundHouseTitle'

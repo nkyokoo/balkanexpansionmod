@@ -1,0 +1,318 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7883319330115850802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_StoneField
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_StoneFieldTitle'
+  Description: '%TerrainType_StoneFieldDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%PrairieBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%PrairieBattleSpecialRuleDescription'
+--- !u!114 &-6587804220044167030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_CoastalWater
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_CoastalWaterTitle'
+  Description: '%TerrainType_CoastalWaterDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%CoastalWaterBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%CoastalWaterBattleSpecialRuleDescription'
+--- !u!114 &-5718456315137517519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Prairie
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_PrairieTitle'
+  Description: '%TerrainType_PrairieDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%PrairieBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%PrairieBattleSpecialRuleDescription'
+--- !u!114 &-3668210342571254616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Mountain
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_MountainTitle'
+  Description: '%TerrainType_MountainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%MountainBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%MountainBattleSpecialRuleDescription'
+--- !u!114 &-1160684892869903558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Ocean
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_OceanTitle'
+  Description: '%TerrainType_OceanDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%OceanBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%OceanBattleSpecialRuleDescription'
+--- !u!114 &-707449135475395649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Forest
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_ForestTitle'
+  Description: '%TerrainType_ForestDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%ForestBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%ForestBattleSpecialRuleDescription'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: TerrainTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &490198500831484514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_RockyForest
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_RockyForestTitle'
+  Description: '%TerrainType_RockyForestDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%RockyForestBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%RockyForestBattleSpecialRuleDescription'
+--- !u!114 &828629855973192001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_WoodLand
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_WoodLandTitle'
+  Description: '%TerrainType_WoodLandDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%WoodLandBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%WoodLandBattleSpecialRuleDescription'
+--- !u!114 &1545361733560911925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_MountainSnow
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_MountainTitle'
+  Description: '%TerrainType_MountainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%MountainBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%MountainBattleSpecialRuleDescription'
+--- !u!114 &3165210908466384749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Wasteland
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_WastelandTitle'
+  Description: '%TerrainType_WastelandDescription'
+  Images: []
+  Color: {r: 1, g: 0, b: 1, a: 1}
+  Symbol: 
+  BattleSpecialRuleTitle: '%WastelandBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%WastelandBattleSpecialRuleDescription'
+--- !u!114 &3326441359432526766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Fortified
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_FortifiedTitle'
+  Description: '%TerrainType_FortifiedDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%FortifiedBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%FortifiedBattleSpecialRuleDescription'
+--- !u!114 &3341437760984868524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Lake
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_LakeTitle'
+  Description: '%TerrainType_LakeDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%LakeBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%LakeBattleSpecialRuleDescription'
+--- !u!114 &4789139198808875516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_RockyField
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_RockyFieldTitle'
+  Description: '%TerrainType_RockyFieldDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%PrairieBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%PrairieBattleSpecialRuleDescription'
+--- !u!114 &6131939905052557624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_CityTerrain
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_CityTerrainTitle'
+  Description: '%TerrainType_CityTerrainDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%CityTerrainBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%CityTerrainBattleSpecialRuleDescription'
+--- !u!114 &7154661533095041468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_Sterile
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_SterileTitle'
+  Description: '%TerrainType_SterileDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%SterileBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%SterileBattleSpecialRuleDescription'
+--- !u!114 &9024916748707563155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 597554791, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: TerrainType_DryGrass
+  m_EditorClassIdentifier: 
+  Title: '%TerrainType_DryGrassTitle'
+  Description: '%TerrainType_DryGrassDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  BattleSpecialRuleTitle: '%DryGrassBattleSpecialRuleTitle'
+  BattleSpecialRuleDescription: '%DryGrassBattleSpecialRuleDescription'

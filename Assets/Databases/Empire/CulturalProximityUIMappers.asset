@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8176739998955860840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1574016805, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CulturalProximity_Kinship
+  m_EditorClassIdentifier: 
+  Title: '%CulturalProximity_KinshipTitle'
+  Description: '%CulturalProximity_KinshipDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  MinorFactionAttitude: '%CulturalProximity_KinshipMinorFactionAttitude'
+  MinorFactionDescription: '%CulturalProximity_KinshipMinorFactionDescription'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: CulturalProximityUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &1067912955566226851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1574016805, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CulturalProximity_Distrust
+  m_EditorClassIdentifier: 
+  Title: '%CulturalProximity_DistrustTitle'
+  Description: '%CulturalProximity_DistrustDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  MinorFactionAttitude: '%CulturalProximity_DistrustMinorFactionAttitude'
+  MinorFactionDescription: '%CulturalProximity_DistrustMinorFactionDescription'
+--- !u!114 &3949619157728247241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1574016805, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: CulturalProximity_Tolerance
+  m_EditorClassIdentifier: 
+  Title: '%CulturalProximity_ToleranceTitle'
+  Description: '%CulturalProximity_ToleranceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  MinorFactionAttitude: '%CulturalProximity_ToleranceMinorFactionAttitude'
+  MinorFactionDescription: '%CulturalProximity_ToleranceMinorFactionDescription'

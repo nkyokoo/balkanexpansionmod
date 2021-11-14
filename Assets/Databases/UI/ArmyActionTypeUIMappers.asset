@@ -1,0 +1,679 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5207033984703173192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeCreateCamp
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeCreateCampTitle'
+  Description: '%ArmyActionTypeCreateCampDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1874255628
+        b: 1201424087
+        c: -686221897
+        d: -81444828
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4797750173398331914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeAirPatrol
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeAirPatrolTitle'
+  Description: '%ArmyActionTypeAirPatrolDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-4511800855345834842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeRansack
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeRansackTitle'
+  Description: '%ArmyActionTypeRansackDescription'
+  Images:
+  - Value:
+      guid:
+        a: -2102915367
+        b: 1090689869
+        c: -1579640658
+        d: -2054312322
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2547926900132937810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeHealUnits
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeHealUnitsTitle'
+  Description: '%ArmyActionTypeHealUnitsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -449168216
+        b: 1255421863
+        c: -574551397
+        d: 2070516650
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-2022552177257799412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeNuclear
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeNuclearTitle'
+  Description: '%ArmyActionTypeNuclearDescription'
+  Images:
+  - Value:
+      guid:
+        a: 682713994
+        b: 1142607793
+        c: -1168211277
+        d: -781869414
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1717311063695135393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeRenameUnit
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeRenameUnitTitle'
+  Description: '%ArmyActionTypeRenameUnitDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1451320434
+        b: 1153798899
+        c: -1989449037
+        d: -1765255502
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1623546394277673839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeAutoExplore
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeAutoExploreTitle'
+  Description: '%ArmyActionTypeAutoExploreDescription'
+  Images:
+  - Value:
+      guid:
+        a: 515145758
+        b: 1308192845
+        c: 645731756
+        d: 127017648
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1421330031816119233
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeUseAirport
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeUseAirportTitle'
+  Description: '%ArmyActionTypeUseAirportDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1868667539
+        b: 1298280578
+        c: -1513790278
+        d: 737234977
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1376190032775907601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeUpgradeUnits
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeUpgradeUnitsTitle'
+  Description: '%ArmyActionTypeUpgradeUnitsDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1844927118
+        b: 1118766712
+        c: -1991321722
+        d: -808920557
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1328553683546591729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeAttackSettlement
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeAttackSettlementTitle'
+  Description: '%ArmyActionTypeAttackSettlementDescription'
+  Images:
+  - Value:
+      guid:
+        a: 888362812
+        b: 1133014123
+        c: -1492973916
+        d: -1513576279
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1283953489106810003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeBribe
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeBribeTitle'
+  Description: '%ArmyActionTypeBribeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -878074456
+        b: 1138322579
+        c: -332430168
+        d: 920233954
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-1264201885434198398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeMove
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeMoveTitle'
+  Description: '%ArmyActionTypeMoveDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1615896969
+        b: 1326380881
+        c: -1250663510
+        d: -2057534346
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-968800417557874317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeTransferUnits
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeTransferUnitsTitle'
+  Description: '%ArmyActionTypeTransferUnitsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -757155304
+        b: 1112022380
+        c: -1568434268
+        d: -498551975
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &-514813088105480013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeSleep
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeSleepTitle'
+  Description: '%ArmyActionTypeSleepDescription'
+  Images:
+  - Value:
+      guid:
+        a: -320259982
+        b: 1206737196
+        c: 1332971446
+        d: -307922025
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &1899645683314622566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeMissileStrike
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeMissileStrikeTitle'
+  Description: '%ArmyActionTypeMissileStrikeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -949854005
+        b: 1214323345
+        c: -2020984898
+        d: -1301388785
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &1966348500726515029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeDisbandUnits
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeDisbandUnitsTitle'
+  Description: '%ArmyActionTypeDisbandUnitsDescription'
+  Images:
+  - Value:
+      guid:
+        a: -443156424
+        b: 1099212118
+        c: -2102634102
+        d: 673461683
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &2950621470663515935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeSleepUntilHealed
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeSleepUntilHealedTitle'
+  Description: '%ArmyActionTypeSleepUntilHealedDescription'
+  Images:
+  - Value:
+      guid:
+        a: -298066376
+        b: 1340075442
+        c: 1449910153
+        d: 1719429920
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3093767642888969865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeAirStrike
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeAirStrikeTitle'
+  Description: '%ArmyActionTypeAirStrikeDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1705505687
+        b: 1145383683
+        c: 345703350
+        d: 993888916
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3190801160626451235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeFoundCity
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeFoundCityTitle'
+  Description: '%ArmyActionTypeFoundCityDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1534019430
+        b: 1134852791
+        c: 1727482279
+        d: 1612160866
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &3248478764642499056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeCutForest
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeCutForestTitle'
+  Description: 
+  Images:
+  - Value:
+      guid:
+        a: -443671172
+        b: 1288101354
+        c: 1005240456
+        d: -1345650207
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &4915623301552138695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeAttackArmy
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeAttackArmyTitle'
+  Description: '%ArmyActionTypeAttackArmyDescription'
+  Images:
+  - Value:
+      guid:
+        a: 184549780
+        b: 1308951756
+        c: 878233790
+        d: 2040165275
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &5383083861592172060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeSiege
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeSiegeTitle'
+  Description: '%ArmyActionTypeSiegeDescription'
+  Images:
+  - Value:
+      guid:
+        a: -869988987
+        b: 1206688974
+        c: 130002608
+        d: 1422555586
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6357107636872871991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeBombard
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeBombardTitle'
+  Description: '%ArmyActionTypeBombardDescription'
+  Images:
+  - Value:
+      guid:
+        a: -990294345
+        b: 1303616219
+        c: -739870590
+        d: 1635286732
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &6444359419602719687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeSkipTurn
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeSkipTurnTitle'
+  Description: '%ArmyActionTypeSkipTurnDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1609086995
+        b: 1288168331
+        c: 2046728076
+        d: -385259704
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7217704242047632265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeGiveCamp
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeGiveCampTitle'
+  Description: '%ArmyActionTypeGiveCampDescription'
+  Images:
+  - Value:
+      guid:
+        a: 745172047
+        b: 1235986596
+        c: -1599571274
+        d: 2128546661
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7312877543382936598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeRentArmy
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeRentArmyTitle'
+  Description: '%ArmyActionTypeRentArmyDescription'
+  Images:
+  - Value:
+      guid:
+        a: -1303186332
+        b: 1275049028
+        c: -249073240
+        d: -1800743594
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7523740115072527441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeFoundCityWithSettler
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeFoundCityWithSettlerTitle'
+  Description: '%ArmyActionTypeFoundCityWithSettlerDescription'
+  Images:
+  - Value:
+      guid:
+        a: 1534019430
+        b: 1134852791
+        c: 1727482279
+        d: 1612160866
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+--- !u!114 &7732135546870081607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 981126955, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ArmyActionTypeRename
+  m_EditorClassIdentifier: 
+  Title: '%ArmyActionTypeRenameTitle'
+  Description: '%ArmyActionTypeRenameDescription'
+  Images:
+  - Value:
+      guid:
+        a: 713575372
+        b: 1334343043
+        c: -1159789396
+        d: -914398859
+    serializableKey: Picto
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 

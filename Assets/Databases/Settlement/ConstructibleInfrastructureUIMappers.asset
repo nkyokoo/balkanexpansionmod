@@ -1,0 +1,3050 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9087564756376588528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_Food_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -480881679
+        b: 1257546426
+        c: -870511186
+        d: -1213907275
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -130727363
+        b: 1239810660
+        c: -167705444
+        d: -2087038213
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5002
+  ConstructibleTraits: 
+--- !u!114 &-9072347547643944377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family04_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family04_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family04_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 891616820
+        b: 1248646848
+        c: -2113928783
+        d: -2073074726
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -959472045
+        b: 1198403403
+        c: 206848958
+        d: -876890174
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5011
+  ConstructibleTraits: 
+--- !u!114 &-9035042703327368130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Harbour_Family01_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Harbour_Family01_03Title'
+  Description: '%ConstructibleInfrastructure_Harbour_Family01_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -2114455715
+        b: 1076766928
+        c: 355186584
+        d: 2116255883
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 832704121
+        b: 1117105575
+        c: -1229751639
+        d: -486126830
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5005
+  ConstructibleTraits: 
+--- !u!114 &-9010760876192640473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -633567092
+        b: 1282382742
+        c: -528944742
+        d: -394783948
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1968159738
+        b: 1317196043
+        c: 802390430
+        d: 619095277
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5024
+  ConstructibleTraits: 
+--- !u!114 &-8442741699746638831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_Science_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -851815815
+        b: 1332916498
+        c: 1213198474
+        d: -227013224
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 2054385817
+        b: 1084727516
+        c: 626023320
+        d: -109201836
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5037
+  ConstructibleTraits: 
+--- !u!114 &-8301257735259493652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family04_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family04_01Title'
+  Description: '%ConstructibleInfrastructure_Science_Family04_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1103408960
+        b: 1224311582
+        c: -352655181
+        d: -1096986742
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1699135645
+        b: 1259949177
+        c: 1208915127
+        d: 895706531
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5039
+  ConstructibleTraits: 
+--- !u!114 &-7964762434247327981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family03_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family03_03Title'
+  Description: '%ConstructibleInfrastructure_Science_Family03_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -388113422
+        b: 1296801486
+        c: 1745789591
+        d: 619695503
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1139230843
+        b: 1209095185
+        c: -725151586
+        d: 1138979124
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5038
+  ConstructibleTraits: 
+--- !u!114 &-7528891428302558395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_Money_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1654834804
+        b: 1093864619
+        c: -1965939575
+        d: -338124483
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1148546045
+        b: 1290346622
+        c: 1666092439
+        d: -198488644
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5025
+  ConstructibleTraits: 
+--- !u!114 &-6881027982118782720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family04_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family04_03Title'
+  Description: '%ConstructibleInfrastructure_Science_Family04_03Description'
+  Images:
+  - Value:
+      guid:
+        a: 668876455
+        b: 1295159553
+        c: 1076927124
+        d: -1210802559
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1215533109
+        b: 1134849761
+        c: -1360553031
+        d: -1985260557
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5039
+  ConstructibleTraits: 
+--- !u!114 &-6828887461733854099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_Science_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1556016493
+        b: 1264921876
+        c: -950062970
+        d: 340890473
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1263131656
+        b: 1248011855
+        c: -233359706
+        d: -79939279
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5037
+  ConstructibleTraits: 
+--- !u!114 &-6562511742045415712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_Food_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 411249600
+        b: 1154623233
+        c: -1510589056
+        d: -1677256144
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 971694745
+        b: 1313648972
+        c: 1849451913
+        d: 1645470179
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5001
+  ConstructibleTraits: 
+--- !u!114 &-6559330809528091883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family02_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family02_03Title'
+  Description: '%ConstructibleInfrastructure_Science_Family02_03Description'
+  Images:
+  - Value:
+      guid:
+        a: 392861916
+        b: 1087905619
+        c: -1944219221
+        d: -265369017
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1957346875
+        b: 1169893950
+        c: -1089334877
+        d: 951881891
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5037
+  ConstructibleTraits: 
+--- !u!114 &-6520267478571644109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1413661771
+        b: 1161680587
+        c: -1160467830
+        d: 930220431
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -321450155
+        b: 1326359476
+        c: 847521198
+        d: 1025253216
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5008
+  ConstructibleTraits: 
+--- !u!114 &-6007099902120261764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family05_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family05_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family05_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -2049492387
+        b: 1094976877
+        c: 288100533
+        d: 871925418
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1469683732
+        b: 1274776141
+        c: 23953594
+        d: 236501547
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5012
+  ConstructibleTraits: 
+--- !u!114 &-5445569779771757457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family06_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family06_02Title'
+  Description: '%ConstructibleInfrastructure_Military_Family06_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 823377633
+        b: 1318259764
+        c: 197447841
+        d: -1839379130
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2071434421
+        b: 1183276970
+        c: -660608592
+        d: -431853965
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5022
+  ConstructibleTraits: 
+--- !u!114 &-5343392240428051679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family02_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family02_03Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family02_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -110893298
+        b: 1294705982
+        c: 1680054146
+        d: 754852997
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1432896990
+        b: 1124451293
+        c: -1837034618
+        d: -1144379085
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5031
+  ConstructibleTraits: 
+--- !u!114 &-5149789272736052210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family04_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family04_02Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family04_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -540945290
+        b: 1191030774
+        c: -1940307821
+        d: 705115683
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 567711198
+        b: 1225382839
+        c: 783962781
+        d: 1457179156
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5033
+  ConstructibleTraits: 
+--- !u!114 &-5094035614726471033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family04_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family04_02Title'
+  Description: '%ConstructibleInfrastructure_Money_Family04_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1372273235
+        b: 1138330656
+        c: -668107375
+        d: -1681955737
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1588779403
+        b: 1285840643
+        c: -1030393688
+        d: -1506413085
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5027
+  ConstructibleTraits: 
+--- !u!114 &-4945481293761671956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family04_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family04_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family04_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -791211423
+        b: 1150477309
+        c: -671855191
+        d: -1900671894
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -444660159
+        b: 1315091154
+        c: -6663543
+        d: 855021991
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5027
+  ConstructibleTraits: 
+--- !u!114 &-4779094183627716069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family03_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family03_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family03_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1206504123
+        b: 1265047973
+        c: -1309231177
+        d: 1775061836
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1408299938
+        b: 1163168227
+        c: 416176538
+        d: 1072955617
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5010
+  ConstructibleTraits: 
+--- !u!114 &-4689354932905250790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1929498242
+        b: 1312591566
+        c: -1257933918
+        d: 1126753063
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1988543702
+        b: 1180382065
+        c: 1075846549
+        d: -1964879781
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5030
+  ConstructibleTraits: 
+--- !u!114 &-4637761232415393964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family03_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family03_02Title'
+  Description: '%ConstructibleInfrastructure_Military_Family03_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 76190978
+        b: 1275508478
+        c: 542534043
+        d: -1967843692
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1339278601
+        b: 1267732364
+        c: 1494380214
+        d: -979437401
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5019
+  ConstructibleTraits: 
+--- !u!114 &-4623854364900599795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family04_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family04_02Title'
+  Description: '%ConstructibleInfrastructure_Science_Family04_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1625012482
+        b: 1302404911
+        c: -69922916
+        d: -1087261577
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -143754063
+        b: 1123387082
+        c: 1784725409
+        d: 1765686864
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5039
+  ConstructibleTraits: 
+--- !u!114 &-4623833714311102802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Harbour_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Harbour_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_Harbour_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1773260738
+        b: 1115718036
+        c: 722668723
+        d: -825147415
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1209334863
+        b: 1247362386
+        c: -523908977
+        d: -1427539562
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5006
+  ConstructibleTraits: 
+--- !u!114 &-3718351528836812309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1117813176
+        b: 1107104869
+        c: -95861109
+        d: 923118175
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 119005246
+        b: 1275548183
+        c: -1690559612
+        d: 2137453524
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5009
+  ConstructibleTraits: 
+--- !u!114 &-3712796237076993273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family06_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family06_02Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family06_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1124519602
+        b: 1267247705
+        c: -1870503018
+        d: -1144259340
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -470941888
+        b: 1088697043
+        c: -1690504005
+        d: -478470626
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5035
+  ConstructibleTraits: 
+--- !u!114 &-3535887915772201895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family05_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family05_02Title'
+  Description: '%ConstructibleInfrastructure_Money_Family05_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1539249834
+        b: 1298138254
+        c: 373748645
+        d: 158947807
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -205100385
+        b: 1096764328
+        c: 1707699371
+        d: -2013700259
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5028
+  ConstructibleTraits: 
+--- !u!114 &-3438299093698713082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_Military_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 144110119
+        b: 1100398080
+        c: -1451661164
+        d: 2021812227
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1166362689
+        b: 1074323399
+        c: 850479034
+        d: 1521166841
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5018
+  ConstructibleTraits: 
+--- !u!114 &-3436207552294950305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_04
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family01_04Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family01_04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1213061867
+        b: 1325667023
+        c: 487592604
+        d: -1176245993
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2074460988
+        b: 1277332807
+        c: 697109401
+        d: -134035639
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5008
+  ConstructibleTraits: 
+--- !u!114 &-3414889128361727979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family01_00
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family01_00Title'
+  Description: '%ConstructibleInfrastructure_Military_Family01_00Description'
+  Images:
+  - Value:
+      guid:
+        a: 651124710
+        b: 1337623708
+        c: -55051640
+        d: -1635693056
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1866058879
+        b: 1129518084
+        c: 1125172123
+        d: -582050900
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5016
+  ConstructibleTraits: 
+--- !u!114 &-3167565906132292600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family04_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family04_02Title'
+  Description: '%ConstructibleInfrastructure_Military_Family04_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1241762586
+        b: 1233138690
+        c: 138005163
+        d: -80320912
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 753368871
+        b: 1083281070
+        c: -329516405
+        d: 234268707
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5020
+  ConstructibleTraits: 
+--- !u!114 &-2963290311216100658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_Food_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 2005068529
+        b: 1118860652
+        c: -684276855
+        d: 531114328
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1033915045
+        b: 1240673884
+        c: -651619415
+        d: -610592398
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5002
+  ConstructibleTraits: 
+--- !u!114 &-2921074338204111755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family06_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family06_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family06_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1714872931
+        b: 1243312462
+        c: -428351095
+        d: 1724175445
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2011834245
+        b: 1116698501
+        c: -95705970
+        d: -1283267027
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5013
+  ConstructibleTraits: 
+--- !u!114 &-2655575643987230248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family02_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family02_03Title'
+  Description: '%ConstructibleInfrastructure_Military_Family02_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1849102304
+        b: 1124040753
+        c: 393599927
+        d: 1413256590
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1343495312
+        b: 1302870176
+        c: -1862751836
+        d: -1798173121
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5018
+  ConstructibleTraits: 
+--- !u!114 &-2206913172636444580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family03_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family03_03Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family03_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -105109115
+        b: 1079155314
+        c: 363485608
+        d: -81015262
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1493978517
+        b: 1245175744
+        c: 1391144857
+        d: 2140607517
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5032
+  ConstructibleTraits: 
+--- !u!114 &-2053052089089224698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family05C_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family05C_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family05C_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -10486793
+        b: 1244444624
+        c: -156959084
+        d: 649801094
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -788598131
+        b: 1282932385
+        c: -1298362729
+        d: -321423711
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5034
+  ConstructibleTraits: 
+--- !u!114 &-2032353717731961345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family04_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family04_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family04_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1927643576
+        b: 1287225335
+        c: -307233380
+        d: 272780404
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 120116753
+        b: 1341877511
+        c: -1186121087
+        d: 1824961523
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5033
+  ConstructibleTraits: 
+--- !u!114 &-1831030349966921763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family03_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family03_02Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family03_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -786198310
+        b: 1119557260
+        c: 10519230
+        d: -1039897216
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1135437841
+        b: 1232527403
+        c: 707828637
+        d: 2003586319
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5032
+  ConstructibleTraits: 
+--- !u!114 &-1550038378976917178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family04_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family04_02Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family04_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -2084326200
+        b: 1178234965
+        c: -412679021
+        d: -1498537014
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 149696267
+        b: 1214552092
+        c: 704659868
+        d: -962178914
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5011
+  ConstructibleTraits: 
+--- !u!114 &-1416766759594390613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Harbour_Family02_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Harbour_Family02_03Title'
+  Description: '%ConstructibleInfrastructure_Harbour_Family02_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1931942950
+        b: 1092405648
+        c: 197522615
+        d: 1297241452
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2007977100
+        b: 1215698695
+        c: -1481440079
+        d: -1671279238
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5006
+  ConstructibleTraits: 
+--- !u!114 &-1322055068863360481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family04_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family04_03Title'
+  Description: '%ConstructibleInfrastructure_Military_Family04_03Description'
+  Images:
+  - Value:
+      guid:
+        a: 1445194961
+        b: 1172768189
+        c: -1043870797
+        d: -971289030
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -956248049
+        b: 1120538409
+        c: -1175517019
+        d: 166281612
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5020
+  ConstructibleTraits: 
+--- !u!114 &-1257653344092733848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family03_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family03_02Title'
+  Description: '%ConstructibleInfrastructure_Science_Family03_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -984342874
+        b: 1173185125
+        c: 2091376546
+        d: -1181024863
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1148013727
+        b: 1220122588
+        c: -1022607177
+        d: 1414992264
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5038
+  ConstructibleTraits: 
+--- !u!114 &-1241608042225568793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family05_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family05_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family05_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -16585797
+        b: 1293011636
+        c: 67600785
+        d: 392076217
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 740847092
+        b: 1249753589
+        c: -1339170679
+        d: -652295943
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5034
+  ConstructibleTraits: 
+--- !u!114 &-1027921720753687705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_Food_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1258286519
+        b: 1187970430
+        c: 1978520451
+        d: -132750462
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 723778693
+        b: 1161729000
+        c: 1691887280
+        d: 2146294841
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5001
+  ConstructibleTraits: 
+--- !u!114 &-994055273697416984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family06_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family06_01Title'
+  Description: '%ConstructibleInfrastructure_Military_Family06_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1678592618
+        b: 1306469691
+        c: 1119553702
+        d: -181149501
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 195362956
+        b: 1132316065
+        c: -1018899295
+        d: -348819010
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5022
+  ConstructibleTraits: 
+--- !u!114 &-818856910090684547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family06_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family06_02Title'
+  Description: '%ConstructibleInfrastructure_Money_Family06_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -923193129
+        b: 1306655371
+        c: 2082774406
+        d: -957896904
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1655863589
+        b: 1301887098
+        c: -293653605
+        d: -375516381
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5029
+  ConstructibleTraits: 
+--- !u!114 &-597623324711932523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 2062011243
+        b: 1262587194
+        c: -1464648563
+        d: 446340099
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1230884772
+        b: 1212393711
+        c: 1249850546
+        d: -995983354
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5031
+  ConstructibleTraits: 
+--- !u!114 &-560191706346350695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Harbour_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Harbour_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_Harbour_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1351934848
+        b: 1211563495
+        c: -770285931
+        d: -870730206
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1971464986
+        b: 1295420749
+        c: 679967386
+        d: 1645222768
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5005
+  ConstructibleTraits: 
+--- !u!114 &-466512952874499050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family07_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family07_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family07_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1544230355
+        b: 1189730270
+        c: 1530842524
+        d: 309787790
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1808550805
+        b: 1300450382
+        c: 158144662
+        d: 1184962295
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5014
+  ConstructibleTraits: 
+--- !u!114 &-397876336552422296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family03_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family03_01Title'
+  Description: '%ConstructibleInfrastructure_Food_Family03_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1062454511
+        b: 1158996486
+        c: -2047107398
+        d: -1754300418
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1391311810
+        b: 1222601914
+        c: -105753723
+        d: 94093675
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5003
+  ConstructibleTraits: 
+--- !u!114 &-295449686961124188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family06_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family06_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family06_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 96834905
+        b: 1300369527
+        c: 573912977
+        d: 948495833
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -171334037
+        b: 1130671104
+        c: -1850165575
+        d: 1955566542
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5035
+  ConstructibleTraits: 
+--- !u!114 &-282772006082788081
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Influence_Family00_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family00_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family00_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 282337511
+        b: 1171259721
+        c: -193321306
+        d: 1551423355
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 864935951
+        b: 1212100226
+        c: -671851600
+        d: -2051959525
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5007
+  ConstructibleTraits: 
+--- !u!114 &-251721567348827115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family05_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family05_01Title'
+  Description: '%ConstructibleInfrastructure_Military_Family05_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -540701537
+        b: 1287909195
+        c: 952230025
+        d: -711309103
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -897026787
+        b: 1155718732
+        c: -819635784
+        d: 1967369840
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5021
+  ConstructibleTraits: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: ConstructibleInfrastructureUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &193625103256512425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family05B_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family05B_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family05B_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1840066582
+        b: 1253636081
+        c: 340150192
+        d: -387489398
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1524652174
+        b: 1147021440
+        c: 2109022617
+        d: -500336324
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5034
+  ConstructibleTraits: 
+--- !u!114 &262114756176566834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family05_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family05_03Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family05_03Description'
+  Images:
+  - Value:
+      guid:
+        a: 536347547
+        b: 1138470551
+        c: -532564593
+        d: -1030000363
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1962437878
+        b: 1245657334
+        c: -1893216355
+        d: -1392309486
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5012
+  ConstructibleTraits: 
+--- !u!114 &532726115719469881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family01_04
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family01_04Title'
+  Description: '%ConstructibleInfrastructure_Military_Family01_04Description'
+  Images:
+  - Value:
+      guid:
+        a: -1597304336
+        b: 1244716163
+        c: -1395307589
+        d: -675568686
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1426137841
+        b: 1259636106
+        c: 1259538362
+        d: 924703657
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5017
+  ConstructibleTraits: 
+--- !u!114 &717910737293307768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1529906932
+        b: 1181531999
+        c: -82260338
+        d: -191065933
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2140122219
+        b: 1336869577
+        c: -816927302
+        d: 1658036638
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5009
+  ConstructibleTraits: 
+--- !u!114 &903410897323229284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family04_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family04_01Title'
+  Description: '%ConstructibleInfrastructure_Food_Family04_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1381219642
+        b: 1310662594
+        c: 1701939377
+        d: -560939766
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 638617517
+        b: 1237335976
+        c: -1595677811
+        d: 466686557
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5004
+  ConstructibleTraits: 
+--- !u!114 &1042877001671630080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family03_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family03_03Title'
+  Description: '%ConstructibleInfrastructure_Food_Family03_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1195005161
+        b: 1168503147
+        c: -2125141598
+        d: -1831918757
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -477010672
+        b: 1239596780
+        c: -645593190
+        d: 717691163
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5003
+  ConstructibleTraits: 
+--- !u!114 &1119183619906007164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_Military_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 689803249
+        b: 1235216361
+        c: -1960699719
+        d: 1941043109
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1869178096
+        b: 1248887666
+        c: -1909107807
+        d: -1661377968
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5017
+  ConstructibleTraits: 
+--- !u!114 &1145475996731033892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family04_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family04_01Title'
+  Description: '%ConstructibleInfrastructure_Military_Family04_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1290937889
+        b: 1173170259
+        c: -615451990
+        d: 1001839272
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1285435994
+        b: 1111106007
+        c: 1642038920
+        d: 1020930386
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5020
+  ConstructibleTraits: 
+--- !u!114 &1376916667722244686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family03_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family03_02Title'
+  Description: '%ConstructibleInfrastructure_Money_Family03_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -145841311
+        b: 1111070773
+        c: 1541080999
+        d: 437586409
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1677970610
+        b: 1086533974
+        c: -165429342
+        d: 170866529
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5026
+  ConstructibleTraits: 
+--- !u!114 &1479426792488310228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family03_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family03_02Title'
+  Description: '%ConstructibleInfrastructure_Food_Family03_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1320390898
+        b: 1256526946
+        c: 1268711556
+        d: 1063755851
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1906473778
+        b: 1080433254
+        c: -1056425288
+        d: 536773021
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5003
+  ConstructibleTraits: 
+--- !u!114 &1652355910500411891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_Military_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -276112233
+        b: 1221968889
+        c: 1975926201
+        d: -347928524
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 929371128
+        b: 1092768835
+        c: -973548370
+        d: -2024949214
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5018
+  ConstructibleTraits: 
+--- !u!114 &1671321192560858709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family03_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family03_01Title'
+  Description: '%ConstructibleInfrastructure_Science_Family03_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -959108722
+        b: 1208781604
+        c: 1742889350
+        d: -2081924008
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2024547732
+        b: 1168975955
+        c: 1309803654
+        d: 982546440
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5038
+  ConstructibleTraits: 
+--- !u!114 &2909372853354273157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family03_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family03_01Title'
+  Description: '%ConstructibleInfrastructure_Military_Family03_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1393944629
+        b: 1265570223
+        c: -767531102
+        d: -1405481504
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2113387845
+        b: 1274429888
+        c: 1276828319
+        d: 754756490
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5019
+  ConstructibleTraits: 
+--- !u!114 &3091907687396369741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family03_04
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family03_04Title'
+  Description: '%ConstructibleInfrastructure_Science_Family03_04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1169424989
+        b: 1135742042
+        c: -211174229
+        d: 422234052
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1996378342
+        b: 1280832676
+        c: -1681966682
+        d: -1510370759
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5038
+  ConstructibleTraits: 
+--- !u!114 &3320909555980247786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -900988502
+        b: 1261110558
+        c: 1093681812
+        d: 134096078
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -168000752
+        b: 1260932487
+        c: 997985971
+        d: -477805071
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5008
+  ConstructibleTraits: 
+--- !u!114 &3497415835875788415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family00_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family00_01Title'
+  Description: '%ConstructibleInfrastructure_Food_Family00_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -2044758776
+        b: 1074329302
+        c: -631633785
+        d: -80111172
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 604716518
+        b: 1132528908
+        c: 1833295795
+        d: -1351865550
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5000
+  ConstructibleTraits: 
+--- !u!114 &3623245413184457610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family00_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family00_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family00_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 104591982
+        b: 1293362965
+        c: -548447838
+        d: -1144919521
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -924827754
+        b: 1315559057
+        c: -619201388
+        d: -1123153504
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5023
+  ConstructibleTraits: 
+--- !u!114 &3640787858702596383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family05_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family05_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family05_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 465425772
+        b: 1087364892
+        c: 1899637424
+        d: 556059879
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 648149963
+        b: 1328034160
+        c: -417686630
+        d: -599796685
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5028
+  ConstructibleTraits: 
+--- !u!114 &3819919953802307360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family03_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family03_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family03_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1696100155
+        b: 1190570960
+        c: -1295838324
+        d: 1086549785
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1332350553
+        b: 1239301270
+        c: -1577360222
+        d: 1372024246
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5026
+  ConstructibleTraits: 
+--- !u!114 &4026132002244553294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Harbour_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Harbour_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_Harbour_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1916245022
+        b: 1195178609
+        c: -506491501
+        d: 909334469
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -398917501
+        b: 1279290520
+        c: 210935949
+        d: 1147694147
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5005
+  ConstructibleTraits: 
+--- !u!114 &4149398998643737391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_Military_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -339283122
+        b: 1220201813
+        c: -731967301
+        d: 1966886315
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1232709746
+        b: 1333172645
+        c: -1609419587
+        d: 1887439414
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5017
+  ConstructibleTraits: 
+--- !u!114 &4164425081819167819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Harbour_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Harbour_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_Harbour_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1067776628
+        b: 1256975467
+        c: -205877580
+        d: 1498711331
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -756797504
+        b: 1322067593
+        c: -153999447
+        d: -486510347
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5006
+  ConstructibleTraits: 
+--- !u!114 &4418104348279400130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family00_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family00_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family00_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 282337511
+        b: 1171259721
+        c: -193321306
+        d: 1551423355
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 864935951
+        b: 1212100226
+        c: -671851600
+        d: -2051959525
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5007
+  ConstructibleTraits: 
+--- !u!114 &5423292300880746100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_Science_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1640796529
+        b: 1253207008
+        c: -829357681
+        d: -274801355
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -937527506
+        b: 1197155326
+        c: 1447213728
+        d: -359963368
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5036
+  ConstructibleTraits: 
+--- !u!114 &5892807810591220442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family08_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family08_01Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family08_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 3088946
+        b: 1244792771
+        c: -2026379588
+        d: -151284098
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1540127824
+        b: 1089030152
+        c: 1736459656
+        d: 1746603738
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5015
+  ConstructibleTraits: 
+--- !u!114 &5916590825851506042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family03_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family03_02Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family03_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1105833540
+        b: 1279417121
+        c: 18793609
+        d: 800551517
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1299633205
+        b: 1101850926
+        c: 1256477074
+        d: -1962853288
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5010
+  ConstructibleTraits: 
+--- !u!114 &5917257419157945384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family05_04
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family05_04Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family05_04Description'
+  Images:
+  - Value:
+      guid:
+        a: 1022746822
+        b: 1199077452
+        c: 1847828895
+        d: 1126751045
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 960357898
+        b: 1229917780
+        c: 176555649
+        d: -231985868
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5012
+  ConstructibleTraits: 
+--- !u!114 &6447354076364295979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family01_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family01_03Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family01_03Description'
+  Images:
+  - Value:
+      guid:
+        a: 868107762
+        b: 1314682839
+        c: -1717064318
+        d: 895274353
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 917289339
+        b: 1160161820
+        c: -1302194013
+        d: 585214787
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5008
+  ConstructibleTraits: 
+--- !u!114 &6611169812060226198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1323619736
+        b: 1244699654
+        c: 1511699077
+        d: -2025501563
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 540221269
+        b: 1323561771
+        c: -87062358
+        d: 2147136112
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5030
+  ConstructibleTraits: 
+--- !u!114 &7388859851292647507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family01_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family01_02Title'
+  Description: '%ConstructibleInfrastructure_Money_Family01_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -2138912581
+        b: 1301199869
+        c: -1588513139
+        d: -48846402
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -2101810263
+        b: 1301594153
+        c: -668614521
+        d: -198473103
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5024
+  ConstructibleTraits: 
+--- !u!114 &7433654828918985183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Military_Family01_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Military_Family01_03Title'
+  Description: '%ConstructibleInfrastructure_Military_Family01_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -326409546
+        b: 1297533933
+        c: -1301180507
+        d: 502736071
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 28213265
+        b: 1321162028
+        c: 2045068220
+        d: 939101862
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5017
+  ConstructibleTraits: 
+--- !u!114 &7555273589026446433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Food_Family04_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Food_Family04_02Title'
+  Description: '%ConstructibleInfrastructure_Food_Family04_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -1312443437
+        b: 1163125970
+        c: -425770863
+        d: 1141337185
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1465377485
+        b: 1096556748
+        c: 362307996
+        d: -1160101951
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5004
+  ConstructibleTraits: 
+--- !u!114 &7768418662580221676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Industry_Family05_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Industry_Family05_02Title'
+  Description: '%ConstructibleInfrastructure_Industry_Family05_02Description'
+  Images:
+  - Value:
+      guid:
+        a: 1932402130
+        b: 1330202188
+        c: -1584979015
+        d: -197611694
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -771148527
+        b: 1102013319
+        c: 954089111
+        d: 985209754
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5012
+  ConstructibleTraits: 
+--- !u!114 &7831247050471216935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family02_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family02_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family02_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1461881088
+        b: 1311214861
+        c: -1003164283
+        d: -675829729
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1762709518
+        b: 1192907748
+        c: 1843540157
+        d: 1828963397
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5025
+  ConstructibleTraits: 
+--- !u!114 &7933072722518661236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family01_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family01_01Title'
+  Description: '%ConstructibleInfrastructure_Science_Family01_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -490050152
+        b: 1307905932
+        c: 1388839093
+        d: 1996731586
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1045173459
+        b: 1157983837
+        c: 180532132
+        d: -1391004363
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5036
+  ConstructibleTraits: 
+--- !u!114 &7959801541180414876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Money_Family06_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Money_Family06_01Title'
+  Description: '%ConstructibleInfrastructure_Money_Family06_01Description'
+  Images:
+  - Value:
+      guid:
+        a: -1307177866
+        b: 1259247975
+        c: -1006005591
+        d: -1778440808
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 754346355
+        b: 1220680154
+        c: -206571586
+        d: -990816626
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5029
+  ConstructibleTraits: 
+--- !u!114 &8266494656464333802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family02_02
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family02_02Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family02_02Description'
+  Images:
+  - Value:
+      guid:
+        a: -451155790
+        b: 1097749866
+        c: 84996491
+        d: 1262721153
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 2070186888
+        b: 1178242255
+        c: 416357778
+        d: -823119836
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5031
+  ConstructibleTraits: 
+--- !u!114 &8605774117970493536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_PublicOrder_Family03_01
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_PublicOrder_Family03_01Title'
+  Description: '%ConstructibleInfrastructure_PublicOrder_Family03_01Description'
+  Images:
+  - Value:
+      guid:
+        a: 1220884224
+        b: 1093587769
+        c: -122365791
+        d: 239199614
+    serializableKey: Small
+  - Value:
+      guid:
+        a: -1486456478
+        b: 1278574744
+        c: -223875929
+        d: -1821769751
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5032
+  ConstructibleTraits: 
+--- !u!114 &8617870512075476017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717291864, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: Infrastructure_Science_Family01_03
+  m_EditorClassIdentifier: 
+  Title: '%ConstructibleInfrastructure_Science_Family01_03Title'
+  Description: '%ConstructibleInfrastructure_Science_Family01_03Description'
+  Images:
+  - Value:
+      guid:
+        a: -1591991698
+        b: 1290826016
+        c: -877687642
+        d: -1068417074
+    serializableKey: Small
+  - Value:
+      guid:
+        a: 1618510942
+        b: 1092966728
+        c: -1846343748
+        d: 1737284544
+    serializableKey: Tooltip
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  SortPriority: 5036
+  ConstructibleTraits: 

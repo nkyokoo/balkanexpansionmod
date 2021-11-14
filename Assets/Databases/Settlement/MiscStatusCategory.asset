@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4040779256594368563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 465822397, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: StatusCategory_Settlement_Victorious
+  m_EditorClassIdentifier: 
+  StatusCategoryPriority: 0
+  Hidden: 0
+  ShouldBeShownInBattleUI: 0
+  BattlePriority: 0
+  CityBaseLayerAudioEvent:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  CityMutedAudioLayers: 0
+--- !u!114 &-3977145360478690621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 465822397, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: StatusCategory_Settlement_Banished
+  m_EditorClassIdentifier: 
+  StatusCategoryPriority: 0
+  Hidden: 0
+  ShouldBeShownInBattleUI: 0
+  BattlePriority: 0
+  CityBaseLayerAudioEvent:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  CityMutedAudioLayers: 0
+--- !u!114 &-1607444754798635147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 465822397, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: StatusCategory_Settlement_Procession
+  m_EditorClassIdentifier: 
+  StatusCategoryPriority: 0
+  Hidden: 0
+  ShouldBeShownInBattleUI: 0
+  BattlePriority: 0
+  CityBaseLayerAudioEvent:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  CityMutedAudioLayers: 0
+--- !u!114 &-974386577426055461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 465822397, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: StatusCategory_Territory
+  m_EditorClassIdentifier: 
+  StatusCategoryPriority: 0
+  Hidden: 0
+  ShouldBeShownInBattleUI: 0
+  BattlePriority: 0
+  CityBaseLayerAudioEvent:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  CityMutedAudioLayers: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 99269101, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: MiscStatusCategory
+  m_EditorClassIdentifier: 
+--- !u!114 &2265598179992265841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 465822397, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: StatusCategory_Settlement_Inquisition
+  m_EditorClassIdentifier: 
+  StatusCategoryPriority: 0
+  Hidden: 0
+  ShouldBeShownInBattleUI: 0
+  BattlePriority: 0
+  CityBaseLayerAudioEvent:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  CityMutedAudioLayers: 0
+--- !u!114 &5831191444424428517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 465822397, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: StatusCategory_Ransacked
+  m_EditorClassIdentifier: 
+  StatusCategoryPriority: 0
+  Hidden: 0
+  ShouldBeShownInBattleUI: 0
+  BattlePriority: 0
+  CityBaseLayerAudioEvent:
+    guid:
+      a: 0
+      b: 0
+      c: 0
+      d: 0
+  CityMutedAudioLayers: 0

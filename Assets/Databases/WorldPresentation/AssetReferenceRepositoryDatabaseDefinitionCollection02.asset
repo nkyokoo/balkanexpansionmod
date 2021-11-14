@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-775028696432537785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: SinergyPerIntensity
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: -1
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 654959574
+    b: 1339926825
+    c: 2048436627
+    d: 2031062460
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 4
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -535344577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AssetReferenceRepositoryDatabaseDefinitionCollection02
+  m_EditorClassIdentifier: 
+--- !u!114 &163636639811314032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: NumericFims
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: -1
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 2029981182
+    b: 1152466957
+    c: 93927094
+    d: -357784680
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 20
+--- !u!114 &1628953252863230428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IconicConstructibleType
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 13
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 98536002
+    b: 1133348115
+    c: 1318187654
+    d: -1665440852
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10
+--- !u!114 &8416542344392197949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: IconFims
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 26
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 966820440
+    b: 1248048956
+    c: -1383660371
+    d: -1656470795
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10

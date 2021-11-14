@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -535344577, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: AssetReferenceDatabaseDefinition_AdditionalLayers
+  m_EditorClassIdentifier: 
+--- !u!114 &391883715486687364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: '*/District/DistrictAdditionalLayer'
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 1
+  Dimension: 0
+  FirstCriteria: 0
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10
+--- !u!114 &3134755786496420611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1199596809, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DistrictAdditionalLayer_BuildEvent
+  m_EditorClassIdentifier: 
+  ContentTypeName: Amplitude.Graphics.Fx.FxEvolverMaterial
+  RequestType: 0
+  Dimension: 1
+  FirstCriteria: 13
+  SecondCriteria: 1
+  LevelBuildSelector:
+    a: -401699608
+    b: 1168330451
+    c: 880728980
+    d: -1761228014
+  GroundMaterialDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  HexagonSculptingDefinitionReference:
+    a: 0
+    b: 0
+    c: 0
+    d: 0
+  MinRange: 0
+  MaxRange: 10

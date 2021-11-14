@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5533604428335242195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -188420390, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticTreatyTypeEndWar
+  m_EditorClassIdentifier: 
+  Title: '%DiplomaticTreatyTypeEndWarTitle'
+  Description: '%DiplomaticTreatyTypeEndWarDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  InstructionProposedByYou: '%DiplomaticTreatyTypeEndWarProposedByYouInstruction'
+  InstructionProposedByThem: '%DiplomaticTreatyTypeEndWarProposedByThemInstruction'
+  InstructionCounteredByYou: '%DiplomaticTreatyTypeEndWarCounteredByYouInstruction'
+  InstructionCounteredByThem: '%DiplomaticTreatyTypeEndWarCounteredByThemInstruction'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+  m_Name: DiplomaticTreatyTypeUIMappers
+  m_EditorClassIdentifier: 
+--- !u!114 &2582173023049353384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -188420390, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticTreatyTypeAlliance
+  m_EditorClassIdentifier: 
+  Title: '%DiplomaticTreatyTypeAllianceTitle'
+  Description: '%DiplomaticTreatyTypeAllianceDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  InstructionProposedByYou: '%DiplomaticTreatyTypeAllianceProposedByYouInstruction'
+  InstructionProposedByThem: '%DiplomaticTreatyTypeAllianceProposedByThemInstruction'
+  InstructionCounteredByYou: '%DiplomaticTreatyTypeAllianceCounteredByYouInstruction'
+  InstructionCounteredByThem: '%DiplomaticTreatyTypeAllianceCounteredByThemInstruction'
+--- !u!114 &4049682807412450027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -188420390, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+  m_Name: DiplomaticTreatyTypeEndCrisis
+  m_EditorClassIdentifier: 
+  Title: '%DiplomaticTreatyTypeEndCrisisTitle'
+  Description: '%DiplomaticTreatyTypeEndCrisisDescription'
+  Images: []
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Symbol: 
+  InstructionProposedByYou: '%DiplomaticTreatyTypeEndCrisisProposedByYouInstruction'
+  InstructionProposedByThem: '%DiplomaticTreatyTypeEndCrisisProposedByThemInstruction'
+  InstructionCounteredByYou: '%DiplomaticTreatyTypeEndCrisisCounteredByYouInstruction'
+  InstructionCounteredByThem: '%DiplomaticTreatyTypeEndCrisisCounteredByThemInstruction'
