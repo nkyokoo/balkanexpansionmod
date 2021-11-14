@@ -6,7 +6,7 @@
 Era 2:
 
 * Illyrian
-  * Searfaring culture. Naval bonuses
+  * Seafaring culture. Naval bonuses
 * Macedon
   * Warrior culture. Military and war bonuses
 
