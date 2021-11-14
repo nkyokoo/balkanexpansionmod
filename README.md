@@ -1,4 +1,4 @@
-# Balkan expansion mod
+# Balkan expansion mod for Humankind
 
 
 **Cultures**:
