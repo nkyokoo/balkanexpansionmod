@@ -21,8 +21,8 @@ MonoBehaviour:
       value: 0
       isDirty: 0
     name:
-      value: 
-      isDirty: 0
+      value: balkanexpansionmod
+      isDirty: 1
     nameId:
       value: 
       isDirty: 0
@@ -43,7 +43,9 @@ MonoBehaviour:
       value: 
       isDirty: 0
     metadataKVPs:
-      value: []
+      value:
+      - key: RuntimeModuleGUID
+        value: b3691e2353ce4cea8f92cc071bd321e2
       isDirty: 0
     logoLocator:
       value:

@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 231511856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 705f893cb0e09a4db279823d96b3d42c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eaf96d8d3ccb0040bd678923e8bf1b42
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1930022211, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: 255596104, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -11555827, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -998237315, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: 140474721, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -457851255, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -2122520293, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -203084690, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 411102237, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -1010444951, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 1429313644, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 130328062, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 763423559, guid: 722acb04e362a9243a944ac3117daa73, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.FixedPoint
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Asset.AssetDescriptor
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Asset.Texture2DReference
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.DatatableElementReference
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Guid
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Simulation.Description.Effect
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Simulation.Description.Path
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Simulation.Description.PropertyEffect
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Simulation.Description.Validation
+- AssemblyName: Amplitude.Framework
+  ClassName: Amplitude.Framework.Version
+- AssemblyName: Amplitude.Mercury.Data
+  ClassName: Amplitude.Mercury.Data.Simulation.BuildingVisualAffinityPerEra
+- AssemblyName: Amplitude.Mercury.Data
+  ClassName: Amplitude.Mercury.Data.Simulation.FactionTrait/Command
+- AssemblyName: Amplitude.Mercury.Data
+  ClassName: Amplitude.Mercury.Data.Simulation.Prerequisites.DownloadableContentPrerequisite
+- AssemblyName: Amplitude.Mercury.Data
+  ClassName: Amplitude.Mercury.Data.Simulation.UnitVisualAffinityPerEra
+- AssemblyName: Amplitude.UI
+  ClassName: Amplitude.UI.UIMapper/Image
+- AssemblyName: Amplitude.UI
+  ClassName: Amplitude.UI.UITexture
+- AssemblyName: Sirenix.Serialization
+  ClassName: Sirenix.Serialization.SerializationData
+Assets:
+- Assets/Databases/Civilizations/CivilizationUIMappers.asset
+- Assets/Databases/Civilizations/LegacyTraitDescriptor.asset
+- Assets/Databases/Civilizations/LegacyTrait.asset
+- Assets/Manifests/balkanexpansionmod.Manifest.asset
+- Assets/Runtime/balkanexpansionmod.b3691e2353ce4cea8f92cc071bd321e2.0.15.asset
+- Assets/AssetBundleContentDescriptor.asset
+- Assets/Databases/Localization/Amplitude.Mercury.Languages.asset
+- Assets/Resources/illyrialogo.png
+- Assets/Databases/Civilizations/CivilizationDefinition.asset
+Dependencies: []

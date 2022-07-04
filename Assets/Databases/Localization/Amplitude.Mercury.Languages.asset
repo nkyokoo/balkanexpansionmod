@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7219896050416850217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: zh-TW
+  m_EditorClassIdentifier: 
+  LanguageCode: zh-TW
+  CultureInfoCode: zh-TW
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &-5116980021511045281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: ru-RU
+  m_EditorClassIdentifier: 
+  LanguageCode: ru-RU
+  CultureInfoCode: ru-RU
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &-3630477865987774772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: pl-PL
+  m_EditorClassIdentifier: 
+  LanguageCode: pl-PL
+  CultureInfoCode: pl-PL
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &-1439118790190060689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: tr-TR
+  m_EditorClassIdentifier: 
+  LanguageCode: tr-TR
+  CultureInfoCode: tr-TR
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &-1127946403985312975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: de-DE
+  m_EditorClassIdentifier: 
+  LanguageCode: de-DE
+  CultureInfoCode: de-DE
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &-29739385371073636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: pt-BR
+  m_EditorClassIdentifier: 
+  LanguageCode: pt-BR
+  CultureInfoCode: pt-BR
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1429313644, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: Amplitude.Mercury.Languages
+  m_EditorClassIdentifier: 
+--- !u!114 &2802444409843460651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: es-ES
+  m_EditorClassIdentifier: 
+  LanguageCode: es-ES
+  CultureInfoCode: es-ES
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &3742152955886714500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: fr-FR
+  m_EditorClassIdentifier: 
+  LanguageCode: fr-FR
+  CultureInfoCode: fr-FR
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &5631121247363460148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: zh-CN
+  m_EditorClassIdentifier: 
+  LanguageCode: zh-CN
+  CultureInfoCode: zh-CN
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &5967802912840574087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: ko-KR
+  m_EditorClassIdentifier: 
+  LanguageCode: ko-KR
+  CultureInfoCode: ko-KR
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
+--- !u!114 &6281785827386704277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: en-US
+  m_EditorClassIdentifier: 
+  LanguageCode: en-US
+  CultureInfoCode: en-US
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine, neutral}  {TagAffixes: vowel,
+    no_article}'
+--- !u!114 &7927778218319056157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -981318471, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+  m_Name: it-IT
+  m_EditorClassIdentifier: 
+  LanguageCode: it-IT
+  CultureInfoCode: it-IT
+  Tags:
+  - '{TagName: plurality}  {TagValues: single|1, plural|2}'
+  - '{TagName: gender}  {TagValues: feminine, masculine}  {TagAffixes: vowel, no_article}'
